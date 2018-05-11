@@ -23,8 +23,15 @@ clean_data() {
 }
 
 # Main body of script starts here
+  # Make directory to contain pulled data files
+  if ! [ -e pulled_data ]
+    then
+    mkdir pulled_data
+  fi
   pull_data
   clean_data
-  
+
   # Aggregate compilation of data in the order of TEXT_FILE_NAMES
-  paste -d "," *.txt > aggregate.txt
+  paste -d "," *.txt > "pulled_data/aggregate.txt"
+  mv *.txt pulled_data
+  mv *.json pulled_data
