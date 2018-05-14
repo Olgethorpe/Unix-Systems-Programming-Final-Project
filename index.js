@@ -4,11 +4,11 @@ let sleep = require('sleep');
 var Table = require('cli-table');
 var colors = require('colors');
 
-let headers = ['Ticker', 'High', 'BaseVolume', 'Ask', 'Bid', 'Last',]
+let headers = ['Ticker', 'OpenBuyOrders', 'OpenSellOrders', 'Ask', 'Bid', 'Last',]
 
 let table = new Table({
 	head: headers,
-	colWidths: headers.map(function(a) {return 25;})
+	colWidths: headers.map(function(a) {return 30;})
 });
 
 let counter = 0;
@@ -22,8 +22,7 @@ function main() {
 	});
 	lr.on('line', function(line) {
 		line = line.split(',');
-		let change = -1;
-		if (counter++ < 30){
+		if (counter++ < 20){
 			//console.log("line:\n" + line[6]);
 			let changed = false;
 			table.push(line);
@@ -32,11 +31,10 @@ function main() {
 	});
 	lr.on('end', function() {
 		// call chart callback
-		console.log("\n\n\n\n\n\n\n\n\n\n")
+		console.log('\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n')
 		console.log(table.toString());
-		lr.close();
+		//lr.close();
 
 	});
 }
 main();
-setInterval(main, 3000);

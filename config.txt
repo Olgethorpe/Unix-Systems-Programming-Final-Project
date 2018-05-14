@@ -1,5 +1,5 @@
-High
-BaseVolume
+OpenBuyOrders
+OpenSellOrders
 Ask
 Bid
 Last

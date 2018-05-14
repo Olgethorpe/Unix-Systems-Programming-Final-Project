@@ -36,5 +36,6 @@ clean_data() {
       clean_data
       paste -d "," ./pulled_data/*.txt > "aggregate.txt"
       ./getHighLow.sh Last 30 H
+      node index.js
       sleep 1
     done
