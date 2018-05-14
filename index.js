@@ -1,47 +1,48 @@
-var histogram = require('ascii-histogram');
 var LineByLineReader = require('line-by-line');
-var lr = new LineByLineReader('nodedata.txt');
+let sleep = require('sleep');
 
+var Table = require('cli-table');
+var colors = require('colors');
 
-//var data = {
-//	USDT-BTC: 8640,
-//	USDT-DASH: 400.5
-//};
+let headers = ['Ask', 'BaseVolume', 'Bid', 'High', 'Last', 'Low', 'MarketName', 'OpenBuyOrders', 'OpenSellOrders', 'Volume']
 
-var chartdata = {};
-var first = true;
-//console.log(histogram(data, {width: 15}));
-
-lr.on('error', function(err) {
-	console.log(err);
+let table = new Table({
+	head: headers,
+	colWidths: headers.map(function(a) {return 11;})
 });
-lr.on('line', function(line) {
-	if (first) {
-		first = false;
-		return;
-	}
-	else {
-		line = line.split(' ');
-		if (line[1].indexOf('e') != -1) {
-			line[1] = Number(line[1]);
-			//return;
+
+let counter = 0;
+
+function main() {
+	var lr = new LineByLineReader('aggregate.txt');
+	//console.log('started main');
+
+	lr.on('error', function(err) {
+		console.log(err);
+	});
+	lr.on('line', function(line) {
+		line = line.split(',');
+		let change = -1;
+		if (counter++ < 5){
+			//console.log("line:\n" + line[6]);
+			let changed = false;
+			table.forEach(function(a) {
+				if (!changed && a && a.includes(line[7])) {
+					line[7] = line[7].blue;
+					changed = true;
+				}
+			});
+			table.push(line);
 		}
-		chartdata[line[0]] = line[1];
-	}
-});
-lr.on('end', function() {
-	// call chart callback
-	// console.log('ended. chartdata object:\n' + JSON.stringify(chartdata));
-	console.log(histogram(chartdata, {width: 45}));
-});
 
-/*
-var asciichart = require('asciichart');
+	});
+	lr.on('end', function() {
+		// call chart callback
+		console.log("\n\n\n\n\n\n\n\n\n\n")
+		console.log(table.toString());
+		lr.close();
 
-var s0 = new Array(120);
-
-for (var i = 0; i < s0.length; i++) {
-	s0[i] = 15 * Math.sin (i * ((Math.PI * 4) / s0.length));
+	});
 }
-console.log(asciichart.plot(s0));
-*/
+main();
+setInterval(main, 3000);

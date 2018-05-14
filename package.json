@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/Olgethorpe/Unix-Systems-Programming-Final-Project/issues"
   },
-  "homepage": "https://github.com/Olgethorpe/Unix-Systems-Programming-Final-Project#readme"
+  "homepage": "https://github.com/Olgethorpe/Unix-Systems-Programming-Final-Project#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "colors": "^1.2.5",
+    "line-by-line": "^0.1.6",
+    "sleep": "^5.1.1"
+  }
 }
