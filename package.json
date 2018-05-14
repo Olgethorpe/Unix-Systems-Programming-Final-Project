@@ -1,0 +1,20 @@
+{
+  "name": "unixsysfinal",
+  "version": "1.0.0",
+  "description": "Fordham Spring 2018 Unix Systems Programming CISC 3130 R01: Crypto-Kiosk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sh getHighLow.sh Ask 20 H; node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olgethorpe/Unix-Systems-Programming-Final-Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Olgethorpe/Unix-Systems-Programming-Final-Project/issues"
+  },
+  "homepage": "https://github.com/Olgethorpe/Unix-Systems-Programming-Final-Project#readme"
+}

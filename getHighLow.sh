@@ -17,6 +17,7 @@ cat -n ./pulled_data/$paramToSort.txt | sort --key=2 -n -$sequence  | sed -e's/\
 #   echo $lineNUm
 # done
 
+echo "" > nodedata.txt
 
 while read line; do
     tickerNum=$( echo "$line" |cut -d\: -f1 )    
@@ -27,5 +28,6 @@ while read line; do
 #    sedInstruction = $ticker+
     tickerName=`sed "${tickerNum}q;d" ./pulled_data/MarketName.txt`
     echo "$tickerName $amount"
+    echo "$tickerName $amount" >> nodedata.txt
 done <highLowTemp.txt
 
