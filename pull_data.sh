@@ -17,7 +17,7 @@ clean_data() {
     do
       for value in $(jq ".[].${TEXT_FILE_NAMES[$i]}" ${JSON_FILE_NAMES[0]}.json)
         do
-          echo ${value//\"/} >> "${TEXT_FILE_NAMES[$i]}.txt"
+          echo ${value//\"/} >> "pulled_data/${TEXT_FILE_NAMES[$i]}.txt"
         done
     done
 }
@@ -28,10 +28,12 @@ clean_data() {
     then
     mkdir pulled_data
   fi
-  pull_data
-  clean_data
 
-  # Aggregate compilation of data in the order of TEXT_FILE_NAMES
-  paste -d "," *.txt > "pulled_data/aggregate.txt"
-  mv *.txt pulled_data
-  mv *.json pulled_data
+  while true
+    do
+      echo yes
+      pull_data
+      clean_data
+      paste -d "," ./pulled_data/*.txt > "aggregate.txt"
+      sleep 1
+    done

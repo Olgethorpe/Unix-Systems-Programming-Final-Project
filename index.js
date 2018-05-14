@@ -24,7 +24,7 @@ lr.on('line', function(line) {
 		line = line.split(' ');
 		if (line[1].indexOf('e') != -1) {
 			line[1] = Number(line[1]);
-			//return; 
+			//return;
 		}
 		chartdata[line[0]] = line[1];
 	}
