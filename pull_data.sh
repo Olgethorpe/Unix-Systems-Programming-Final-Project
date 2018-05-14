@@ -31,7 +31,6 @@ clean_data() {
 
   while true
     do
-      echo yes
       pull_data
       clean_data
       paste -d "," ./pulled_data/*.txt > "aggregate.txt"
