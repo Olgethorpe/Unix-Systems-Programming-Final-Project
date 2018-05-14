@@ -1,0 +1,5 @@
+High
+BaseVolume
+Ask
+Bid
+Last
