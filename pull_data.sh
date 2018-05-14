@@ -35,5 +35,6 @@ clean_data() {
       pull_data
       clean_data
       paste -d "," ./pulled_data/*.txt > "aggregate.txt"
-      sleep 10
+      ./getHighLow.sh Last 30 H
+      sleep 1
     done

@@ -4,17 +4,17 @@ let sleep = require('sleep');
 var Table = require('cli-table');
 var colors = require('colors');
 
-let headers = ['Ask', 'BaseVolume', 'Bid', 'High', 'Last', 'Low', 'MarketName', 'OpenBuyOrders', 'OpenSellOrders', 'Volume']
+let headers = ['Ticker', 'High', 'BaseVolume', 'Ask', 'Bid', 'Last',]
 
 let table = new Table({
 	head: headers,
-	colWidths: headers.map(function(a) {return 11;})
+	colWidths: headers.map(function(a) {return 25;})
 });
 
 let counter = 0;
 
 function main() {
-	var lr = new LineByLineReader('aggregate.txt');
+	var lr = new LineByLineReader('nodeData.txt');
 	//console.log('started main');
 
 	lr.on('error', function(err) {
@@ -23,15 +23,9 @@ function main() {
 	lr.on('line', function(line) {
 		line = line.split(',');
 		let change = -1;
-		if (counter++ < 5){
+		if (counter++ < 30){
 			//console.log("line:\n" + line[6]);
 			let changed = false;
-			table.forEach(function(a) {
-				if (!changed && a && a.includes(line[7])) {
-					line[7] = line[7].blue;
-					changed = true;
-				}
-			});
 			table.push(line);
 		}
 

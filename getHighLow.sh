@@ -78,8 +78,8 @@ while read line; do
     i=$((i+1))
 
 done <config.txt
-sort -n$sequence -k$key ./aggregate.txt > sortTemp.txt
-head -$numberToSort sortTemp.txt | awk -v x_0=${ARRAY[0]} -v x_1=${ARRAY[1]} -v x_2=${ARRAY[2]} -v x_3=${ARRAY[3]} -v x_4=${ARRAY[4]} -F, '{print $7","$x_0","$x_1","$x_2","$x_3","$x_4}'
+sort -g$sequence -t',' -k$key ./aggregate.txt > sortTemp.txt
+head -$numberToSort sortTemp.txt | awk -v x_0=${ARRAY[0]} -v x_1=${ARRAY[1]} -v x_2=${ARRAY[2]} -v x_3=${ARRAY[3]} -v x_4=${ARRAY[4]} -F, '{print $7","$x_0","$x_1","$x_2","$x_3","$x_4}' > nodeData.txt
 
 
 #cat -n ./pulled_data/$paramToSort.txt | sort --key=2 -n -$sequence  | sed -e's/\t/:/' |sed -e 's/\s\+//g'| head -$nuberToSort > highLowTemp.txt
