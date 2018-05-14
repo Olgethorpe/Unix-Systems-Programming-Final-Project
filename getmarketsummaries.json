@@ -1,6 +1,7 @@
 [
   {
     "MarketName": "BTC-2GIVE",
+<<<<<<< HEAD
     "High": 8.9e-07,
     "Low": 8.5e-07,
     "Volume": 2964089.08450647,
@@ -11,11 +12,24 @@
     "Ask": 8.9e-07,
     "OpenBuyOrders": 95,
     "OpenSellOrders": 1306,
+=======
+    "High": 1.2e-06,
+    "Low": 8.6e-07,
+    "Volume": 15225962.33347854,
+    "Last": 1.11e-06,
+    "BaseVolume": 16.25044875,
+    "TimeStamp": "2018-05-14T16:37:56.333",
+    "Bid": 1.06e-06,
+    "Ask": 1.1e-06,
+    "OpenBuyOrders": 137,
+    "OpenSellOrders": 1086,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "PrevDay": 8.8e-07,
     "Created": "2016-05-16T06:44:15.287"
   },
   {
     "MarketName": "BTC-ABY",
+<<<<<<< HEAD
     "High": 1.02e-06,
     "Low": 9.3e-07,
     "Volume": 4129597.35889836,
@@ -27,10 +41,24 @@
     "OpenBuyOrders": 168,
     "OpenSellOrders": 2412,
     "PrevDay": 1.02e-06,
+=======
+    "High": 9.9e-07,
+    "Low": 9.3e-07,
+    "Volume": 2353151.59833887,
+    "Last": 9.6e-07,
+    "BaseVolume": 2.2477893,
+    "TimeStamp": "2018-05-14T16:37:47",
+    "Bid": 9.5e-07,
+    "Ask": 9.6e-07,
+    "OpenBuyOrders": 153,
+    "OpenSellOrders": 2377,
+    "PrevDay": 9.5e-07,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2014-10-31T01:43:25.743"
   },
   {
     "MarketName": "BTC-ADA",
+<<<<<<< HEAD
     "High": 3.368e-05,
     "Low": 2.902e-05,
     "Volume": 58668871.39112683,
@@ -42,10 +70,24 @@
     "OpenBuyOrders": 3298,
     "OpenSellOrders": 17189,
     "PrevDay": 3.356e-05,
+=======
+    "High": 3.26e-05,
+    "Low": 3.021e-05,
+    "Volume": 23703257.57667894,
+    "Last": 3.096e-05,
+    "BaseVolume": 742.78866622,
+    "TimeStamp": "2018-05-14T16:37:56.66",
+    "Bid": 3.092e-05,
+    "Ask": 3.096e-05,
+    "OpenBuyOrders": 3107,
+    "OpenSellOrders": 17479,
+    "PrevDay": 3.246e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-09-29T07:01:58.873"
   },
   {
     "MarketName": "BTC-ADT",
+<<<<<<< HEAD
     "High": 5.73e-06,
     "Low": 4.33e-06,
     "Volume": 12369782.16420409,
@@ -57,10 +99,24 @@
     "OpenBuyOrders": 184,
     "OpenSellOrders": 2902,
     "PrevDay": 5.58e-06,
+=======
+    "High": 5.35e-06,
+    "Low": 4.72e-06,
+    "Volume": 5908195.03015059,
+    "Last": 5.21e-06,
+    "BaseVolume": 30.09377505,
+    "TimeStamp": "2018-05-14T16:37:16.887",
+    "Bid": 5.21e-06,
+    "Ask": 5.22e-06,
+    "OpenBuyOrders": 207,
+    "OpenSellOrders": 2962,
+    "PrevDay": 5.05e-06,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-07-03T21:08:06.11"
   },
   {
     "MarketName": "BTC-ADX",
+<<<<<<< HEAD
     "High": 0.00010197,
     "Low": 8.65e-05,
     "Volume": 625974.8599872,
@@ -72,10 +128,24 @@
     "OpenBuyOrders": 183,
     "OpenSellOrders": 4872,
     "PrevDay": 0.00010001,
+=======
+    "High": 0.00010301,
+    "Low": 9.171e-05,
+    "Volume": 944782.747504,
+    "Last": 9.9e-05,
+    "BaseVolume": 90.43803784,
+    "TimeStamp": "2018-05-14T16:37:56.41",
+    "Bid": 9.9e-05,
+    "Ask": 9.989e-05,
+    "OpenBuyOrders": 263,
+    "OpenSellOrders": 4997,
+    "PrevDay": 9.431e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-07-11T22:42:17.78"
   },
   {
     "MarketName": "BTC-AEON",
+<<<<<<< HEAD
     "High": 0.0002398,
     "Low": 0.000198,
     "Volume": 109299.33484715,
@@ -87,10 +157,24 @@
     "OpenBuyOrders": 195,
     "OpenSellOrders": 1907,
     "PrevDay": 0.00022395,
+=======
+    "High": 0.00021898,
+    "Low": 0.00020362,
+    "Volume": 35525.86801622,
+    "Last": 0.00021271,
+    "BaseVolume": 7.53049464,
+    "TimeStamp": "2018-05-14T16:37:52.85",
+    "Bid": 0.00021276,
+    "Ask": 0.00021838,
+    "OpenBuyOrders": 215,
+    "OpenSellOrders": 1773,
+    "PrevDay": 0.00021708,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2015-07-31T00:50:47.11"
   },
   {
     "MarketName": "BTC-AMP",
+<<<<<<< HEAD
     "High": 3.08e-05,
     "Low": 2.485e-05,
     "Volume": 1434809.71958516,
@@ -102,10 +186,24 @@
     "OpenBuyOrders": 188,
     "OpenSellOrders": 5006,
     "PrevDay": 2.838e-05,
+=======
+    "High": 2.95e-05,
+    "Low": 2.781e-05,
+    "Volume": 290468.55995933,
+    "Last": 2.856e-05,
+    "BaseVolume": 8.28807611,
+    "TimeStamp": "2018-05-14T16:37:51.253",
+    "Bid": 2.856e-05,
+    "Ask": 2.9e-05,
+    "OpenBuyOrders": 209,
+    "OpenSellOrders": 4807,
+    "PrevDay": 2.893e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2015-11-03T19:13:55.18"
   },
   {
     "MarketName": "BTC-ANT",
+<<<<<<< HEAD
     "High": 0.00055,
     "Low": 0.00047999,
     "Volume": 93195.37970531,
@@ -117,10 +215,24 @@
     "OpenBuyOrders": 438,
     "OpenSellOrders": 1576,
     "PrevDay": 0.00051,
+=======
+    "High": 0.00054,
+    "Low": 0.00050638,
+    "Volume": 50301.37249854,
+    "Last": 0.00050855,
+    "BaseVolume": 26.5555923,
+    "TimeStamp": "2018-05-14T16:37:56.537",
+    "Bid": 0.00050865,
+    "Ask": 0.00051545,
+    "OpenBuyOrders": 417,
+    "OpenSellOrders": 1599,
+    "PrevDay": 0.0005249,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-05-17T19:54:30.143"
   },
   {
     "MarketName": "BTC-ARDR",
+<<<<<<< HEAD
     "High": 3.893e-05,
     "Low": 3.35e-05,
     "Volume": 3145769.3722653,
@@ -132,10 +244,24 @@
     "OpenBuyOrders": 403,
     "OpenSellOrders": 4301,
     "PrevDay": 3.84e-05,
+=======
+    "High": 3.86e-05,
+    "Low": 3.54e-05,
+    "Volume": 2364658.31344919,
+    "Last": 3.695e-05,
+    "BaseVolume": 87.53635387,
+    "TimeStamp": "2018-05-14T16:37:44.2",
+    "Bid": 3.69e-05,
+    "Ask": 3.695e-05,
+    "OpenBuyOrders": 489,
+    "OpenSellOrders": 4347,
+    "PrevDay": 3.654e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2016-10-13T18:59:37.407"
   },
   {
     "MarketName": "BTC-ARK",
+<<<<<<< HEAD
     "High": 0.000371,
     "Low": 0.0003137,
     "Volume": 393194.34513819,
@@ -147,10 +273,24 @@
     "OpenBuyOrders": 2663,
     "OpenSellOrders": 4381,
     "PrevDay": 0.00034313,
+=======
+    "High": 0.00046998,
+    "Low": 0.0003971,
+    "Volume": 814036.65753519,
+    "Last": 0.00043355,
+    "BaseVolume": 359.02008733,
+    "TimeStamp": "2018-05-14T16:37:56.757",
+    "Bid": 0.00043091,
+    "Ask": 0.00043355,
+    "OpenBuyOrders": 3246,
+    "OpenSellOrders": 3156,
+    "PrevDay": 0.00040236,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-03-21T18:11:29.347"
   },
   {
     "MarketName": "BTC-AUR",
+<<<<<<< HEAD
     "High": 0.00011232,
     "Low": 0.00011,
     "Volume": 30647.41302188,
@@ -162,10 +302,24 @@
     "OpenBuyOrders": 89,
     "OpenSellOrders": 1062,
     "PrevDay": 0.00011,
+=======
+    "High": 0.00011408,
+    "Low": 0.00010792,
+    "Volume": 14617.17296313,
+    "Last": 0.00010792,
+    "BaseVolume": 1.62293841,
+    "TimeStamp": "2018-05-14T16:37:43.31",
+    "Bid": 0.00010792,
+    "Ask": 0.00010898,
+    "OpenBuyOrders": 95,
+    "OpenSellOrders": 1075,
+    "PrevDay": 0.0001121,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2014-03-16T22:00:00"
   },
   {
     "MarketName": "BTC-BAT",
+<<<<<<< HEAD
     "High": 4.397e-05,
     "Low": 3.572e-05,
     "Volume": 4311264.92788345,
@@ -177,10 +331,24 @@
     "OpenBuyOrders": 473,
     "OpenSellOrders": 2963,
     "PrevDay": 4.036e-05,
+=======
+    "High": 4.715e-05,
+    "Low": 4.369e-05,
+    "Volume": 2965953.91620234,
+    "Last": 4.637e-05,
+    "BaseVolume": 134.41576875,
+    "TimeStamp": "2018-05-14T16:37:54.473",
+    "Bid": 4.628e-05,
+    "Ask": 4.637e-05,
+    "OpenBuyOrders": 506,
+    "OpenSellOrders": 2784,
+    "PrevDay": 4.43e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-06-03T22:04:53.82"
   },
   {
     "MarketName": "BTC-BAY",
+<<<<<<< HEAD
     "High": 7.02e-06,
     "Low": 6.21e-06,
     "Volume": 11508510.70549014,
@@ -192,10 +360,24 @@
     "OpenBuyOrders": 188,
     "OpenSellOrders": 4292,
     "PrevDay": 6.7e-06,
+=======
+    "High": 6.73e-06,
+    "Low": 6.13e-06,
+    "Volume": 5680398.23277907,
+    "Last": 6.5e-06,
+    "BaseVolume": 36.28297778,
+    "TimeStamp": "2018-05-14T16:37:55.647",
+    "Bid": 6.51e-06,
+    "Ask": 6.55e-06,
+    "OpenBuyOrders": 237,
+    "OpenSellOrders": 4393,
+    "PrevDay": 6.53e-06,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2014-11-18T17:34:21.083"
   },
   {
     "MarketName": "BTC-BCC",
+<<<<<<< HEAD
     "High": 0.1735,
     "Low": 0.155,
     "Volume": 7627.92417521,
@@ -207,10 +389,24 @@
     "OpenBuyOrders": 1574,
     "OpenSellOrders": 5185,
     "PrevDay": 0.17211902,
+=======
+    "High": 0.17375689,
+    "Low": 0.1596,
+    "Volume": 5444.04905685,
+    "Last": 0.168,
+    "BaseVolume": 905.95397877,
+    "TimeStamp": "2018-05-14T16:37:56.897",
+    "Bid": 0.168,
+    "Ask": 0.16831427,
+    "OpenBuyOrders": 1592,
+    "OpenSellOrders": 5380,
+    "PrevDay": 0.16951002,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-08-01T18:34:04.967"
   },
   {
     "MarketName": "BTC-BCPT",
+<<<<<<< HEAD
     "High": 5.503e-05,
     "Low": 4.829e-05,
     "Volume": 454087.03942422,
@@ -222,10 +418,24 @@
     "OpenBuyOrders": 51,
     "OpenSellOrders": 1405,
     "PrevDay": 5.461e-05,
+=======
+    "High": 5.648e-05,
+    "Low": 5.175e-05,
+    "Volume": 227211.30477106,
+    "Last": 5.284e-05,
+    "BaseVolume": 12.13294385,
+    "TimeStamp": "2018-05-14T16:37:48.733",
+    "Bid": 5.261e-05,
+    "Ask": 5.3e-05,
+    "OpenBuyOrders": 78,
+    "OpenSellOrders": 1439,
+    "PrevDay": 5.301e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2018-02-22T18:39:23.157"
   },
   {
     "MarketName": "BTC-BCY",
+<<<<<<< HEAD
     "High": 4.148e-05,
     "Low": 3.975e-05,
     "Volume": 36000.71639469,
@@ -237,10 +447,24 @@
     "OpenBuyOrders": 86,
     "OpenSellOrders": 1726,
     "PrevDay": 4.137e-05,
+=======
+    "High": 4.1e-05,
+    "Low": 3.801e-05,
+    "Volume": 18565.41399235,
+    "Last": 3.986e-05,
+    "BaseVolume": 0.74597623,
+    "TimeStamp": "2018-05-14T16:37:30.903",
+    "Bid": 3.919e-05,
+    "Ask": 3.986e-05,
+    "OpenBuyOrders": 88,
+    "OpenSellOrders": 1540,
+    "PrevDay": 4e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2015-09-10T05:28:20.787"
   },
   {
     "MarketName": "BTC-BITB",
+<<<<<<< HEAD
     "High": 1.2e-06,
     "Low": 1e-06,
     "Volume": 105875920.69390108,
@@ -252,10 +476,24 @@
     "OpenBuyOrders": 331,
     "OpenSellOrders": 2928,
     "PrevDay": 1.19e-06,
+=======
+    "High": 1.08e-06,
+    "Low": 1e-06,
+    "Volume": 61477423.63037228,
+    "Last": 1.04e-06,
+    "BaseVolume": 63.66394798,
+    "TimeStamp": "2018-05-14T16:37:05.723",
+    "Bid": 1.03e-06,
+    "Ask": 1.04e-06,
+    "OpenBuyOrders": 311,
+    "OpenSellOrders": 3017,
+    "PrevDay": 1.06e-06,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2015-02-15T23:07:32.777"
   },
   {
     "MarketName": "BTC-BLITZ",
+<<<<<<< HEAD
     "High": 5.1e-05,
     "Low": 2.934e-05,
     "Volume": 658679.66559163,
@@ -267,10 +505,24 @@
     "OpenBuyOrders": 90,
     "OpenSellOrders": 737,
     "PrevDay": 4.516e-05,
+=======
+    "High": 4e-05,
+    "Low": 2.747e-05,
+    "Volume": 268050.51478408,
+    "Last": 3.085e-05,
+    "BaseVolume": 8.81463458,
+    "TimeStamp": "2018-05-14T16:37:51.643",
+    "Bid": 2.928e-05,
+    "Ask": 3.08e-05,
+    "OpenBuyOrders": 82,
+    "OpenSellOrders": 764,
+    "PrevDay": 3.3e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2014-11-13T20:20:21.443"
   },
   {
     "MarketName": "BTC-BLK",
+<<<<<<< HEAD
     "High": 3.2e-05,
     "Low": 2.901e-05,
     "Volume": 329305.0723991,
@@ -282,10 +534,24 @@
     "OpenBuyOrders": 152,
     "OpenSellOrders": 2361,
     "PrevDay": 3.16e-05,
+=======
+    "High": 3.092e-05,
+    "Low": 2.951e-05,
+    "Volume": 163021.32836539,
+    "Last": 3.086e-05,
+    "BaseVolume": 4.96743399,
+    "TimeStamp": "2018-05-14T16:37:51.94",
+    "Bid": 3.062e-05,
+    "Ask": 3.086e-05,
+    "OpenBuyOrders": 165,
+    "OpenSellOrders": 2243,
+    "PrevDay": 3.002e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2014-03-14T09:00:00"
   },
   {
     "MarketName": "BTC-BLOCK",
+<<<<<<< HEAD
     "High": 0.00183904,
     "Low": 0.00164,
     "Volume": 13534.54027241,
@@ -297,10 +563,24 @@
     "OpenBuyOrders": 451,
     "OpenSellOrders": 2107,
     "PrevDay": 0.00184,
+=======
+    "High": 0.00181157,
+    "Low": 0.001621,
+    "Volume": 11486.61100796,
+    "Last": 0.00174229,
+    "BaseVolume": 19.82197142,
+    "TimeStamp": "2018-05-14T16:37:31.59",
+    "Bid": 0.00174235,
+    "Ask": 0.00175104,
+    "OpenBuyOrders": 509,
+    "OpenSellOrders": 1986,
+    "PrevDay": 0.00178028,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2014-10-29T06:45:03.97"
   },
   {
     "MarketName": "BTC-BLT",
+<<<<<<< HEAD
     "High": 0.000155,
     "Low": 7.44e-05,
     "Volume": 5714834.70134966,
@@ -312,10 +592,24 @@
     "OpenBuyOrders": 177,
     "OpenSellOrders": 780,
     "PrevDay": 0.00015174,
+=======
+    "High": 8.84e-05,
+    "Low": 7.455e-05,
+    "Volume": 818167.70765827,
+    "Last": 8.395e-05,
+    "BaseVolume": 66.90244037,
+    "TimeStamp": "2018-05-14T16:37:56.693",
+    "Bid": 8.206e-05,
+    "Ask": 8.395e-05,
+    "OpenBuyOrders": 133,
+    "OpenSellOrders": 815,
+    "PrevDay": 8.614e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2018-05-10T16:56:16.43"
   },
   {
     "MarketName": "BTC-BNT",
+<<<<<<< HEAD
     "High": 0.00055659,
     "Low": 0.00050283,
     "Volume": 78029.43608937,
@@ -327,10 +621,24 @@
     "OpenBuyOrders": 224,
     "OpenSellOrders": 1092,
     "PrevDay": 0.0005511,
+=======
+    "High": 0.00057887,
+    "Low": 0.00054722,
+    "Volume": 68563.48491009,
+    "Last": 0.00055413,
+    "BaseVolume": 38.32004891,
+    "TimeStamp": "2018-05-14T16:37:54.677",
+    "Bid": 0.00055516,
+    "Ask": 0.00055934,
+    "OpenBuyOrders": 236,
+    "OpenSellOrders": 1058,
+    "PrevDay": 0.00055851,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-06-22T21:36:30.85"
   },
   {
     "MarketName": "BTC-BRK",
+<<<<<<< HEAD
     "High": 2.445e-05,
     "Low": 2.287e-05,
     "Volume": 36397.24175119,
@@ -342,10 +650,24 @@
     "OpenBuyOrders": 85,
     "OpenSellOrders": 1289,
     "PrevDay": 2.413e-05,
+=======
+    "High": 2.436e-05,
+    "Low": 2.157e-05,
+    "Volume": 45896.33468598,
+    "Last": 2.25e-05,
+    "BaseVolume": 1.03163919,
+    "TimeStamp": "2018-05-14T16:36:34.47",
+    "Bid": 2.203e-05,
+    "Ask": 2.25e-05,
+    "OpenBuyOrders": 90,
+    "OpenSellOrders": 1337,
+    "PrevDay": 2.405e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2016-06-13T02:27:33.34"
   },
   {
     "MarketName": "BTC-BRX",
+<<<<<<< HEAD
     "High": 0.00012861,
     "Low": 0.00011,
     "Volume": 6827.22588516,
@@ -357,10 +679,24 @@
     "OpenBuyOrders": 57,
     "OpenSellOrders": 703,
     "PrevDay": 0.00012,
+=======
+    "High": 0.00012155,
+    "Low": 0.00010507,
+    "Volume": 6885.33388578,
+    "Last": 0.00011598,
+    "BaseVolume": 0.78332641,
+    "TimeStamp": "2018-05-14T16:37:40.25",
+    "Bid": 0.00011115,
+    "Ask": 0.0001164,
+    "OpenBuyOrders": 57,
+    "OpenSellOrders": 678,
+    "PrevDay": 0.00012092,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2016-07-10T21:25:05.127"
   },
   {
     "MarketName": "BTC-BSD",
+<<<<<<< HEAD
     "High": 7.937e-05,
     "Low": 7.401e-05,
     "Volume": 128722.58583648,
@@ -372,10 +708,24 @@
     "OpenBuyOrders": 119,
     "OpenSellOrders": 2096,
     "PrevDay": 7.89e-05,
+=======
+    "High": 7.74e-05,
+    "Low": 7.3e-05,
+    "Volume": 48150.34623358,
+    "Last": 7.525e-05,
+    "BaseVolume": 3.62918855,
+    "TimeStamp": "2018-05-14T16:37:18.7",
+    "Bid": 7.524e-05,
+    "Ask": 7.525e-05,
+    "OpenBuyOrders": 121,
+    "OpenSellOrders": 2135,
+    "PrevDay": 7.733e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2016-02-17T00:54:23.677"
   },
   {
     "MarketName": "BTC-BTG",
+<<<<<<< HEAD
     "High": 0.00744514,
     "Low": 0.00639059,
     "Volume": 32023.0732899,
@@ -387,11 +737,25 @@
     "OpenBuyOrders": 389,
     "OpenSellOrders": 5939,
     "PrevDay": 0.00719,
+=======
+    "High": 0.00688,
+    "Low": 0.00643128,
+    "Volume": 20907.55687381,
+    "Last": 0.0068209,
+    "BaseVolume": 139.81578637,
+    "TimeStamp": "2018-05-14T16:37:52.817",
+    "Bid": 0.00675488,
+    "Ask": 0.00681902,
+    "OpenBuyOrders": 360,
+    "OpenSellOrders": 5948,
+    "PrevDay": 0.00682475,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-11-20T21:49:15.983"
   },
   {
     "MarketName": "BTC-BURST",
     "High": 3.14e-06,
+<<<<<<< HEAD
     "Low": 2.84e-06,
     "Volume": 16256116.20840258,
     "Last": 3.02e-06,
@@ -402,10 +766,23 @@
     "OpenBuyOrders": 383,
     "OpenSellOrders": 3795,
     "PrevDay": 3.08e-06,
+=======
+    "Low": 2.88e-06,
+    "Volume": 6333503.95122391,
+    "Last": 2.96e-06,
+    "BaseVolume": 19.1719906,
+    "TimeStamp": "2018-05-14T16:37:21.043",
+    "Bid": 2.96e-06,
+    "Ask": 3e-06,
+    "OpenBuyOrders": 343,
+    "OpenSellOrders": 3776,
+    "PrevDay": 3.05e-06,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2014-09-16T07:41:56.047"
   },
   {
     "MarketName": "BTC-BYC",
+<<<<<<< HEAD
     "High": 6.91e-05,
     "Low": 6.608e-05,
     "Volume": 26224.69870166,
@@ -417,10 +794,24 @@
     "OpenBuyOrders": 50,
     "OpenSellOrders": 869,
     "PrevDay": 6.834e-05,
+=======
+    "High": 7.2e-05,
+    "Low": 6.777e-05,
+    "Volume": 13336.2453449,
+    "Last": 6.778e-05,
+    "BaseVolume": 0.9309526,
+    "TimeStamp": "2018-05-14T16:32:31",
+    "Bid": 6.778e-05,
+    "Ask": 6.832e-05,
+    "OpenBuyOrders": 52,
+    "OpenSellOrders": 849,
+    "PrevDay": 6.998e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2014-11-03T19:02:45.96"
   },
   {
     "MarketName": "BTC-CANN",
+<<<<<<< HEAD
     "High": 5.85e-06,
     "Low": 5.4e-06,
     "Volume": 1006342.85056549,
@@ -432,10 +823,24 @@
     "OpenBuyOrders": 160,
     "OpenSellOrders": 3972,
     "PrevDay": 5.8e-06,
+=======
+    "High": 5.97e-06,
+    "Low": 5.32e-06,
+    "Volume": 1030896.16107152,
+    "Last": 5.74e-06,
+    "BaseVolume": 5.78637313,
+    "TimeStamp": "2018-05-14T16:37:43.107",
+    "Bid": 5.7e-06,
+    "Ask": 5.74e-06,
+    "OpenBuyOrders": 177,
+    "OpenSellOrders": 3831,
+    "PrevDay": 5.57e-06,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2014-08-10T06:48:44.83"
   },
   {
     "MarketName": "BTC-CFI",
+<<<<<<< HEAD
     "High": 1.032e-05,
     "Low": 9.05e-06,
     "Volume": 2610503.68873572,
@@ -447,10 +852,24 @@
     "OpenBuyOrders": 457,
     "OpenSellOrders": 4143,
     "PrevDay": 1.01e-05,
+=======
+    "High": 9.49e-06,
+    "Low": 8.76e-06,
+    "Volume": 1286881.57986695,
+    "Last": 9.02e-06,
+    "BaseVolume": 11.71321691,
+    "TimeStamp": "2018-05-14T16:37:12.603",
+    "Bid": 9.03e-06,
+    "Ask": 9.09e-06,
+    "OpenBuyOrders": 376,
+    "OpenSellOrders": 4034,
+    "PrevDay": 9.29e-06,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-06-19T19:59:14.78"
   },
   {
     "MarketName": "BTC-CLAM",
+<<<<<<< HEAD
     "High": 0.000475,
     "Low": 0.000425,
     "Volume": 9421.7484777,
@@ -462,10 +881,24 @@
     "OpenBuyOrders": 42,
     "OpenSellOrders": 1053,
     "PrevDay": 0.000475,
+=======
+    "High": 0.000485,
+    "Low": 0.00045016,
+    "Volume": 3887.96135665,
+    "Last": 0.00045743,
+    "BaseVolume": 1.81642704,
+    "TimeStamp": "2018-05-14T16:37:53.113",
+    "Bid": 0.0004562,
+    "Ask": 0.00045743,
+    "OpenBuyOrders": 55,
+    "OpenSellOrders": 1012,
+    "PrevDay": 0.00045838,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2015-04-18T22:04:25.183"
   },
   {
     "MarketName": "BTC-CLOAK",
+<<<<<<< HEAD
     "High": 0.00149613,
     "Low": 0.00113321,
     "Volume": 27670.57424133,
@@ -477,10 +910,24 @@
     "OpenBuyOrders": 183,
     "OpenSellOrders": 1718,
     "PrevDay": 0.001374,
+=======
+    "High": 0.00136,
+    "Low": 0.0012207,
+    "Volume": 17336.51316767,
+    "Last": 0.00126571,
+    "BaseVolume": 22.35993307,
+    "TimeStamp": "2018-05-14T16:37:56.693",
+    "Bid": 0.00126572,
+    "Ask": 0.00127267,
+    "OpenBuyOrders": 259,
+    "OpenSellOrders": 1763,
+    "PrevDay": 0.00131,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2014-06-04T08:53:18.563"
   },
   {
     "MarketName": "BTC-COVAL",
+<<<<<<< HEAD
     "High": 9e-07,
     "Low": 7.8e-07,
     "Volume": 6842886.09361292,
@@ -492,10 +939,24 @@
     "OpenBuyOrders": 160,
     "OpenSellOrders": 2437,
     "PrevDay": 8.5e-07,
+=======
+    "High": 8.6e-07,
+    "Low": 7.9e-07,
+    "Volume": 7899933.55736203,
+    "Last": 8.4e-07,
+    "BaseVolume": 6.4663884,
+    "TimeStamp": "2018-05-14T16:37:12.133",
+    "Bid": 8.4e-07,
+    "Ask": 8.5e-07,
+    "OpenBuyOrders": 197,
+    "OpenSellOrders": 2502,
+    "PrevDay": 8.2e-07,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2015-01-22T19:11:45.903"
   },
   {
     "MarketName": "BTC-CRB",
+<<<<<<< HEAD
     "High": 2.419e-05,
     "Low": 2.186e-05,
     "Volume": 102600.45338081,
@@ -507,10 +968,24 @@
     "OpenBuyOrders": 56,
     "OpenSellOrders": 1813,
     "PrevDay": 2.409e-05,
+=======
+    "High": 2.496e-05,
+    "Low": 2.181e-05,
+    "Volume": 57960.4705102,
+    "Last": 2.314e-05,
+    "BaseVolume": 1.3119483,
+    "TimeStamp": "2018-05-14T16:37:55.35",
+    "Bid": 2.314e-05,
+    "Ask": 2.34e-05,
+    "OpenBuyOrders": 73,
+    "OpenSellOrders": 1748,
+    "PrevDay": 2.332e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-06-13T19:40:35.203"
   },
   {
     "MarketName": "BTC-CRW",
+<<<<<<< HEAD
     "High": 0.00014388,
     "Low": 0.00012802,
     "Volume": 31483.02985175,
@@ -522,10 +997,24 @@
     "OpenBuyOrders": 206,
     "OpenSellOrders": 1327,
     "PrevDay": 0.00014398,
+=======
+    "High": 0.00015703,
+    "Low": 0.00012124,
+    "Volume": 148574.87084885,
+    "Last": 0.00015,
+    "BaseVolume": 21.34576078,
+    "TimeStamp": "2018-05-14T16:37:46.17",
+    "Bid": 0.0001495,
+    "Ask": 0.00015,
+    "OpenBuyOrders": 242,
+    "OpenSellOrders": 1249,
+    "PrevDay": 0.00012997,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-03-06T21:10:15.663"
   },
   {
     "MarketName": "BTC-CURE",
+<<<<<<< HEAD
     "High": 4.446e-05,
     "Low": 3.55e-05,
     "Volume": 143061.14595552,
@@ -537,10 +1026,24 @@
     "OpenBuyOrders": 106,
     "OpenSellOrders": 1321,
     "PrevDay": 3.949e-05,
+=======
+    "High": 3.773e-05,
+    "Low": 3.613e-05,
+    "Volume": 11610.08575985,
+    "Last": 3.684e-05,
+    "BaseVolume": 0.42414689,
+    "TimeStamp": "2018-05-14T16:28:24.983",
+    "Bid": 3.669e-05,
+    "Ask": 3.684e-05,
+    "OpenBuyOrders": 113,
+    "OpenSellOrders": 1318,
+    "PrevDay": 3.73e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2014-05-13T09:00:00"
   },
   {
     "MarketName": "BTC-CVC",
+<<<<<<< HEAD
     "High": 4.405e-05,
     "Low": 3.833e-05,
     "Volume": 2197696.23333395,
@@ -552,10 +1055,24 @@
     "OpenBuyOrders": 781,
     "OpenSellOrders": 4558,
     "PrevDay": 4.371e-05,
+=======
+    "High": 4.898e-05,
+    "Low": 4.221e-05,
+    "Volume": 3718791.15021644,
+    "Last": 4.735e-05,
+    "BaseVolume": 168.50062127,
+    "TimeStamp": "2018-05-14T16:37:55.24",
+    "Bid": 4.735e-05,
+    "Ask": 4.756e-05,
+    "OpenBuyOrders": 1045,
+    "OpenSellOrders": 4044,
+    "PrevDay": 4.4e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-07-16T23:04:18.867"
   },
   {
     "MarketName": "BTC-DASH",
+<<<<<<< HEAD
     "High": 0.053,
     "Low": 0.0452123,
     "Volume": 9545.06338909,
@@ -567,10 +1084,24 @@
     "OpenBuyOrders": 977,
     "OpenSellOrders": 3994,
     "PrevDay": 0.04837099,
+=======
+    "High": 0.05214209,
+    "Low": 0.04626649,
+    "Volume": 7741.8178879,
+    "Last": 0.04884,
+    "BaseVolume": 379.17572503,
+    "TimeStamp": "2018-05-14T16:37:56.787",
+    "Bid": 0.04884,
+    "Ask": 0.04911959,
+    "OpenBuyOrders": 1049,
+    "OpenSellOrders": 3867,
+    "PrevDay": 0.04795561,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2014-03-11T08:00:00"
   },
   {
     "MarketName": "BTC-DCR",
+<<<<<<< HEAD
     "High": 0.01099478,
     "Low": 0.00930001,
     "Volume": 48817.89087807,
@@ -582,10 +1113,24 @@
     "OpenBuyOrders": 660,
     "OpenSellOrders": 1830,
     "PrevDay": 0.00953097,
+=======
+    "High": 0.0114,
+    "Low": 0.01024906,
+    "Volume": 23455.46184107,
+    "Last": 0.01062008,
+    "BaseVolume": 251.0526525,
+    "TimeStamp": "2018-05-14T16:37:51.58",
+    "Bid": 0.01062008,
+    "Ask": 0.01065722,
+    "OpenBuyOrders": 630,
+    "OpenSellOrders": 1844,
+    "PrevDay": 0.0106331,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2016-02-09T21:06:51.577"
   },
   {
     "MarketName": "BTC-DCT",
+<<<<<<< HEAD
     "High": 0.0001224,
     "Low": 9.823e-05,
     "Volume": 415794.67659173,
@@ -597,10 +1142,24 @@
     "OpenBuyOrders": 241,
     "OpenSellOrders": 1938,
     "PrevDay": 0.00011619,
+=======
+    "High": 0.000136,
+    "Low": 0.00011,
+    "Volume": 625266.08062085,
+    "Last": 0.00012169,
+    "BaseVolume": 77.68362512,
+    "TimeStamp": "2018-05-14T16:37:49.267",
+    "Bid": 0.00012048,
+    "Ask": 0.00012168,
+    "OpenBuyOrders": 242,
+    "OpenSellOrders": 1848,
+    "PrevDay": 0.00011076,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-06-30T16:35:24.643"
   },
   {
     "MarketName": "BTC-DGB",
+<<<<<<< HEAD
     "High": 5.09e-06,
     "Low": 4.25e-06,
     "Volume": 131211987.04474254,
@@ -612,10 +1171,24 @@
     "OpenBuyOrders": 1290,
     "OpenSellOrders": 11874,
     "PrevDay": 5.07e-06,
+=======
+    "High": 5.12e-06,
+    "Low": 4.73e-06,
+    "Volume": 78315031.84744751,
+    "Last": 4.79e-06,
+    "BaseVolume": 385.8383106,
+    "TimeStamp": "2018-05-14T16:37:39.547",
+    "Bid": 4.79e-06,
+    "Ask": 4.8e-06,
+    "OpenBuyOrders": 1224,
+    "OpenSellOrders": 11597,
+    "PrevDay": 5.06e-06,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2014-08-20T07:09:57.207"
   },
   {
     "MarketName": "BTC-DMD",
+<<<<<<< HEAD
     "High": 0.0007537,
     "Low": 0.00068,
     "Volume": 6356.34814594,
@@ -627,10 +1200,24 @@
     "OpenBuyOrders": 110,
     "OpenSellOrders": 1731,
     "PrevDay": 0.00075147,
+=======
+    "High": 0.00077,
+    "Low": 0.00070978,
+    "Volume": 5889.66598369,
+    "Last": 0.00072615,
+    "BaseVolume": 4.35482311,
+    "TimeStamp": "2018-05-14T16:37:36.077",
+    "Bid": 0.00072613,
+    "Ask": 0.00072615,
+    "OpenBuyOrders": 139,
+    "OpenSellOrders": 1762,
+    "PrevDay": 0.00073501,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2015-05-01T17:31:24.97"
   },
   {
     "MarketName": "BTC-DMT",
+<<<<<<< HEAD
     "High": 5.11e-05,
     "Low": 4.51e-05,
     "Volume": 326104.62701499,
@@ -642,10 +1229,24 @@
     "OpenBuyOrders": 102,
     "OpenSellOrders": 1419,
     "PrevDay": 5.044e-05,
+=======
+    "High": 4.879e-05,
+    "Low": 4.303e-05,
+    "Volume": 355381.30633839,
+    "Last": 4.63e-05,
+    "BaseVolume": 16.10826905,
+    "TimeStamp": "2018-05-14T16:37:48.593",
+    "Bid": 4.63e-05,
+    "Ask": 4.645e-05,
+    "OpenBuyOrders": 140,
+    "OpenSellOrders": 1401,
+    "PrevDay": 4.886e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2018-03-27T17:20:49.18"
   },
   {
     "MarketName": "BTC-DNT",
+<<<<<<< HEAD
     "High": 1.097e-05,
     "Low": 9.75e-06,
     "Volume": 6393889.84318973,
@@ -657,10 +1258,24 @@
     "OpenBuyOrders": 235,
     "OpenSellOrders": 2711,
     "PrevDay": 1.071e-05,
+=======
+    "High": 1.199e-05,
+    "Low": 1.031e-05,
+    "Volume": 4835745.90252412,
+    "Last": 1.071e-05,
+    "BaseVolume": 52.83468509,
+    "TimeStamp": "2018-05-14T16:37:56.113",
+    "Bid": 1.066e-05,
+    "Ask": 1.077e-05,
+    "OpenBuyOrders": 241,
+    "OpenSellOrders": 2714,
+    "PrevDay": 1.048e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-08-04T02:09:02.873"
   },
   {
     "MarketName": "BTC-DOGE",
+<<<<<<< HEAD
     "High": 5.4e-07,
     "Low": 4.9e-07,
     "Volume": 613736239.605208,
@@ -672,10 +1287,24 @@
     "OpenBuyOrders": 1446,
     "OpenSellOrders": 14179,
     "PrevDay": 5.3e-07,
+=======
+    "High": 5.3e-07,
+    "Low": 5e-07,
+    "Volume": 446047841.7501675,
+    "Last": 5.2e-07,
+    "BaseVolume": 230.3130497,
+    "TimeStamp": "2018-05-14T16:37:48.797",
+    "Bid": 5.1e-07,
+    "Ask": 5.2e-07,
+    "OpenBuyOrders": 1715,
+    "OpenSellOrders": 14039,
+    "PrevDay": 5.2e-07,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2014-02-13T00:00:00"
   },
   {
     "MarketName": "BTC-DOPE",
+<<<<<<< HEAD
     "High": 5.5e-06,
     "Low": 4.31e-06,
     "Volume": 4695127.93207154,
@@ -687,10 +1316,24 @@
     "OpenBuyOrders": 142,
     "OpenSellOrders": 2512,
     "PrevDay": 5.5e-06,
+=======
+    "High": 5.25e-06,
+    "Low": 4.6e-06,
+    "Volume": 827818.05243091,
+    "Last": 5.12e-06,
+    "BaseVolume": 4.07859639,
+    "TimeStamp": "2018-05-14T16:37:42.45",
+    "Bid": 5.11e-06,
+    "Ask": 5.18e-06,
+    "OpenBuyOrders": 158,
+    "OpenSellOrders": 2429,
+    "PrevDay": 4.84e-06,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2014-10-17T19:09:32.6"
   },
   {
     "MarketName": "BTC-DTB",
+<<<<<<< HEAD
     "High": 8.217e-05,
     "Low": 7e-05,
     "Volume": 50649.01208894,
@@ -702,10 +1345,24 @@
     "OpenBuyOrders": 58,
     "OpenSellOrders": 1614,
     "PrevDay": 8.173e-05,
+=======
+    "High": 8.771e-05,
+    "Low": 7.687e-05,
+    "Volume": 44915.45308447,
+    "Last": 8.559e-05,
+    "BaseVolume": 3.67506911,
+    "TimeStamp": "2018-05-14T16:37:32.467",
+    "Bid": 8.56e-05,
+    "Ask": 8.769e-05,
+    "OpenBuyOrders": 82,
+    "OpenSellOrders": 1656,
+    "PrevDay": 7.582e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-04-01T04:06:13.887"
   },
   {
     "MarketName": "BTC-DYN",
+<<<<<<< HEAD
     "High": 0.00021177,
     "Low": 0.00019718,
     "Volume": 48580.59988194,
@@ -717,10 +1374,24 @@
     "OpenBuyOrders": 86,
     "OpenSellOrders": 2059,
     "PrevDay": 0.00020635,
+=======
+    "High": 0.00021244,
+    "Low": 0.000199,
+    "Volume": 39697.06551372,
+    "Last": 0.00019999,
+    "BaseVolume": 8.15484938,
+    "TimeStamp": "2018-05-14T16:37:04.097",
+    "Bid": 0.00019898,
+    "Ask": 0.00019999,
+    "OpenBuyOrders": 79,
+    "OpenSellOrders": 2082,
+    "PrevDay": 0.0002031,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-03-23T00:10:19.403"
   },
   {
     "MarketName": "BTC-EBST",
+<<<<<<< HEAD
     "High": 4.879e-05,
     "Low": 3.9e-05,
     "Volume": 5063606.34230023,
@@ -732,10 +1403,24 @@
     "OpenBuyOrders": 401,
     "OpenSellOrders": 4939,
     "PrevDay": 4.588e-05,
+=======
+    "High": 3.679e-05,
+    "Low": 2.851e-05,
+    "Volume": 4680616.28889375,
+    "Last": 2.92e-05,
+    "BaseVolume": 152.10432997,
+    "TimeStamp": "2018-05-14T16:37:56.007",
+    "Bid": 2.89e-05,
+    "Ask": 2.955e-05,
+    "OpenBuyOrders": 294,
+    "OpenSellOrders": 5074,
+    "PrevDay": 3.367e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2016-09-15T15:47:38.92"
   },
   {
     "MarketName": "BTC-EDG",
+<<<<<<< HEAD
     "High": 6.939e-05,
     "Low": 6e-05,
     "Volume": 1283343.5113829,
@@ -747,10 +1432,24 @@
     "OpenBuyOrders": 195,
     "OpenSellOrders": 4777,
     "PrevDay": 6.77e-05,
+=======
+    "High": 6.901e-05,
+    "Low": 6.3e-05,
+    "Volume": 423702.70597851,
+    "Last": 6.57e-05,
+    "BaseVolume": 27.88548024,
+    "TimeStamp": "2018-05-14T16:37:46.467",
+    "Bid": 6.56e-05,
+    "Ask": 6.57e-05,
+    "OpenBuyOrders": 217,
+    "OpenSellOrders": 4684,
+    "PrevDay": 6.793e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-04-18T00:56:59.243"
   },
   {
     "MarketName": "BTC-EFL",
+<<<<<<< HEAD
     "High": 2.043e-05,
     "Low": 1.742e-05,
     "Volume": 201300.61028498,
@@ -762,10 +1461,24 @@
     "OpenBuyOrders": 63,
     "OpenSellOrders": 1141,
     "PrevDay": 1.999e-05,
+=======
+    "High": 1.839e-05,
+    "Low": 1.715e-05,
+    "Volume": 67972.78710594,
+    "Last": 1.72e-05,
+    "BaseVolume": 1.20580961,
+    "TimeStamp": "2018-05-14T16:37:44.467",
+    "Bid": 1.719e-05,
+    "Ask": 1.72e-05,
+    "OpenBuyOrders": 60,
+    "OpenSellOrders": 1049,
+    "PrevDay": 1.776e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2014-03-20T20:00:00"
   },
   {
     "MarketName": "BTC-EGC",
+<<<<<<< HEAD
     "High": 2.777e-05,
     "Low": 2.457e-05,
     "Volume": 27989.38779975,
@@ -777,10 +1490,24 @@
     "OpenBuyOrders": 70,
     "OpenSellOrders": 1492,
     "PrevDay": 2.704e-05,
+=======
+    "High": 2.716e-05,
+    "Low": 2.411e-05,
+    "Volume": 54963.42886894,
+    "Last": 2.422e-05,
+    "BaseVolume": 1.40232865,
+    "TimeStamp": "2018-05-14T16:37:14.917",
+    "Bid": 2.418e-05,
+    "Ask": 2.422e-05,
+    "OpenBuyOrders": 74,
+    "OpenSellOrders": 1432,
+    "PrevDay": 2.416e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2016-01-18T21:01:43.837"
   },
   {
     "MarketName": "BTC-EMC",
+<<<<<<< HEAD
     "High": 0.00038839,
     "Low": 0.0003504,
     "Volume": 44468.37322193,
@@ -792,10 +1519,24 @@
     "OpenBuyOrders": 201,
     "OpenSellOrders": 2057,
     "PrevDay": 0.000382,
+=======
+    "High": 0.00041336,
+    "Low": 0.00037405,
+    "Volume": 66750.68279651,
+    "Last": 0.00041336,
+    "BaseVolume": 26.41310932,
+    "TimeStamp": "2018-05-14T16:37:56.537",
+    "Bid": 0.00041233,
+    "Ask": 0.00041336,
+    "OpenBuyOrders": 258,
+    "OpenSellOrders": 2039,
+    "PrevDay": 0.0003911,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2016-01-06T05:28:04.553"
   },
   {
     "MarketName": "BTC-EMC2",
+<<<<<<< HEAD
     "High": 3.082e-05,
     "Low": 2.43e-05,
     "Volume": 6077599.80242209,
@@ -807,10 +1548,24 @@
     "OpenBuyOrders": 334,
     "OpenSellOrders": 7191,
     "PrevDay": 3.03e-05,
+=======
+    "High": 3.454e-05,
+    "Low": 2.757e-05,
+    "Volume": 6790719.6909608,
+    "Last": 2.996e-05,
+    "BaseVolume": 214.16956506,
+    "TimeStamp": "2018-05-14T16:37:55.757",
+    "Bid": 2.99e-05,
+    "Ask": 2.997e-05,
+    "OpenBuyOrders": 489,
+    "OpenSellOrders": 6934,
+    "PrevDay": 2.78e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2014-12-24T00:00:00"
   },
   {
     "MarketName": "BTC-ENG",
+<<<<<<< HEAD
     "High": 0.00029843,
     "Low": 0.000255,
     "Volume": 258007.35260587,
@@ -822,10 +1577,24 @@
     "OpenBuyOrders": 189,
     "OpenSellOrders": 1755,
     "PrevDay": 0.0002914,
+=======
+    "High": 0.0003589,
+    "Low": 0.00030691,
+    "Volume": 366567.95773057,
+    "Last": 0.00035649,
+    "BaseVolume": 120.70562109,
+    "TimeStamp": "2018-05-14T16:37:52.973",
+    "Bid": 0.0003525,
+    "Ask": 0.00035649,
+    "OpenBuyOrders": 337,
+    "OpenSellOrders": 1322,
+    "PrevDay": 0.0003117,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-11-29T23:57:48.243"
   },
   {
     "MarketName": "BTC-ENRG",
+<<<<<<< HEAD
     "High": 1.082e-05,
     "Low": 1.012e-05,
     "Volume": 103680.02803596,
@@ -837,10 +1606,24 @@
     "OpenBuyOrders": 150,
     "OpenSellOrders": 2107,
     "PrevDay": 1.071e-05,
+=======
+    "High": 1.085e-05,
+    "Low": 1e-05,
+    "Volume": 111394.06790698,
+    "Last": 1.057e-05,
+    "BaseVolume": 1.16445572,
+    "TimeStamp": "2018-05-14T16:27:53.39",
+    "Bid": 1.044e-05,
+    "Ask": 1.057e-05,
+    "OpenBuyOrders": 151,
+    "OpenSellOrders": 2046,
+    "PrevDay": 1.059e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2014-05-04T00:00:00"
   },
   {
     "MarketName": "BTC-ERC",
+<<<<<<< HEAD
     "High": 5.345e-05,
     "Low": 4.929e-05,
     "Volume": 7481.11311837,
@@ -852,10 +1635,24 @@
     "OpenBuyOrders": 33,
     "OpenSellOrders": 924,
     "PrevDay": 5.344e-05,
+=======
+    "High": 4.972e-05,
+    "Low": 4.741e-05,
+    "Volume": 10215.60079475,
+    "Last": 4.75e-05,
+    "BaseVolume": 0.48915639,
+    "TimeStamp": "2018-05-14T16:33:58.14",
+    "Bid": 4.764e-05,
+    "Ask": 4.813e-05,
+    "OpenBuyOrders": 43,
+    "OpenSellOrders": 897,
+    "PrevDay": 4.908e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2014-05-10T17:00:00"
   },
   {
     "MarketName": "BTC-ETC",
+<<<<<<< HEAD
     "High": 0.00227487,
     "Low": 0.00196156,
     "Volume": 235742.94128091,
@@ -867,10 +1664,24 @@
     "OpenBuyOrders": 574,
     "OpenSellOrders": 7492,
     "PrevDay": 0.00225,
+=======
+    "High": 0.00219869,
+    "Low": 0.00208928,
+    "Volume": 86418.50866624,
+    "Last": 0.00213675,
+    "BaseVolume": 184.79104181,
+    "TimeStamp": "2018-05-14T16:37:55.757",
+    "Bid": 0.00213675,
+    "Ask": 0.00213798,
+    "OpenBuyOrders": 589,
+    "OpenSellOrders": 7725,
+    "PrevDay": 0.0021828,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2016-07-26T18:10:22.82"
   },
   {
     "MarketName": "BTC-ETH",
+<<<<<<< HEAD
     "High": 0.08222,
     "Low": 0.0783002,
     "Volume": 15710.95206206,
@@ -882,10 +1693,24 @@
     "OpenBuyOrders": 3976,
     "OpenSellOrders": 4290,
     "PrevDay": 0.0812966,
+=======
+    "High": 0.0862,
+    "Low": 0.0825,
+    "Volume": 13694.32091337,
+    "Last": 0.08349799,
+    "BaseVolume": 1150.9285916,
+    "TimeStamp": "2018-05-14T16:37:56.757",
+    "Bid": 0.08346977,
+    "Ask": 0.08349799,
+    "OpenBuyOrders": 4210,
+    "OpenSellOrders": 3395,
+    "PrevDay": 0.08469,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2015-08-14T09:02:24.817"
   },
   {
     "MarketName": "BTC-EXCL",
+<<<<<<< HEAD
     "High": 0.00012766,
     "Low": 0.00012,
     "Volume": 36505.13198765,
@@ -897,10 +1722,24 @@
     "OpenBuyOrders": 88,
     "OpenSellOrders": 1394,
     "PrevDay": 0.00012839,
+=======
+    "High": 0.000135,
+    "Low": 0.00012006,
+    "Volume": 68043.69227063,
+    "Last": 0.00012342,
+    "BaseVolume": 8.63481482,
+    "TimeStamp": "2018-05-14T16:37:56.897",
+    "Bid": 0.00012341,
+    "Ask": 0.00012521,
+    "OpenBuyOrders": 120,
+    "OpenSellOrders": 1387,
+    "PrevDay": 0.00012227,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2014-09-28T20:33:27.633"
   },
   {
     "MarketName": "BTC-EXP",
+<<<<<<< HEAD
     "High": 0.0002412,
     "Low": 0.00021,
     "Volume": 110615.22325659,
@@ -912,10 +1751,24 @@
     "OpenBuyOrders": 193,
     "OpenSellOrders": 3278,
     "PrevDay": 0.00023352,
+=======
+    "High": 0.00024198,
+    "Low": 0.00022492,
+    "Volume": 43741.40976653,
+    "Last": 0.00022927,
+    "BaseVolume": 10.15124337,
+    "TimeStamp": "2018-05-14T16:37:54.74",
+    "Bid": 0.00022924,
+    "Ask": 0.00022927,
+    "OpenBuyOrders": 242,
+    "OpenSellOrders": 3225,
+    "PrevDay": 0.00024249,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2015-09-16T17:10:15.253"
   },
   {
     "MarketName": "BTC-FCT",
+<<<<<<< HEAD
     "High": 0.00270639,
     "Low": 0.0024,
     "Volume": 14119.92837499,
@@ -927,10 +1780,24 @@
     "OpenBuyOrders": 173,
     "OpenSellOrders": 2349,
     "PrevDay": 0.00265414,
+=======
+    "High": 0.002598,
+    "Low": 0.00239978,
+    "Volume": 10788.06069132,
+    "Last": 0.00244481,
+    "BaseVolume": 26.84672302,
+    "TimeStamp": "2018-05-14T16:37:55.24",
+    "Bid": 0.00244771,
+    "Ask": 0.0024825,
+    "OpenBuyOrders": 174,
+    "OpenSellOrders": 2358,
+    "PrevDay": 0.00259752,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2016-01-09T03:47:07.803"
   },
   {
     "MarketName": "BTC-FLDC",
+<<<<<<< HEAD
     "High": 2.27e-06,
     "Low": 1.85e-06,
     "Volume": 4078162.47811205,
@@ -942,10 +1809,24 @@
     "OpenBuyOrders": 117,
     "OpenSellOrders": 3626,
     "PrevDay": 2.2e-06,
+=======
+    "High": 2.17e-06,
+    "Low": 1.97e-06,
+    "Volume": 1812816.92983567,
+    "Last": 2e-06,
+    "BaseVolume": 3.64668336,
+    "TimeStamp": "2018-05-14T16:37:43.5",
+    "Bid": 2.01e-06,
+    "Ask": 2.02e-06,
+    "OpenBuyOrders": 127,
+    "OpenSellOrders": 3632,
+    "PrevDay": 2.08e-06,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2015-02-23T23:01:53.92"
   },
   {
     "MarketName": "BTC-FLO",
+<<<<<<< HEAD
     "High": 1.247e-05,
     "Low": 1.158e-05,
     "Volume": 498990.5754776,
@@ -957,10 +1838,24 @@
     "OpenBuyOrders": 137,
     "OpenSellOrders": 1283,
     "PrevDay": 1.24e-05,
+=======
+    "High": 1.25e-05,
+    "Low": 1.152e-05,
+    "Volume": 206074.5387111,
+    "Last": 1.239e-05,
+    "BaseVolume": 2.46907882,
+    "TimeStamp": "2018-05-14T16:37:46.153",
+    "Bid": 1.222e-05,
+    "Ask": 1.24e-05,
+    "OpenBuyOrders": 117,
+    "OpenSellOrders": 1205,
+    "PrevDay": 1.165e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2015-03-11T05:43:30.193"
   },
   {
     "MarketName": "BTC-FTC",
+<<<<<<< HEAD
     "High": 2.171e-05,
     "Low": 1.8e-05,
     "Volume": 1675378.90959036,
@@ -972,10 +1867,24 @@
     "OpenBuyOrders": 215,
     "OpenSellOrders": 2022,
     "PrevDay": 2.148e-05,
+=======
+    "High": 2.101e-05,
+    "Low": 2e-05,
+    "Volume": 265498.21464194,
+    "Last": 2.02e-05,
+    "BaseVolume": 5.41073323,
+    "TimeStamp": "2018-05-14T16:37:28.277",
+    "Bid": 2.02e-05,
+    "Ask": 2.034e-05,
+    "OpenBuyOrders": 247,
+    "OpenSellOrders": 1982,
+    "PrevDay": 2.049e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2014-02-13T00:00:00"
   },
   {
     "MarketName": "BTC-GAM",
+<<<<<<< HEAD
     "High": 0.00096684,
     "Low": 0.000956,
     "Volume": 216.8050833,
@@ -987,6 +1896,19 @@
     "OpenBuyOrders": 54,
     "OpenSellOrders": 522,
     "PrevDay": 0.00095822,
+=======
+    "High": 0.00099995,
+    "Low": 0.000903,
+    "Volume": 2361.06435864,
+    "Last": 0.00094523,
+    "BaseVolume": 2.24266875,
+    "TimeStamp": "2018-05-14T16:37:54.443",
+    "Bid": 0.00094523,
+    "Ask": 0.00095788,
+    "OpenBuyOrders": 47,
+    "OpenSellOrders": 553,
+    "PrevDay": 0.00099994,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2015-05-05T22:38:44.963"
   },
   {
@@ -996,7 +1918,11 @@
     "Volume": 152401.36208444,
     "Last": 0.00017346,
     "BaseVolume": 25.49032149,
+<<<<<<< HEAD
     "TimeStamp": "2018-05-11T18:41:25.31",
+=======
+    "TimeStamp": "2018-05-14T16:31:04.183",
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Bid": 0.00017003,
     "Ask": 0.00017457,
     "OpenBuyOrders": 159,
@@ -1006,6 +1932,7 @@
   },
   {
     "MarketName": "BTC-GBG",
+<<<<<<< HEAD
     "High": 9.49e-06,
     "Low": 7.99e-06,
     "Volume": 142644.82625347,
@@ -1017,10 +1944,24 @@
     "OpenBuyOrders": 68,
     "OpenSellOrders": 1826,
     "PrevDay": 8.63e-06,
+=======
+    "High": 8.68e-06,
+    "Low": 7.91e-06,
+    "Volume": 217685.34743933,
+    "Last": 8.06e-06,
+    "BaseVolume": 1.79921552,
+    "TimeStamp": "2018-05-14T16:35:37.023",
+    "Bid": 8.06e-06,
+    "Ask": 8.09e-06,
+    "OpenBuyOrders": 61,
+    "OpenSellOrders": 1832,
+    "PrevDay": 8.36e-06,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-02-12T00:38:21.023"
   },
   {
     "MarketName": "BTC-GBYTE",
+<<<<<<< HEAD
     "High": 0.02705314,
     "Low": 0.02501,
     "Volume": 946.61571876,
@@ -1032,10 +1973,24 @@
     "OpenBuyOrders": 158,
     "OpenSellOrders": 1643,
     "PrevDay": 0.02696186,
+=======
+    "High": 0.02716364,
+    "Low": 0.02600101,
+    "Volume": 251.25630539,
+    "Last": 0.02657783,
+    "BaseVolume": 6.66856718,
+    "TimeStamp": "2018-05-14T16:37:53.99",
+    "Bid": 0.02657847,
+    "Ask": 0.02691077,
+    "OpenBuyOrders": 185,
+    "OpenSellOrders": 1642,
+    "PrevDay": 0.02681771,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-04-13T20:46:39.83"
   },
   {
     "MarketName": "BTC-GEO",
+<<<<<<< HEAD
     "High": 0.00022511,
     "Low": 0.0002066,
     "Volume": 15131.75396647,
@@ -1047,10 +2002,24 @@
     "OpenBuyOrders": 68,
     "OpenSellOrders": 2183,
     "PrevDay": 0.00022589,
+=======
+    "High": 0.00022,
+    "Low": 0.00021,
+    "Volume": 19187.93723315,
+    "Last": 0.00021345,
+    "BaseVolume": 4.11612049,
+    "TimeStamp": "2018-05-14T16:37:48.7",
+    "Bid": 0.00021235,
+    "Ask": 0.00021345,
+    "OpenBuyOrders": 88,
+    "OpenSellOrders": 2067,
+    "PrevDay": 0.00021011,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2015-02-21T03:29:43.267"
   },
   {
     "MarketName": "BTC-GLD",
+<<<<<<< HEAD
     "High": 3.165e-05,
     "Low": 2.813e-05,
     "Volume": 153436.8355954,
@@ -1062,10 +2031,24 @@
     "OpenBuyOrders": 277,
     "OpenSellOrders": 1016,
     "PrevDay": 3.003e-05,
+=======
+    "High": 3.413e-05,
+    "Low": 2.836e-05,
+    "Volume": 366615.74380851,
+    "Last": 3.039e-05,
+    "BaseVolume": 11.29332346,
+    "TimeStamp": "2018-05-14T16:37:53.113",
+    "Bid": 3e-05,
+    "Ask": 3.038e-05,
+    "OpenBuyOrders": 399,
+    "OpenSellOrders": 1016,
+    "PrevDay": 3.001e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2014-03-22T16:00:00"
   },
   {
     "MarketName": "BTC-GNO",
+<<<<<<< HEAD
     "High": 0.0123,
     "Low": 0.01053452,
     "Volume": 1846.58146499,
@@ -1077,10 +2060,24 @@
     "OpenBuyOrders": 114,
     "OpenSellOrders": 2132,
     "PrevDay": 0.01141169,
+=======
+    "High": 0.01148597,
+    "Low": 0.01055023,
+    "Volume": 1286.45439135,
+    "Last": 0.01076003,
+    "BaseVolume": 14.02414603,
+    "TimeStamp": "2018-05-14T16:37:55.537",
+    "Bid": 0.01076003,
+    "Ask": 0.01093014,
+    "OpenBuyOrders": 122,
+    "OpenSellOrders": 1999,
+    "PrevDay": 0.01115795,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-04-28T02:43:12"
   },
   {
     "MarketName": "BTC-GNT",
+<<<<<<< HEAD
     "High": 8.1e-05,
     "Low": 6.501e-05,
     "Volume": 6013466.64105813,
@@ -1092,10 +2089,24 @@
     "OpenBuyOrders": 844,
     "OpenSellOrders": 5254,
     "PrevDay": 7.457e-05,
+=======
+    "High": 7.681e-05,
+    "Low": 6.924e-05,
+    "Volume": 2759537.16699562,
+    "Last": 7.121e-05,
+    "BaseVolume": 201.78750497,
+    "TimeStamp": "2018-05-14T16:37:56.787",
+    "Bid": 7.11e-05,
+    "Ask": 7.121e-05,
+    "OpenBuyOrders": 732,
+    "OpenSellOrders": 4060,
+    "PrevDay": 7.278e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-04-17T21:35:59.26"
   },
   {
     "MarketName": "BTC-GOLOS",
+<<<<<<< HEAD
     "High": 9.17e-06,
     "Low": 8.29e-06,
     "Volume": 546784.41440538,
@@ -1107,10 +2118,24 @@
     "OpenBuyOrders": 91,
     "OpenSellOrders": 1972,
     "PrevDay": 8.91e-06,
+=======
+    "High": 9.09e-06,
+    "Low": 8.07e-06,
+    "Volume": 184314.29708192,
+    "Last": 8.21e-06,
+    "BaseVolume": 1.56390931,
+    "TimeStamp": "2018-05-14T16:35:58.95",
+    "Bid": 8.21e-06,
+    "Ask": 8.27e-06,
+    "OpenBuyOrders": 94,
+    "OpenSellOrders": 1999,
+    "PrevDay": 8.71e-06,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-01-19T23:23:12.41"
   },
   {
     "MarketName": "BTC-GRC",
+<<<<<<< HEAD
     "High": 5.87e-06,
     "Low": 5.29e-06,
     "Volume": 945583.53726742,
@@ -1122,10 +2147,24 @@
     "OpenBuyOrders": 149,
     "OpenSellOrders": 2325,
     "PrevDay": 5.85e-06,
+=======
+    "High": 5.43e-06,
+    "Low": 5.3e-06,
+    "Volume": 186291.10115537,
+    "Last": 5.35e-06,
+    "BaseVolume": 1.00165105,
+    "TimeStamp": "2018-05-14T16:29:31.603",
+    "Bid": 5.35e-06,
+    "Ask": 5.41e-06,
+    "OpenBuyOrders": 129,
+    "OpenSellOrders": 2171,
+    "PrevDay": 5.31e-06,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2015-02-27T19:57:02.82"
   },
   {
     "MarketName": "BTC-GRS",
+<<<<<<< HEAD
     "High": 0.00013578,
     "Low": 9.474e-05,
     "Volume": 2821170.77976576,
@@ -1137,10 +2176,24 @@
     "OpenBuyOrders": 320,
     "OpenSellOrders": 2194,
     "PrevDay": 0.00012014,
+=======
+    "High": 0.00019458,
+    "Low": 0.00013406,
+    "Volume": 5053327.43272566,
+    "Last": 0.0001655,
+    "BaseVolume": 849.44038742,
+    "TimeStamp": "2018-05-14T16:37:48.373",
+    "Bid": 0.0001655,
+    "Ask": 0.00016551,
+    "OpenBuyOrders": 575,
+    "OpenSellOrders": 1551,
+    "PrevDay": 0.00013699,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2014-04-03T05:00:00"
   },
   {
     "MarketName": "BTC-GUP",
+<<<<<<< HEAD
     "High": 3.907e-05,
     "Low": 2.791e-05,
     "Volume": 3110195.10178647,
@@ -1152,10 +2205,24 @@
     "OpenBuyOrders": 185,
     "OpenSellOrders": 3922,
     "PrevDay": 3.835e-05,
+=======
+    "High": 3.403e-05,
+    "Low": 3.177e-05,
+    "Volume": 2051419.55325217,
+    "Last": 3.33e-05,
+    "BaseVolume": 67.87117427,
+    "TimeStamp": "2018-05-14T16:37:55.147",
+    "Bid": 3.33e-05,
+    "Ask": 3.341e-05,
+    "OpenBuyOrders": 242,
+    "OpenSellOrders": 3509,
+    "PrevDay": 3.277e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-04-29T18:08:12.39"
   },
   {
     "MarketName": "BTC-HMQ",
+<<<<<<< HEAD
     "High": 1.841e-05,
     "Low": 1.701e-05,
     "Volume": 812516.24350131,
@@ -1167,10 +2234,24 @@
     "OpenBuyOrders": 145,
     "OpenSellOrders": 3337,
     "PrevDay": 1.805e-05,
+=======
+    "High": 1.851e-05,
+    "Low": 1.707e-05,
+    "Volume": 1076643.25593439,
+    "Last": 1.794e-05,
+    "BaseVolume": 18.94184181,
+    "TimeStamp": "2018-05-14T16:37:54.973",
+    "Bid": 1.802e-05,
+    "Ask": 1.834e-05,
+    "OpenBuyOrders": 165,
+    "OpenSellOrders": 3292,
+    "PrevDay": 1.735e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-05-10T00:02:47.373"
   },
   {
     "MarketName": "BTC-IGNIS",
+<<<<<<< HEAD
     "High": 1.581e-05,
     "Low": 1.301e-05,
     "Volume": 8487832.36163671,
@@ -1182,10 +2263,24 @@
     "OpenBuyOrders": 495,
     "OpenSellOrders": 4061,
     "PrevDay": 1.571e-05,
+=======
+    "High": 1.6e-05,
+    "Low": 1.452e-05,
+    "Volume": 2487770.86504605,
+    "Last": 1.489e-05,
+    "BaseVolume": 37.10673621,
+    "TimeStamp": "2018-05-14T16:37:52.503",
+    "Bid": 1.488e-05,
+    "Ask": 1.506e-05,
+    "OpenBuyOrders": 596,
+    "OpenSellOrders": 4039,
+    "PrevDay": 1.482e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2018-01-30T18:42:18.58"
   },
   {
     "MarketName": "BTC-INCNT",
+<<<<<<< HEAD
     "High": 3.945e-05,
     "Low": 3.671e-05,
     "Volume": 19148.69076239,
@@ -1197,10 +2292,24 @@
     "OpenBuyOrders": 69,
     "OpenSellOrders": 1140,
     "PrevDay": 3.797e-05,
+=======
+    "High": 4.1e-05,
+    "Low": 3.671e-05,
+    "Volume": 86510.13990373,
+    "Last": 3.813e-05,
+    "BaseVolume": 3.41567668,
+    "TimeStamp": "2018-05-14T16:37:48.813",
+    "Bid": 3.813e-05,
+    "Ask": 3.845e-05,
+    "OpenBuyOrders": 74,
+    "OpenSellOrders": 1052,
+    "PrevDay": 3.742e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-04-04T21:20:51.083"
   },
   {
     "MarketName": "BTC-IOC",
+<<<<<<< HEAD
     "High": 0.00017994,
     "Low": 0.00016245,
     "Volume": 36858.88759289,
@@ -1212,10 +2321,24 @@
     "OpenBuyOrders": 248,
     "OpenSellOrders": 2457,
     "PrevDay": 0.00016777,
+=======
+    "High": 0.0001638,
+    "Low": 0.00015,
+    "Volume": 40977.89720501,
+    "Last": 0.00015657,
+    "BaseVolume": 6.37935963,
+    "TimeStamp": "2018-05-14T16:37:48.077",
+    "Bid": 0.00015634,
+    "Ask": 0.00015821,
+    "OpenBuyOrders": 207,
+    "OpenSellOrders": 2457,
+    "PrevDay": 0.00015301,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2014-07-29T16:57:43.787"
   },
   {
     "MarketName": "BTC-ION",
+<<<<<<< HEAD
     "High": 0.00028005,
     "Low": 0.00023033,
     "Volume": 87939.1185608,
@@ -1227,10 +2350,24 @@
     "OpenBuyOrders": 117,
     "OpenSellOrders": 1868,
     "PrevDay": 0.000275,
+=======
+    "High": 0.00027614,
+    "Low": 0.00024394,
+    "Volume": 74285.66849154,
+    "Last": 0.00025999,
+    "BaseVolume": 19.24691961,
+    "TimeStamp": "2018-05-14T16:36:59.55",
+    "Bid": 0.00025777,
+    "Ask": 0.00025999,
+    "OpenBuyOrders": 189,
+    "OpenSellOrders": 1829,
+    "PrevDay": 0.00024999,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-02-18T23:41:17.04"
   },
   {
     "MarketName": "BTC-IOP",
+<<<<<<< HEAD
     "High": 0.00021853,
     "Low": 0.00018701,
     "Volume": 314614.44310105,
@@ -1242,10 +2379,24 @@
     "OpenBuyOrders": 112,
     "OpenSellOrders": 4320,
     "PrevDay": 0.00021768,
+=======
+    "High": 0.00021678,
+    "Low": 0.00020225,
+    "Volume": 62396.31076725,
+    "Last": 0.00021023,
+    "BaseVolume": 13.01520299,
+    "TimeStamp": "2018-05-14T16:37:12.587",
+    "Bid": 0.00021023,
+    "Ask": 0.00021388,
+    "OpenBuyOrders": 136,
+    "OpenSellOrders": 4217,
+    "PrevDay": 0.00020993,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2016-12-22T00:54:23.477"
   },
   {
     "MarketName": "BTC-KMD",
+<<<<<<< HEAD
     "High": 0.00037999,
     "Low": 0.00032423,
     "Volume": 309328.58893793,
@@ -1257,10 +2408,24 @@
     "OpenBuyOrders": 438,
     "OpenSellOrders": 3493,
     "PrevDay": 0.0003626,
+=======
+    "High": 0.00038801,
+    "Low": 0.00034961,
+    "Volume": 279652.00876585,
+    "Last": 0.00036024,
+    "BaseVolume": 102.02611447,
+    "TimeStamp": "2018-05-14T16:37:51.173",
+    "Bid": 0.00035602,
+    "Ask": 0.00036009,
+    "OpenBuyOrders": 513,
+    "OpenSellOrders": 3322,
+    "PrevDay": 0.00036106,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-02-11T23:04:01.853"
   },
   {
     "MarketName": "BTC-KORE",
+<<<<<<< HEAD
     "High": 0.00036002,
     "Low": 0.000316,
     "Volume": 14670.80733223,
@@ -1272,10 +2437,24 @@
     "OpenBuyOrders": 85,
     "OpenSellOrders": 1329,
     "PrevDay": 0.00035643,
+=======
+    "High": 0.00045,
+    "Low": 0.000367,
+    "Volume": 145844.75336241,
+    "Last": 0.000375,
+    "BaseVolume": 58.3787501,
+    "TimeStamp": "2018-05-14T16:37:34.53",
+    "Bid": 0.000375,
+    "Ask": 0.00038056,
+    "OpenBuyOrders": 165,
+    "OpenSellOrders": 1199,
+    "PrevDay": 0.00037374,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2014-06-17T05:46:29.303"
   },
   {
     "MarketName": "BTC-LBC",
+<<<<<<< HEAD
     "High": 3.147e-05,
     "Low": 2.58e-05,
     "Volume": 1947729.69970643,
@@ -1287,10 +2466,24 @@
     "OpenBuyOrders": 246,
     "OpenSellOrders": 5789,
     "PrevDay": 3.146e-05,
+=======
+    "High": 3.01e-05,
+    "Low": 2.7e-05,
+    "Volume": 927825.38507121,
+    "Last": 2.754e-05,
+    "BaseVolume": 26.29322401,
+    "TimeStamp": "2018-05-14T16:37:42.31",
+    "Bid": 2.74e-05,
+    "Ask": 2.754e-05,
+    "OpenBuyOrders": 259,
+    "OpenSellOrders": 5486,
+    "PrevDay": 2.847e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2016-07-05T21:50:07.81"
   },
   {
     "MarketName": "BTC-LGD",
+<<<<<<< HEAD
     "High": 8.04e-05,
     "Low": 6.653e-05,
     "Volume": 146971.878269,
@@ -1302,10 +2495,24 @@
     "OpenBuyOrders": 122,
     "OpenSellOrders": 1807,
     "PrevDay": 8.048e-05,
+=======
+    "High": 6.874e-05,
+    "Low": 6.279e-05,
+    "Volume": 37146.25219723,
+    "Last": 6.408e-05,
+    "BaseVolume": 2.43549379,
+    "TimeStamp": "2018-05-14T16:37:55.1",
+    "Bid": 6.316e-05,
+    "Ask": 6.408e-05,
+    "OpenBuyOrders": 82,
+    "OpenSellOrders": 1802,
+    "PrevDay": 6.854e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-04-18T07:37:41.3"
   },
   {
     "MarketName": "BTC-LMC",
+<<<<<<< HEAD
     "High": 6.72e-06,
     "Low": 6.33e-06,
     "Volume": 1251777.17355517,
@@ -1317,10 +2524,24 @@
     "OpenBuyOrders": 127,
     "OpenSellOrders": 3146,
     "PrevDay": 6.56e-06,
+=======
+    "High": 6.98e-06,
+    "Low": 6.54e-06,
+    "Volume": 672401.79873959,
+    "Last": 6.76e-06,
+    "BaseVolume": 4.55040908,
+    "TimeStamp": "2018-05-14T16:37:25.887",
+    "Bid": 6.82e-06,
+    "Ask": 6.89e-06,
+    "OpenBuyOrders": 151,
+    "OpenSellOrders": 2948,
+    "PrevDay": 6.75e-06,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-02-18T23:55:53.153"
   },
   {
     "MarketName": "BTC-LRC",
+<<<<<<< HEAD
     "High": 8.576e-05,
     "Low": 7.137e-05,
     "Volume": 567679.76653945,
@@ -1332,10 +2553,24 @@
     "OpenBuyOrders": 76,
     "OpenSellOrders": 695,
     "PrevDay": 8.548e-05,
+=======
+    "High": 7.98e-05,
+    "Low": 7.402e-05,
+    "Volume": 820730.20611931,
+    "Last": 7.68e-05,
+    "BaseVolume": 63.49881978,
+    "TimeStamp": "2018-05-14T16:37:56.147",
+    "Bid": 7.6e-05,
+    "Ask": 7.68e-05,
+    "OpenBuyOrders": 94,
+    "OpenSellOrders": 719,
+    "PrevDay": 7.958e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2018-03-08T18:57:21.983"
   },
   {
     "MarketName": "BTC-LSK",
+<<<<<<< HEAD
     "High": 0.00126058,
     "Low": 0.00113052,
     "Volume": 244678.52438999,
@@ -1347,10 +2582,24 @@
     "OpenBuyOrders": 454,
     "OpenSellOrders": 4476,
     "PrevDay": 0.00125,
+=======
+    "High": 0.00132196,
+    "Low": 0.00123124,
+    "Volume": 129519.43023437,
+    "Last": 0.00128596,
+    "BaseVolume": 163.83533008,
+    "TimeStamp": "2018-05-14T16:37:53.723",
+    "Bid": 0.00128193,
+    "Ask": 0.00128631,
+    "OpenBuyOrders": 536,
+    "OpenSellOrders": 4441,
+    "PrevDay": 0.00124243,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2016-05-24T18:49:52.77"
   },
   {
     "MarketName": "BTC-LTC",
+<<<<<<< HEAD
     "High": 0.01679,
     "Low": 0.01605333,
     "Volume": 24979.04567243,
@@ -1362,10 +2611,24 @@
     "OpenBuyOrders": 1346,
     "OpenSellOrders": 3963,
     "PrevDay": 0.0167,
+=======
+    "High": 0.0172,
+    "Low": 0.0161,
+    "Volume": 21949.58933488,
+    "Last": 0.01713,
+    "BaseVolume": 363.23585574,
+    "TimeStamp": "2018-05-14T16:37:56.787",
+    "Bid": 0.01704502,
+    "Ask": 0.01712799,
+    "OpenBuyOrders": 1297,
+    "OpenSellOrders": 3791,
+    "PrevDay": 0.01674001,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2014-02-13T00:00:00"
   },
   {
     "MarketName": "BTC-LUN",
+<<<<<<< HEAD
     "High": 0.0021,
     "Low": 0.00157001,
     "Volume": 142903.43417934,
@@ -1377,10 +2640,24 @@
     "OpenBuyOrders": 455,
     "OpenSellOrders": 1565,
     "PrevDay": 0.00187435,
+=======
+    "High": 0.00388222,
+    "Low": 0.00207636,
+    "Volume": 895072.45624623,
+    "Last": 0.00215847,
+    "BaseVolume": 2563.23345713,
+    "TimeStamp": "2018-05-14T16:37:55.35",
+    "Bid": 0.00215848,
+    "Ask": 0.00217946,
+    "OpenBuyOrders": 615,
+    "OpenSellOrders": 1350,
+    "PrevDay": 0.00223803,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-04-30T16:57:03.27"
   },
   {
     "MarketName": "BTC-MANA",
+<<<<<<< HEAD
     "High": 1.569e-05,
     "Low": 1.35e-05,
     "Volume": 5457445.60944515,
@@ -1392,10 +2669,24 @@
     "OpenBuyOrders": 348,
     "OpenSellOrders": 2456,
     "PrevDay": 1.565e-05,
+=======
+    "High": 1.747e-05,
+    "Low": 1.487e-05,
+    "Volume": 6772363.4214504,
+    "Last": 1.692e-05,
+    "BaseVolume": 109.47973216,
+    "TimeStamp": "2018-05-14T16:37:54.567",
+    "Bid": 1.691e-05,
+    "Ask": 1.692e-05,
+    "OpenBuyOrders": 431,
+    "OpenSellOrders": 2487,
+    "PrevDay": 1.591e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-10-13T23:32:02.993"
   },
   {
     "MarketName": "BTC-MCO",
+<<<<<<< HEAD
     "High": 0.001192,
     "Low": 0.00101772,
     "Volume": 102007.98143302,
@@ -1407,10 +2698,24 @@
     "OpenBuyOrders": 317,
     "OpenSellOrders": 4061,
     "PrevDay": 0.00118202,
+=======
+    "High": 0.0012948,
+    "Low": 0.00113243,
+    "Volume": 107133.3564625,
+    "Last": 0.00123423,
+    "BaseVolume": 128.87808832,
+    "TimeStamp": "2018-05-14T16:37:55.317",
+    "Bid": 0.0012353,
+    "Ask": 0.00124608,
+    "OpenBuyOrders": 416,
+    "OpenSellOrders": 3963,
+    "PrevDay": 0.00122563,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-07-02T00:37:16.957"
   },
   {
     "MarketName": "BTC-MEME",
+<<<<<<< HEAD
     "High": 2.923e-05,
     "Low": 2.433e-05,
     "Volume": 538796.69526259,
@@ -1422,10 +2727,24 @@
     "OpenBuyOrders": 100,
     "OpenSellOrders": 2513,
     "PrevDay": 2.88e-05,
+=======
+    "High": 3.1e-05,
+    "Low": 2.535e-05,
+    "Volume": 848221.23447037,
+    "Last": 2.687e-05,
+    "BaseVolume": 24.12124213,
+    "TimeStamp": "2018-05-14T16:37:43.483",
+    "Bid": 2.687e-05,
+    "Ask": 2.746e-05,
+    "OpenBuyOrders": 117,
+    "OpenSellOrders": 2478,
+    "PrevDay": 2.632e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2016-04-01T18:24:07.207"
   },
   {
     "MarketName": "BTC-MER",
+<<<<<<< HEAD
     "High": 2.9e-05,
     "Low": 2.296e-05,
     "Volume": 884080.33065256,
@@ -1437,10 +2756,24 @@
     "OpenBuyOrders": 69,
     "OpenSellOrders": 1223,
     "PrevDay": 2.93e-05,
+=======
+    "High": 2.826e-05,
+    "Low": 2.54e-05,
+    "Volume": 417465.27082789,
+    "Last": 2.652e-05,
+    "BaseVolume": 11.14685603,
+    "TimeStamp": "2018-05-14T16:37:56.427",
+    "Bid": 2.642e-05,
+    "Ask": 2.705e-05,
+    "OpenBuyOrders": 100,
+    "OpenSellOrders": 1240,
+    "PrevDay": 2.582e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-11-13T23:42:26.193"
   },
   {
     "MarketName": "BTC-MLN",
+<<<<<<< HEAD
     "High": 0.0070315,
     "Low": 0.00644735,
     "Volume": 252.45258909,
@@ -1452,10 +2785,24 @@
     "OpenBuyOrders": 68,
     "OpenSellOrders": 747,
     "PrevDay": 0.00703143,
+=======
+    "High": 0.00728137,
+    "Low": 0.00654453,
+    "Volume": 388.18864735,
+    "Last": 0.0068783,
+    "BaseVolume": 2.68067345,
+    "TimeStamp": "2018-05-14T16:37:49.813",
+    "Bid": 0.00669535,
+    "Ask": 0.00687839,
+    "OpenBuyOrders": 67,
+    "OpenSellOrders": 726,
+    "PrevDay": 0.00675961,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-03-15T19:30:56.167"
   },
   {
     "MarketName": "BTC-MONA",
+<<<<<<< HEAD
     "High": 0.00050416,
     "Low": 0.00044849,
     "Volume": 80607.36433093,
@@ -1467,10 +2814,24 @@
     "OpenBuyOrders": 269,
     "OpenSellOrders": 2319,
     "PrevDay": 0.00048206,
+=======
+    "High": 0.00049552,
+    "Low": 0.00046901,
+    "Volume": 88682.88218738,
+    "Last": 0.00048192,
+    "BaseVolume": 42.65870053,
+    "TimeStamp": "2018-05-14T16:37:55.1",
+    "Bid": 0.00047882,
+    "Ask": 0.00048192,
+    "OpenBuyOrders": 271,
+    "OpenSellOrders": 2325,
+    "PrevDay": 0.00048047,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2014-04-18T22:00:00"
   },
   {
     "MarketName": "BTC-MUE",
+<<<<<<< HEAD
     "High": 1.395e-05,
     "Low": 1.276e-05,
     "Volume": 1615877.9843878,
@@ -1482,10 +2843,24 @@
     "OpenBuyOrders": 171,
     "OpenSellOrders": 3612,
     "PrevDay": 1.376e-05,
+=======
+    "High": 1.35e-05,
+    "Low": 1.303e-05,
+    "Volume": 991232.15440348,
+    "Last": 1.325e-05,
+    "BaseVolume": 13.05307148,
+    "TimeStamp": "2018-05-14T16:37:10.417",
+    "Bid": 1.324e-05,
+    "Ask": 1.325e-05,
+    "OpenBuyOrders": 201,
+    "OpenSellOrders": 3638,
+    "PrevDay": 1.332e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2015-04-09T17:31:31.113"
   },
   {
     "MarketName": "BTC-MUSIC",
+<<<<<<< HEAD
     "High": 1.68e-06,
     "Low": 1.55e-06,
     "Volume": 5492925.14470395,
@@ -1497,10 +2872,24 @@
     "OpenBuyOrders": 244,
     "OpenSellOrders": 5023,
     "PrevDay": 1.65e-06,
+=======
+    "High": 1.87e-06,
+    "Low": 1.65e-06,
+    "Volume": 10444186.56347026,
+    "Last": 1.78e-06,
+    "BaseVolume": 18.38138966,
+    "TimeStamp": "2018-05-14T16:37:45.797",
+    "Bid": 1.78e-06,
+    "Ask": 1.79e-06,
+    "OpenBuyOrders": 326,
+    "OpenSellOrders": 4922,
+    "PrevDay": 1.74e-06,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-03-27T19:59:13.073"
   },
   {
     "MarketName": "BTC-NAV",
+<<<<<<< HEAD
     "High": 0.00012685,
     "Low": 0.00011537,
     "Volume": 179743.84797729,
@@ -1512,10 +2901,24 @@
     "OpenBuyOrders": 235,
     "OpenSellOrders": 2537,
     "PrevDay": 0.00012429,
+=======
+    "High": 0.00012771,
+    "Low": 0.0001185,
+    "Volume": 121194.7590874,
+    "Last": 0.00012644,
+    "BaseVolume": 15.0524078,
+    "TimeStamp": "2018-05-14T16:37:43.403",
+    "Bid": 0.00012494,
+    "Ask": 0.00012611,
+    "OpenBuyOrders": 251,
+    "OpenSellOrders": 2443,
+    "PrevDay": 0.000125,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2014-07-08T03:37:28.39"
   },
   {
     "MarketName": "BTC-NBT",
+<<<<<<< HEAD
     "High": 5.963e-05,
     "Low": 5.071e-05,
     "Volume": 464607.17165757,
@@ -1527,10 +2930,24 @@
     "OpenBuyOrders": 115,
     "OpenSellOrders": 2472,
     "PrevDay": 5.809e-05,
+=======
+    "High": 5.786e-05,
+    "Low": 5.038e-05,
+    "Volume": 566029.81386434,
+    "Last": 5.227e-05,
+    "BaseVolume": 30.20853371,
+    "TimeStamp": "2018-05-14T16:36:02.87",
+    "Bid": 5.227e-05,
+    "Ask": 5.257e-05,
+    "OpenBuyOrders": 114,
+    "OpenSellOrders": 2505,
+    "PrevDay": 5.605e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2015-04-08T03:57:37.33"
   },
   {
     "MarketName": "BTC-NEO",
+<<<<<<< HEAD
     "High": 0.00797399,
     "Low": 0.00710133,
     "Volume": 57546.96249901,
@@ -1542,10 +2959,24 @@
     "OpenBuyOrders": 2210,
     "OpenSellOrders": 6319,
     "PrevDay": 0.00794993,
+=======
+    "High": 0.00797,
+    "Low": 0.00752002,
+    "Volume": 32595.42684856,
+    "Last": 0.0077227,
+    "BaseVolume": 252.14845577,
+    "TimeStamp": "2018-05-14T16:37:55.537",
+    "Bid": 0.00765702,
+    "Ask": 0.00772192,
+    "OpenBuyOrders": 2321,
+    "OpenSellOrders": 6295,
+    "PrevDay": 0.00790808,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2016-10-26T01:28:31.96"
   },
   {
     "MarketName": "BTC-NEOS",
+<<<<<<< HEAD
     "High": 0.00037032,
     "Low": 0.00032,
     "Volume": 14161.72252115,
@@ -1557,10 +2988,24 @@
     "OpenBuyOrders": 127,
     "OpenSellOrders": 1398,
     "PrevDay": 0.00036734,
+=======
+    "High": 0.000352,
+    "Low": 0.00032013,
+    "Volume": 9347.38696946,
+    "Last": 0.00033999,
+    "BaseVolume": 3.11506426,
+    "TimeStamp": "2018-05-14T16:37:51.097",
+    "Bid": 0.00033221,
+    "Ask": 0.00033999,
+    "OpenBuyOrders": 144,
+    "OpenSellOrders": 1386,
+    "PrevDay": 0.00034711,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2014-08-20T00:06:59.63"
   },
   {
     "MarketName": "BTC-NLG",
+<<<<<<< HEAD
     "High": 1.145e-05,
     "Low": 1.029e-05,
     "Volume": 1094751.68686602,
@@ -1572,10 +3017,24 @@
     "OpenBuyOrders": 135,
     "OpenSellOrders": 1876,
     "PrevDay": 1.076e-05,
+=======
+    "High": 1.172e-05,
+    "Low": 9.82e-06,
+    "Volume": 905639.18452448,
+    "Last": 1.102e-05,
+    "BaseVolume": 9.71571934,
+    "TimeStamp": "2018-05-14T16:37:54.1",
+    "Bid": 1.102e-05,
+    "Ask": 1.111e-05,
+    "OpenBuyOrders": 159,
+    "OpenSellOrders": 1778,
+    "PrevDay": 1.062e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2014-04-04T22:00:00"
   },
   {
     "MarketName": "BTC-NMR",
+<<<<<<< HEAD
     "High": 0.00162311,
     "Low": 0.00132953,
     "Volume": 17635.69153459,
@@ -1587,10 +3046,24 @@
     "OpenBuyOrders": 144,
     "OpenSellOrders": 2656,
     "PrevDay": 0.00161511,
+=======
+    "High": 0.00154999,
+    "Low": 0.00143216,
+    "Volume": 8881.27234252,
+    "Last": 0.00149861,
+    "BaseVolume": 13.14165065,
+    "TimeStamp": "2018-05-14T16:37:56.787",
+    "Bid": 0.00149879,
+    "Ask": 0.00153923,
+    "OpenBuyOrders": 145,
+    "OpenSellOrders": 2732,
+    "PrevDay": 0.00146145,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-06-22T21:58:57.657"
   },
   {
     "MarketName": "BTC-NXC",
+<<<<<<< HEAD
     "High": 1.864e-05,
     "Low": 1.708e-05,
     "Volume": 64830.54947993,
@@ -1602,10 +3075,24 @@
     "OpenBuyOrders": 56,
     "OpenSellOrders": 1889,
     "PrevDay": 1.823e-05,
+=======
+    "High": 1.817e-05,
+    "Low": 1.628e-05,
+    "Volume": 100402.06485127,
+    "Last": 1.773e-05,
+    "BaseVolume": 1.72996317,
+    "TimeStamp": "2018-05-14T16:36:34.83",
+    "Bid": 1.773e-05,
+    "Ask": 1.796e-05,
+    "OpenBuyOrders": 52,
+    "OpenSellOrders": 1838,
+    "PrevDay": 1.817e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-04-17T22:51:08.97"
   },
   {
     "MarketName": "BTC-NXS",
+<<<<<<< HEAD
     "High": 0.00025754,
     "Low": 0.00022539,
     "Volume": 298019.27237099,
@@ -1617,10 +3104,24 @@
     "OpenBuyOrders": 496,
     "OpenSellOrders": 3571,
     "PrevDay": 0.00025229,
+=======
+    "High": 0.00024958,
+    "Low": 0.00022691,
+    "Volume": 226788.3801983,
+    "Last": 0.00023957,
+    "BaseVolume": 54.34416704,
+    "TimeStamp": "2018-05-14T16:37:54.74",
+    "Bid": 0.00023965,
+    "Ask": 0.00024177,
+    "OpenBuyOrders": 424,
+    "OpenSellOrders": 3608,
+    "PrevDay": 0.00024577,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2015-01-25T03:00:35.143"
   },
   {
     "MarketName": "BTC-NXT",
+<<<<<<< HEAD
     "High": 2.237e-05,
     "Low": 1.939e-05,
     "Volume": 7310918.31141101,
@@ -1632,10 +3133,24 @@
     "OpenBuyOrders": 384,
     "OpenSellOrders": 8409,
     "PrevDay": 2.21e-05,
+=======
+    "High": 2.158e-05,
+    "Low": 2.004e-05,
+    "Volume": 4231675.54846383,
+    "Last": 2.085e-05,
+    "BaseVolume": 88.14451706,
+    "TimeStamp": "2018-05-14T16:37:53.96",
+    "Bid": 2.084e-05,
+    "Ask": 2.085e-05,
+    "OpenBuyOrders": 427,
+    "OpenSellOrders": 8174,
+    "PrevDay": 2.09e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2014-03-03T09:00:00"
   },
   {
     "MarketName": "BTC-OK",
+<<<<<<< HEAD
     "High": 1.943e-05,
     "Low": 1.622e-05,
     "Volume": 1187017.89599951,
@@ -1647,10 +3162,24 @@
     "OpenBuyOrders": 217,
     "OpenSellOrders": 5496,
     "PrevDay": 1.894e-05,
+=======
+    "High": 1.84e-05,
+    "Low": 1.7e-05,
+    "Volume": 861831.97979106,
+    "Last": 1.84e-05,
+    "BaseVolume": 15.24761659,
+    "TimeStamp": "2018-05-14T16:37:22.65",
+    "Bid": 1.841e-05,
+    "Ask": 1.845e-05,
+    "OpenBuyOrders": 313,
+    "OpenSellOrders": 5394,
+    "PrevDay": 1.761e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2015-05-30T19:26:37.523"
   },
   {
     "MarketName": "BTC-OMG",
+<<<<<<< HEAD
     "High": 0.00173413,
     "Low": 0.00155,
     "Volume": 130369.47119461,
@@ -1662,10 +3191,24 @@
     "OpenBuyOrders": 1084,
     "OpenSellOrders": 5302,
     "PrevDay": 0.00172847,
+=======
+    "High": 0.0016984,
+    "Low": 0.00159,
+    "Volume": 72626.57522086,
+    "Last": 0.0016272,
+    "BaseVolume": 118.52379573,
+    "TimeStamp": "2018-05-14T16:37:55.973",
+    "Bid": 0.00162384,
+    "Ask": 0.0016272,
+    "OpenBuyOrders": 1118,
+    "OpenSellOrders": 5200,
+    "PrevDay": 0.00168,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-07-16T17:07:42.313"
   },
   {
     "MarketName": "BTC-OMNI",
+<<<<<<< HEAD
     "High": 0.00439611,
     "Low": 0.004,
     "Volume": 1302.2402207,
@@ -1677,10 +3220,24 @@
     "OpenBuyOrders": 148,
     "OpenSellOrders": 1973,
     "PrevDay": 0.00411,
+=======
+    "High": 0.00420115,
+    "Low": 0.00345594,
+    "Volume": 1831.14381996,
+    "Last": 0.00407668,
+    "BaseVolume": 7.2642377,
+    "TimeStamp": "2018-05-14T16:37:44.25",
+    "Bid": 0.00404296,
+    "Ask": 0.00407668,
+    "OpenBuyOrders": 165,
+    "OpenSellOrders": 1911,
+    "PrevDay": 0.00416667,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2015-11-03T19:13:33.197"
   },
   {
     "MarketName": "BTC-PART",
+<<<<<<< HEAD
     "High": 0.00159999,
     "Low": 0.00136305,
     "Volume": 83373.17864305,
@@ -1692,10 +3249,24 @@
     "OpenBuyOrders": 142,
     "OpenSellOrders": 1837,
     "PrevDay": 0.0015667,
+=======
+    "High": 0.00205225,
+    "Low": 0.00145568,
+    "Volume": 235935.34062531,
+    "Last": 0.00170827,
+    "BaseVolume": 418.4853721,
+    "TimeStamp": "2018-05-14T16:37:56.053",
+    "Bid": 0.0017077,
+    "Ask": 0.00170884,
+    "OpenBuyOrders": 273,
+    "OpenSellOrders": 1401,
+    "PrevDay": 0.00148035,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-07-20T18:19:07.157"
   },
   {
     "MarketName": "BTC-PAY",
+<<<<<<< HEAD
     "High": 0.00014391,
     "Low": 0.00013002,
     "Volume": 628106.26159275,
@@ -1707,10 +3278,24 @@
     "OpenBuyOrders": 363,
     "OpenSellOrders": 6830,
     "PrevDay": 0.0001417,
+=======
+    "High": 0.00015353,
+    "Low": 0.0001345,
+    "Volume": 650328.43493727,
+    "Last": 0.0001487,
+    "BaseVolume": 93.34902016,
+    "TimeStamp": "2018-05-14T16:37:56.787",
+    "Bid": 0.00014726,
+    "Ask": 0.00014859,
+    "OpenBuyOrders": 407,
+    "OpenSellOrders": 6639,
+    "PrevDay": 0.00014277,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-07-07T07:14:00.793"
   },
   {
     "MarketName": "BTC-PINK",
+<<<<<<< HEAD
     "High": 3.39e-06,
     "Low": 2.75e-06,
     "Volume": 3725551.3939337,
@@ -1722,10 +3307,24 @@
     "OpenBuyOrders": 214,
     "OpenSellOrders": 2137,
     "PrevDay": 3.4e-06,
+=======
+    "High": 3.11e-06,
+    "Low": 2.83e-06,
+    "Volume": 749825.5152566,
+    "Last": 2.83e-06,
+    "BaseVolume": 2.2315781,
+    "TimeStamp": "2018-05-14T16:35:26.38",
+    "Bid": 2.85e-06,
+    "Ask": 2.9e-06,
+    "OpenBuyOrders": 198,
+    "OpenSellOrders": 2048,
+    "PrevDay": 3.06e-06,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2014-07-29T07:41:09.4"
   },
   {
     "MarketName": "BTC-PIVX",
+<<<<<<< HEAD
     "High": 0.00065984,
     "Low": 0.000501,
     "Volume": 699900.69083838,
@@ -1737,10 +3336,24 @@
     "OpenBuyOrders": 562,
     "OpenSellOrders": 2904,
     "PrevDay": 0.00057706,
+=======
+    "High": 0.00066,
+    "Low": 0.00061907,
+    "Volume": 154025.92744204,
+    "Last": 0.00062664,
+    "BaseVolume": 98.72733672,
+    "TimeStamp": "2018-05-14T16:37:54.88",
+    "Bid": 0.00062003,
+    "Ask": 0.00062662,
+    "OpenBuyOrders": 673,
+    "OpenSellOrders": 2548,
+    "PrevDay": 0.00063169,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2016-03-02T20:45:37.987"
   },
   {
     "MarketName": "BTC-POLY",
+<<<<<<< HEAD
     "High": 0.000104,
     "Low": 8.75e-05,
     "Volume": 7501950.37311325,
@@ -1752,10 +3365,24 @@
     "OpenBuyOrders": 889,
     "OpenSellOrders": 1414,
     "PrevDay": 9.865e-05,
+=======
+    "High": 0.000134,
+    "Low": 0.00011621,
+    "Volume": 7078604.50721192,
+    "Last": 0.00013002,
+    "BaseVolume": 877.08628181,
+    "TimeStamp": "2018-05-14T16:37:56.803",
+    "Bid": 0.00012993,
+    "Ask": 0.00013001,
+    "OpenBuyOrders": 1148,
+    "OpenSellOrders": 1095,
+    "PrevDay": 0.00011849,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2018-04-09T16:15:37.53"
   },
   {
     "MarketName": "BTC-POT",
+<<<<<<< HEAD
     "High": 1.349e-05,
     "Low": 1.212e-05,
     "Volume": 701207.58692751,
@@ -1767,10 +3394,24 @@
     "OpenBuyOrders": 217,
     "OpenSellOrders": 5900,
     "PrevDay": 1.328e-05,
+=======
+    "High": 1.298e-05,
+    "Low": 1.224e-05,
+    "Volume": 398284.09305427,
+    "Last": 1.28e-05,
+    "BaseVolume": 5.0440543,
+    "TimeStamp": "2018-05-14T16:37:54.317",
+    "Bid": 1.264e-05,
+    "Ask": 1.28e-05,
+    "OpenBuyOrders": 247,
+    "OpenSellOrders": 5506,
+    "PrevDay": 1.249e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2014-03-11T08:00:00"
   },
   {
     "MarketName": "BTC-POWR",
+<<<<<<< HEAD
     "High": 5.107e-05,
     "Low": 4.235e-05,
     "Volume": 3555537.67594713,
@@ -1782,10 +3423,24 @@
     "OpenBuyOrders": 917,
     "OpenSellOrders": 5020,
     "PrevDay": 5.001e-05,
+=======
+    "High": 5.42e-05,
+    "Low": 4.96e-05,
+    "Volume": 2077268.49591851,
+    "Last": 5.308e-05,
+    "BaseVolume": 108.88730375,
+    "TimeStamp": "2018-05-14T16:37:56.113",
+    "Bid": 5.29e-05,
+    "Ask": 5.322e-05,
+    "OpenBuyOrders": 1087,
+    "OpenSellOrders": 4652,
+    "PrevDay": 5.18e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-11-14T00:31:01.76"
   },
   {
     "MarketName": "BTC-PPC",
+<<<<<<< HEAD
     "High": 0.0003247,
     "Low": 0.000291,
     "Volume": 27514.66467713,
@@ -1797,10 +3452,24 @@
     "OpenBuyOrders": 219,
     "OpenSellOrders": 1294,
     "PrevDay": 0.00031208,
+=======
+    "High": 0.00032,
+    "Low": 0.00030405,
+    "Volume": 16057.84440378,
+    "Last": 0.00031399,
+    "BaseVolume": 5.01450236,
+    "TimeStamp": "2018-05-14T16:37:15.557",
+    "Bid": 0.00031399,
+    "Ask": 0.00031612,
+    "OpenBuyOrders": 211,
+    "OpenSellOrders": 1287,
+    "PrevDay": 0.00030764,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2014-02-13T00:00:00"
   },
   {
     "MarketName": "BTC-PRO",
+<<<<<<< HEAD
     "High": 0.000175,
     "Low": 0.000148,
     "Volume": 216712.43294419,
@@ -1812,10 +3481,24 @@
     "OpenBuyOrders": 124,
     "OpenSellOrders": 1394,
     "PrevDay": 0.00017237,
+=======
+    "High": 0.000203,
+    "Low": 0.00014704,
+    "Volume": 1000891.12733017,
+    "Last": 0.00016798,
+    "BaseVolume": 179.65704729,
+    "TimeStamp": "2018-05-14T16:37:56.66",
+    "Bid": 0.00016793,
+    "Ask": 0.00016798,
+    "OpenBuyOrders": 207,
+    "OpenSellOrders": 1535,
+    "PrevDay": 0.00014696,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2018-04-19T18:07:39.26"
   },
   {
     "MarketName": "BTC-PTC",
+<<<<<<< HEAD
     "High": 4.68e-06,
     "Low": 4.24e-06,
     "Volume": 289498.25396454,
@@ -1827,10 +3510,24 @@
     "OpenBuyOrders": 83,
     "OpenSellOrders": 1221,
     "PrevDay": 4.38e-06,
+=======
+    "High": 4.54e-06,
+    "Low": 4.25e-06,
+    "Volume": 278686.74583414,
+    "Last": 4.28e-06,
+    "BaseVolume": 1.21211603,
+    "TimeStamp": "2018-05-14T16:36:34.453",
+    "Bid": 4.28e-06,
+    "Ask": 4.35e-06,
+    "OpenBuyOrders": 76,
+    "OpenSellOrders": 1201,
+    "PrevDay": 4.55e-06,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2014-03-27T18:00:00"
   },
   {
     "MarketName": "BTC-PTOY",
+<<<<<<< HEAD
     "High": 1.902e-05,
     "Low": 1.615e-05,
     "Volume": 990030.38809829,
@@ -1842,10 +3539,24 @@
     "OpenBuyOrders": 151,
     "OpenSellOrders": 3148,
     "PrevDay": 1.871e-05,
+=======
+    "High": 1.92e-05,
+    "Low": 1.768e-05,
+    "Volume": 379947.11276465,
+    "Last": 1.85e-05,
+    "BaseVolume": 6.97281016,
+    "TimeStamp": "2018-05-14T16:37:02.83",
+    "Bid": 1.841e-05,
+    "Ask": 1.85e-05,
+    "OpenBuyOrders": 204,
+    "OpenSellOrders": 3080,
+    "PrevDay": 1.87e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-06-18T17:04:24.1"
   },
   {
     "MarketName": "BTC-QRL",
+<<<<<<< HEAD
     "High": 0.0001327,
     "Low": 0.000122,
     "Volume": 198147.24127023,
@@ -1857,10 +3568,24 @@
     "OpenBuyOrders": 200,
     "OpenSellOrders": 1791,
     "PrevDay": 0.00012448,
+=======
+    "High": 0.00012798,
+    "Low": 0.00012,
+    "Volume": 84006.26715627,
+    "Last": 0.00012398,
+    "BaseVolume": 10.34908938,
+    "TimeStamp": "2018-05-14T16:37:13.807",
+    "Bid": 0.00012301,
+    "Ask": 0.00012398,
+    "OpenBuyOrders": 161,
+    "OpenSellOrders": 1758,
+    "PrevDay": 0.00012135,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-06-10T00:01:39.293"
   },
   {
     "MarketName": "BTC-QTUM",
+<<<<<<< HEAD
     "High": 0.002111,
     "Low": 0.00180293,
     "Volume": 135675.38407591,
@@ -1872,10 +3597,24 @@
     "OpenBuyOrders": 349,
     "OpenSellOrders": 3912,
     "PrevDay": 0.0021,
+=======
+    "High": 0.00213527,
+    "Low": 0.0019276,
+    "Volume": 123401.74160172,
+    "Last": 0.00206403,
+    "BaseVolume": 250.56667121,
+    "TimeStamp": "2018-05-14T16:37:56.757",
+    "Bid": 0.00206107,
+    "Ask": 0.00206403,
+    "OpenBuyOrders": 505,
+    "OpenSellOrders": 3976,
+    "PrevDay": 0.00201739,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-07-20T19:08:43.473"
   },
   {
     "MarketName": "BTC-QWARK",
+<<<<<<< HEAD
     "High": 1.179e-05,
     "Low": 1.011e-05,
     "Volume": 552043.27716672,
@@ -1887,10 +3626,24 @@
     "OpenBuyOrders": 104,
     "OpenSellOrders": 2246,
     "PrevDay": 1.167e-05,
+=======
+    "High": 1.189e-05,
+    "Low": 1.081e-05,
+    "Volume": 248016.141358,
+    "Last": 1.101e-05,
+    "BaseVolume": 2.79639729,
+    "TimeStamp": "2018-05-14T16:35:46.117",
+    "Bid": 1.089e-05,
+    "Ask": 1.102e-05,
+    "OpenBuyOrders": 112,
+    "OpenSellOrders": 2201,
+    "PrevDay": 1.132e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-03-05T19:30:16.853"
   },
   {
     "MarketName": "BTC-RADS",
+<<<<<<< HEAD
     "High": 0.00065485,
     "Low": 0.000551,
     "Volume": 18296.5501615,
@@ -1902,10 +3655,24 @@
     "OpenBuyOrders": 80,
     "OpenSellOrders": 1646,
     "PrevDay": 0.00063342,
+=======
+    "High": 0.0006183,
+    "Low": 0.000569,
+    "Volume": 11994.7479429,
+    "Last": 0.00058065,
+    "BaseVolume": 7.08430578,
+    "TimeStamp": "2018-05-14T16:37:51.283",
+    "Bid": 0.00058069,
+    "Ask": 0.0005936,
+    "OpenBuyOrders": 118,
+    "OpenSellOrders": 1620,
+    "PrevDay": 0.00059366,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2016-01-26T23:22:16.193"
   },
   {
     "MarketName": "BTC-RBY",
+<<<<<<< HEAD
     "High": 9.899e-05,
     "Low": 6.818e-05,
     "Volume": 440573.61848037,
@@ -1917,10 +3684,24 @@
     "OpenBuyOrders": 124,
     "OpenSellOrders": 1133,
     "PrevDay": 9.673e-05,
+=======
+    "High": 6.713e-05,
+    "Low": 6.043e-05,
+    "Volume": 65872.50773795,
+    "Last": 6.043e-05,
+    "BaseVolume": 4.15096516,
+    "TimeStamp": "2018-05-14T16:36:42.547",
+    "Bid": 6.03e-05,
+    "Ask": 6.043e-05,
+    "OpenBuyOrders": 89,
+    "OpenSellOrders": 1183,
+    "PrevDay": 6.395e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2014-04-05T08:00:00"
   },
   {
     "MarketName": "BTC-RCN",
+<<<<<<< HEAD
     "High": 1.466e-05,
     "Low": 1.26e-05,
     "Volume": 4596327.94741977,
@@ -1932,10 +3713,24 @@
     "OpenBuyOrders": 138,
     "OpenSellOrders": 2218,
     "PrevDay": 1.454e-05,
+=======
+    "High": 1.592e-05,
+    "Low": 1.431e-05,
+    "Volume": 6243837.86220148,
+    "Last": 1.525e-05,
+    "BaseVolume": 94.22950616,
+    "TimeStamp": "2018-05-14T16:37:56.757",
+    "Bid": 1.523e-05,
+    "Ask": 1.525e-05,
+    "OpenBuyOrders": 178,
+    "OpenSellOrders": 2294,
+    "PrevDay": 1.465e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-11-07T07:59:10.913"
   },
   {
     "MarketName": "BTC-RDD",
+<<<<<<< HEAD
     "High": 1e-06,
     "Low": 7.7e-07,
     "Volume": 2152538508.7739577,
@@ -1947,10 +3742,24 @@
     "OpenBuyOrders": 1918,
     "OpenSellOrders": 11579,
     "PrevDay": 9.9e-07,
+=======
+    "High": 1.12e-06,
+    "Low": 9e-07,
+    "Volume": 1611011687.6567855,
+    "Last": 1.05e-06,
+    "BaseVolume": 1620.45194261,
+    "TimeStamp": "2018-05-14T16:37:55.647",
+    "Bid": 1.04e-06,
+    "Ask": 1.05e-06,
+    "OpenBuyOrders": 2818,
+    "OpenSellOrders": 11547,
+    "PrevDay": 9.2e-07,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2014-02-25T09:00:00"
   },
   {
     "MarketName": "BTC-REP",
+<<<<<<< HEAD
     "High": 0.0155,
     "Low": 0.00485023,
     "Volume": 432972.86674413,
@@ -1962,10 +3771,24 @@
     "OpenBuyOrders": 397,
     "OpenSellOrders": 1126,
     "PrevDay": 0.00501,
+=======
+    "High": 0.00671044,
+    "Low": 0.00572337,
+    "Volume": 52347.25532732,
+    "Last": 0.00665,
+    "BaseVolume": 312.12094859,
+    "TimeStamp": "2018-05-14T16:37:56.66",
+    "Bid": 0.00665,
+    "Ask": 0.00667126,
+    "OpenBuyOrders": 394,
+    "OpenSellOrders": 1185,
+    "PrevDay": 0.00594373,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2016-10-04T15:45:37.14"
   },
   {
     "MarketName": "BTC-RLC",
+<<<<<<< HEAD
     "High": 0.00020005,
     "Low": 0.00016498,
     "Volume": 270056.7823372,
@@ -1977,10 +3800,24 @@
     "OpenBuyOrders": 183,
     "OpenSellOrders": 1281,
     "PrevDay": 0.0001837,
+=======
+    "High": 0.00023844,
+    "Low": 0.00019324,
+    "Volume": 685902.15422945,
+    "Last": 0.00023056,
+    "BaseVolume": 148.70502587,
+    "TimeStamp": "2018-05-14T16:37:56.303",
+    "Bid": 0.00023019,
+    "Ask": 0.00023056,
+    "OpenBuyOrders": 299,
+    "OpenSellOrders": 1070,
+    "PrevDay": 0.00020079,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-04-27T00:20:33.857"
   },
   {
     "MarketName": "BTC-RVR",
+<<<<<<< HEAD
     "High": 9.53e-06,
     "Low": 7.4e-06,
     "Volume": 6224316.06231621,
@@ -1992,10 +3829,24 @@
     "OpenBuyOrders": 155,
     "OpenSellOrders": 3217,
     "PrevDay": 9.35e-06,
+=======
+    "High": 9.15e-06,
+    "Low": 8.33e-06,
+    "Volume": 2119023.67546001,
+    "Last": 8.76e-06,
+    "BaseVolume": 18.52613498,
+    "TimeStamp": "2018-05-14T16:37:44.92",
+    "Bid": 8.76e-06,
+    "Ask": 8.84e-06,
+    "OpenBuyOrders": 209,
+    "OpenSellOrders": 3092,
+    "PrevDay": 8.7e-06,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2015-12-30T04:21:47.31"
   },
   {
     "MarketName": "BTC-SALT",
+<<<<<<< HEAD
     "High": 0.00036008,
     "Low": 0.00031,
     "Volume": 317482.53164812,
@@ -2007,10 +3858,24 @@
     "OpenBuyOrders": 320,
     "OpenSellOrders": 3823,
     "PrevDay": 0.00034586,
+=======
+    "High": 0.0004,
+    "Low": 0.00034901,
+    "Volume": 227845.629956,
+    "Last": 0.00039151,
+    "BaseVolume": 85.58595308,
+    "TimeStamp": "2018-05-14T16:37:56.693",
+    "Bid": 0.00039151,
+    "Ask": 0.00039205,
+    "OpenBuyOrders": 398,
+    "OpenSellOrders": 3686,
+    "PrevDay": 0.000373,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-10-16T17:32:48.777"
   },
   {
     "MarketName": "BTC-SBD",
+<<<<<<< HEAD
     "High": 0.00032265,
     "Low": 0.00023776,
     "Volume": 195950.93890266,
@@ -2022,10 +3887,24 @@
     "OpenBuyOrders": 136,
     "OpenSellOrders": 1872,
     "PrevDay": 0.00029506,
+=======
+    "High": 0.00030683,
+    "Low": 0.00026614,
+    "Volume": 237441.83118129,
+    "Last": 0.00028525,
+    "BaseVolume": 67.94417938,
+    "TimeStamp": "2018-05-14T16:37:55.007",
+    "Bid": 0.00028505,
+    "Ask": 0.00029135,
+    "OpenBuyOrders": 146,
+    "OpenSellOrders": 1912,
+    "PrevDay": 0.0002741,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2016-07-09T19:02:08.943"
   },
   {
     "MarketName": "BTC-SC",
+<<<<<<< HEAD
     "High": 2.7e-06,
     "Low": 2.14e-06,
     "Volume": 421375773.8208242,
@@ -2037,10 +3916,24 @@
     "OpenBuyOrders": 1835,
     "OpenSellOrders": 22938,
     "PrevDay": 2.67e-06,
+=======
+    "High": 2.53e-06,
+    "Low": 2.34e-06,
+    "Volume": 161650232.88105273,
+    "Last": 2.4e-06,
+    "BaseVolume": 392.06772742,
+    "TimeStamp": "2018-05-14T16:37:55.66",
+    "Bid": 2.4e-06,
+    "Ask": 2.41e-06,
+    "OpenBuyOrders": 1710,
+    "OpenSellOrders": 23221,
+    "PrevDay": 2.53e-06,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-05-22T21:30:29.16"
   },
   {
     "MarketName": "BTC-SEQ",
+<<<<<<< HEAD
     "High": 1.88e-05,
     "Low": 1.777e-05,
     "Volume": 256048.67628493,
@@ -2052,10 +3945,24 @@
     "OpenBuyOrders": 119,
     "OpenSellOrders": 1172,
     "PrevDay": 1.79e-05,
+=======
+    "High": 1.978e-05,
+    "Low": 1.89e-05,
+    "Volume": 150397.47416857,
+    "Last": 1.924e-05,
+    "BaseVolume": 2.88855731,
+    "TimeStamp": "2018-05-14T16:37:26.37",
+    "Bid": 1.9e-05,
+    "Ask": 1.925e-05,
+    "OpenBuyOrders": 125,
+    "OpenSellOrders": 1180,
+    "PrevDay": 1.963e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2016-09-23T07:10:11.78"
   },
   {
     "MarketName": "BTC-SHIFT",
+<<<<<<< HEAD
     "High": 0.000345,
     "Low": 0.00019999,
     "Volume": 372046.64233917,
@@ -2067,10 +3974,24 @@
     "OpenBuyOrders": 145,
     "OpenSellOrders": 1456,
     "PrevDay": 0.00028101,
+=======
+    "High": 0.00028945,
+    "Low": 0.00025493,
+    "Volume": 38170.3441887,
+    "Last": 0.00027265,
+    "BaseVolume": 10.46370029,
+    "TimeStamp": "2018-05-14T16:37:48.687",
+    "Bid": 0.000269,
+    "Ask": 0.00027259,
+    "OpenBuyOrders": 177,
+    "OpenSellOrders": 1448,
+    "PrevDay": 0.0002762,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2016-10-11T19:48:35.573"
   },
   {
     "MarketName": "BTC-SIB",
+<<<<<<< HEAD
     "High": 0.000125,
     "Low": 0.00011136,
     "Volume": 66820.69691647,
@@ -2082,10 +4003,24 @@
     "OpenBuyOrders": 128,
     "OpenSellOrders": 2883,
     "PrevDay": 0.00011811,
+=======
+    "High": 0.000124,
+    "Low": 0.000117,
+    "Volume": 26851.70651955,
+    "Last": 0.0001186,
+    "BaseVolume": 3.24898674,
+    "TimeStamp": "2018-05-14T16:33:10.99",
+    "Bid": 0.00011855,
+    "Ask": 0.0001186,
+    "OpenBuyOrders": 140,
+    "OpenSellOrders": 2926,
+    "PrevDay": 0.000123,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-02-18T22:34:49.373"
   },
   {
     "MarketName": "BTC-SLR",
+<<<<<<< HEAD
     "High": 4.4e-05,
     "Low": 4.091e-05,
     "Volume": 85047.9252272,
@@ -2097,10 +4032,24 @@
     "OpenBuyOrders": 197,
     "OpenSellOrders": 2158,
     "PrevDay": 4.147e-05,
+=======
+    "High": 4.35e-05,
+    "Low": 4.126e-05,
+    "Volume": 33708.60712233,
+    "Last": 4.153e-05,
+    "BaseVolume": 1.41801123,
+    "TimeStamp": "2018-05-14T16:37:28.073",
+    "Bid": 4.132e-05,
+    "Ask": 4.183e-05,
+    "OpenBuyOrders": 152,
+    "OpenSellOrders": 2150,
+    "PrevDay": 4.159e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2014-03-23T06:00:00"
   },
   {
     "MarketName": "BTC-SLS",
+<<<<<<< HEAD
     "High": 0.00604514,
     "Low": 0.00497962,
     "Volume": 8645.60910542,
@@ -2112,6 +4061,19 @@
     "OpenBuyOrders": 144,
     "OpenSellOrders": 2156,
     "PrevDay": 0.00593063,
+=======
+    "High": 0.0057,
+    "Low": 0.0053571,
+    "Volume": 6696.35787435,
+    "Last": 0.00549513,
+    "BaseVolume": 36.63062423,
+    "TimeStamp": "2018-05-14T16:37:56.66",
+    "Bid": 0.00545233,
+    "Ask": 0.00549512,
+    "OpenBuyOrders": 181,
+    "OpenSellOrders": 2103,
+    "PrevDay": 0.00572814,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2016-01-20T22:24:04.65"
   },
   {
@@ -2131,6 +4093,7 @@
   },
   {
     "MarketName": "BTC-SNT",
+<<<<<<< HEAD
     "High": 1.674e-05,
     "Low": 1.361e-05,
     "Volume": 17280721.5336573,
@@ -2142,10 +4105,24 @@
     "OpenBuyOrders": 224,
     "OpenSellOrders": 2877,
     "PrevDay": 1.657e-05,
+=======
+    "High": 1.514e-05,
+    "Low": 1.4e-05,
+    "Volume": 5446667.8473538,
+    "Last": 1.462e-05,
+    "BaseVolume": 79.03306334,
+    "TimeStamp": "2018-05-14T16:37:47.843",
+    "Bid": 1.463e-05,
+    "Ask": 1.465e-05,
+    "OpenBuyOrders": 237,
+    "OpenSellOrders": 2886,
+    "PrevDay": 1.506e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-06-28T18:26:15.73"
   },
   {
     "MarketName": "BTC-SPHR",
+<<<<<<< HEAD
     "High": 0.000329,
     "Low": 0.0002974,
     "Volume": 28513.38414042,
@@ -2157,10 +4134,24 @@
     "OpenBuyOrders": 98,
     "OpenSellOrders": 1656,
     "PrevDay": 0.00031501,
+=======
+    "High": 0.00039012,
+    "Low": 0.0002917,
+    "Volume": 146877.5876833,
+    "Last": 0.00031,
+    "BaseVolume": 50.11834248,
+    "TimeStamp": "2018-05-14T16:37:40.437",
+    "Bid": 0.00031,
+    "Ask": 0.00031088,
+    "OpenBuyOrders": 85,
+    "OpenSellOrders": 1541,
+    "PrevDay": 0.0003057,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2015-05-18T22:45:47.093"
   },
   {
     "MarketName": "BTC-SPR",
+<<<<<<< HEAD
     "High": 5.191e-05,
     "Low": 4.412e-05,
     "Volume": 110850.25141374,
@@ -2172,10 +4163,24 @@
     "OpenBuyOrders": 160,
     "OpenSellOrders": 2591,
     "PrevDay": 5e-05,
+=======
+    "High": 5.071e-05,
+    "Low": 4.579e-05,
+    "Volume": 130712.64524762,
+    "Last": 4.68e-05,
+    "BaseVolume": 6.24359072,
+    "TimeStamp": "2018-05-14T16:37:56.897",
+    "Bid": 4.684e-05,
+    "Ask": 4.746e-05,
+    "OpenBuyOrders": 171,
+    "OpenSellOrders": 2530,
+    "PrevDay": 4.685e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2014-12-19T02:33:07.747"
   },
   {
     "MarketName": "BTC-SRN",
+<<<<<<< HEAD
     "High": 5.429e-05,
     "Low": 4.487e-05,
     "Volume": 29337330.56974087,
@@ -2187,10 +4192,24 @@
     "OpenBuyOrders": 459,
     "OpenSellOrders": 4104,
     "PrevDay": 5.375e-05,
+=======
+    "High": 4.975e-05,
+    "Low": 4.57e-05,
+    "Volume": 9180537.39158509,
+    "Last": 4.97e-05,
+    "BaseVolume": 437.42044355,
+    "TimeStamp": "2018-05-14T16:37:56.037",
+    "Bid": 4.97e-05,
+    "Ask": 4.973e-05,
+    "OpenBuyOrders": 502,
+    "OpenSellOrders": 4299,
+    "PrevDay": 4.718e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2018-02-13T20:13:01.617"
   },
   {
     "MarketName": "BTC-STEEM",
+<<<<<<< HEAD
     "High": 0.00039218,
     "Low": 0.00029166,
     "Volume": 771794.25381984,
@@ -2202,10 +4221,24 @@
     "OpenBuyOrders": 411,
     "OpenSellOrders": 3536,
     "PrevDay": 0.00036525,
+=======
+    "High": 0.00038,
+    "Low": 0.00033966,
+    "Volume": 554443.19979359,
+    "Last": 0.0003642,
+    "BaseVolume": 198.52411273,
+    "TimeStamp": "2018-05-14T16:37:56.66",
+    "Bid": 0.00036511,
+    "Ask": 0.00036753,
+    "OpenBuyOrders": 510,
+    "OpenSellOrders": 3550,
+    "PrevDay": 0.00035873,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2016-04-17T01:22:13.35"
   },
   {
     "MarketName": "BTC-STORJ",
+<<<<<<< HEAD
     "High": 0.000125,
     "Low": 0.0001008,
     "Volume": 1140958.84250461,
@@ -2217,10 +4250,24 @@
     "OpenBuyOrders": 185,
     "OpenSellOrders": 2618,
     "PrevDay": 0.00011402,
+=======
+    "High": 0.000123,
+    "Low": 0.00010503,
+    "Volume": 932530.67582963,
+    "Last": 0.000111,
+    "BaseVolume": 105.85167282,
+    "TimeStamp": "2018-05-14T16:37:56.66",
+    "Bid": 0.00011125,
+    "Ask": 0.00011225,
+    "OpenBuyOrders": 276,
+    "OpenSellOrders": 2660,
+    "PrevDay": 0.00010978,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-07-11T21:14:32.643"
   },
   {
     "MarketName": "BTC-STRAT",
+<<<<<<< HEAD
     "High": 0.00074862,
     "Low": 0.00065293,
     "Volume": 563765.64038951,
@@ -2232,10 +4279,24 @@
     "OpenBuyOrders": 1217,
     "OpenSellOrders": 8541,
     "PrevDay": 0.0007443,
+=======
+    "High": 0.00075474,
+    "Low": 0.00071,
+    "Volume": 205834.16289935,
+    "Last": 0.00073006,
+    "BaseVolume": 151.20058286,
+    "TimeStamp": "2018-05-14T16:37:56.693",
+    "Bid": 0.00072916,
+    "Ask": 0.0007296,
+    "OpenBuyOrders": 1321,
+    "OpenSellOrders": 8278,
+    "PrevDay": 0.000744,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2016-08-10T23:26:39.657"
   },
   {
     "MarketName": "BTC-SWIFT",
+<<<<<<< HEAD
     "High": 9.322e-05,
     "Low": 8.2e-05,
     "Volume": 37724.64470214,
@@ -2247,10 +4308,24 @@
     "OpenBuyOrders": 56,
     "OpenSellOrders": 859,
     "PrevDay": 9.324e-05,
+=======
+    "High": 8.941e-05,
+    "Low": 8e-05,
+    "Volume": 22209.03679544,
+    "Last": 8.08e-05,
+    "BaseVolume": 1.86361093,
+    "TimeStamp": "2018-05-14T16:37:50.61",
+    "Bid": 8.08e-05,
+    "Ask": 8.125e-05,
+    "OpenBuyOrders": 55,
+    "OpenSellOrders": 852,
+    "PrevDay": 8.576e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2014-10-03T19:16:23.143"
   },
   {
     "MarketName": "BTC-SWT",
+<<<<<<< HEAD
     "High": 0.000159,
     "Low": 0.00013387,
     "Volume": 48652.75916705,
@@ -2262,10 +4337,24 @@
     "OpenBuyOrders": 74,
     "OpenSellOrders": 2195,
     "PrevDay": 0.00015704,
+=======
+    "High": 0.00015601,
+    "Low": 0.00014803,
+    "Volume": 53120.28064246,
+    "Last": 0.00015315,
+    "BaseVolume": 8.14908786,
+    "TimeStamp": "2018-05-14T16:36:28.437",
+    "Bid": 0.00015315,
+    "Ask": 0.00015414,
+    "OpenBuyOrders": 88,
+    "OpenSellOrders": 2155,
+    "PrevDay": 0.00015164,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-03-08T22:32:26.03"
   },
   {
     "MarketName": "BTC-SYNX",
+<<<<<<< HEAD
     "High": 6.101e-05,
     "Low": 4.995e-05,
     "Volume": 694532.23873357,
@@ -2277,10 +4366,24 @@
     "OpenBuyOrders": 84,
     "OpenSellOrders": 820,
     "PrevDay": 5.621e-05,
+=======
+    "High": 5.497e-05,
+    "Low": 4.522e-05,
+    "Volume": 1454101.37727669,
+    "Last": 4.904e-05,
+    "BaseVolume": 74.0149158,
+    "TimeStamp": "2018-05-14T16:37:48.14",
+    "Bid": 4.909e-05,
+    "Ask": 5.022e-05,
+    "OpenBuyOrders": 169,
+    "OpenSellOrders": 1073,
+    "PrevDay": 5.278e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2016-08-25T21:23:15.27"
   },
   {
     "MarketName": "BTC-SYS",
+<<<<<<< HEAD
     "High": 5.159e-05,
     "Low": 4.292e-05,
     "Volume": 5727963.19002306,
@@ -2292,10 +4395,24 @@
     "OpenBuyOrders": 691,
     "OpenSellOrders": 4204,
     "PrevDay": 5.076e-05,
+=======
+    "High": 5.05e-05,
+    "Low": 4.512e-05,
+    "Volume": 2096700.24694678,
+    "Last": 4.758e-05,
+    "BaseVolume": 100.29001134,
+    "TimeStamp": "2018-05-14T16:37:52.173",
+    "Bid": 4.739e-05,
+    "Ask": 4.75e-05,
+    "OpenBuyOrders": 665,
+    "OpenSellOrders": 4239,
+    "PrevDay": 4.797e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2014-08-16T19:57:48.823"
   },
   {
     "MarketName": "BTC-THC",
+<<<<<<< HEAD
     "High": 1.12e-05,
     "Low": 1.01e-05,
     "Volume": 1311101.52305718,
@@ -2307,10 +4424,24 @@
     "OpenBuyOrders": 246,
     "OpenSellOrders": 3854,
     "PrevDay": 1.119e-05,
+=======
+    "High": 1.2e-05,
+    "Low": 1.102e-05,
+    "Volume": 985874.588886,
+    "Last": 1.2e-05,
+    "BaseVolume": 11.21816402,
+    "TimeStamp": "2018-05-14T16:37:51.863",
+    "Bid": 1.19e-05,
+    "Ask": 1.197e-05,
+    "OpenBuyOrders": 314,
+    "OpenSellOrders": 3889,
+    "PrevDay": 1.13e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2014-04-29T21:00:00"
   },
   {
     "MarketName": "BTC-TIX",
+<<<<<<< HEAD
     "High": 6.4e-05,
     "Low": 5.012e-05,
     "Volume": 877264.18539767,
@@ -2322,10 +4453,24 @@
     "OpenBuyOrders": 134,
     "OpenSellOrders": 1269,
     "PrevDay": 6.365e-05,
+=======
+    "High": 6.888e-05,
+    "Low": 5.601e-05,
+    "Volume": 767145.61817603,
+    "Last": 6.108e-05,
+    "BaseVolume": 47.45037938,
+    "TimeStamp": "2018-05-14T16:37:53.863",
+    "Bid": 6.045e-05,
+    "Ask": 6.111e-05,
+    "OpenBuyOrders": 152,
+    "OpenSellOrders": 1295,
+    "PrevDay": 5.827e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-10-25T21:01:08.287"
   },
   {
     "MarketName": "BTC-TKS",
+<<<<<<< HEAD
     "High": 0.00024323,
     "Low": 0.00022941,
     "Volume": 11811.32965337,
@@ -2337,10 +4482,24 @@
     "OpenBuyOrders": 55,
     "OpenSellOrders": 1190,
     "PrevDay": 0.0002414,
+=======
+    "High": 0.000238,
+    "Low": 0.000212,
+    "Volume": 13965.46487471,
+    "Last": 0.00021661,
+    "BaseVolume": 3.07722983,
+    "TimeStamp": "2018-05-14T16:37:06.65",
+    "Bid": 0.00021661,
+    "Ask": 0.00021996,
+    "OpenBuyOrders": 52,
+    "OpenSellOrders": 1195,
+    "PrevDay": 0.0002223,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-03-23T00:48:15.94"
   },
   {
     "MarketName": "BTC-TRST",
+<<<<<<< HEAD
     "High": 2.558e-05,
     "Low": 2.278e-05,
     "Volume": 537935.44159824,
@@ -2352,10 +4511,24 @@
     "OpenBuyOrders": 180,
     "OpenSellOrders": 3122,
     "PrevDay": 2.459e-05,
+=======
+    "High": 2.579e-05,
+    "Low": 2.4e-05,
+    "Volume": 202956.02401269,
+    "Last": 2.43e-05,
+    "BaseVolume": 5.02696014,
+    "TimeStamp": "2018-05-14T16:37:43.373",
+    "Bid": 2.43e-05,
+    "Ask": 2.433e-05,
+    "OpenBuyOrders": 192,
+    "OpenSellOrders": 3026,
+    "PrevDay": 2.552e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-04-19T04:53:43.893"
   },
   {
     "MarketName": "BTC-TRUST",
+<<<<<<< HEAD
     "High": 1.032e-05,
     "Low": 9.55e-06,
     "Volume": 101831.30820842,
@@ -2367,10 +4540,24 @@
     "OpenBuyOrders": 47,
     "OpenSellOrders": 1180,
     "PrevDay": 1.03e-05,
+=======
+    "High": 9.29e-06,
+    "Low": 8.63e-06,
+    "Volume": 143083.0560752,
+    "Last": 8.9e-06,
+    "BaseVolume": 1.27223222,
+    "TimeStamp": "2018-05-14T16:37:21.933",
+    "Bid": 8.77e-06,
+    "Ask": 8.9e-06,
+    "OpenBuyOrders": 48,
+    "OpenSellOrders": 1122,
+    "PrevDay": 8.75e-06,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2014-07-07T05:46:18.71"
   },
   {
     "MarketName": "BTC-TRX",
+<<<<<<< HEAD
     "High": 8.6e-06,
     "Low": 7.32e-06,
     "Volume": 229670924.49703985,
@@ -2382,10 +4569,24 @@
     "OpenBuyOrders": 2338,
     "OpenSellOrders": 7751,
     "PrevDay": 8.53e-06,
+=======
+    "High": 8.74e-06,
+    "Low": 8.1e-06,
+    "Volume": 83548529.72159828,
+    "Last": 8.25e-06,
+    "BaseVolume": 701.98585717,
+    "TimeStamp": "2018-05-14T16:37:55.52",
+    "Bid": 8.24e-06,
+    "Ask": 8.25e-06,
+    "OpenBuyOrders": 2320,
+    "OpenSellOrders": 8191,
+    "PrevDay": 8.72e-06,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2018-03-01T23:17:06.487"
   },
   {
     "MarketName": "BTC-TUSD",
+<<<<<<< HEAD
     "High": 0.00011813,
     "Low": 0.00010882,
     "Volume": 1142188.54961105,
@@ -2397,10 +4598,24 @@
     "OpenBuyOrders": 173,
     "OpenSellOrders": 511,
     "PrevDay": 0.00010965,
+=======
+    "High": 0.00012027,
+    "Low": 0.00011254,
+    "Volume": 392421.62956847,
+    "Last": 0.00011363,
+    "BaseVolume": 45.73063029,
+    "TimeStamp": "2018-05-14T16:37:56.193",
+    "Bid": 0.00011318,
+    "Ask": 0.00011395,
+    "OpenBuyOrders": 137,
+    "OpenSellOrders": 423,
+    "PrevDay": 0.00011485,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2018-03-06T00:24:49.887"
   },
   {
     "MarketName": "BTC-TX",
+<<<<<<< HEAD
     "High": 0.00013589,
     "Low": 0.00011307,
     "Volume": 139825.62747435,
@@ -2412,10 +4627,24 @@
     "OpenBuyOrders": 117,
     "OpenSellOrders": 1889,
     "PrevDay": 0.00013078,
+=======
+    "High": 0.00014279,
+    "Low": 0.00012895,
+    "Volume": 111039.65793679,
+    "Last": 0.00013112,
+    "BaseVolume": 15.00121186,
+    "TimeStamp": "2018-05-14T16:37:51.817",
+    "Bid": 0.00013111,
+    "Ask": 0.00013123,
+    "OpenBuyOrders": 129,
+    "OpenSellOrders": 1904,
+    "PrevDay": 0.00013474,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2015-09-02T08:02:54.3"
   },
   {
     "MarketName": "BTC-UBQ",
+<<<<<<< HEAD
     "High": 0.0002395,
     "Low": 0.000215,
     "Volume": 105924.63438151,
@@ -2427,10 +4656,24 @@
     "OpenBuyOrders": 527,
     "OpenSellOrders": 4006,
     "PrevDay": 0.00023707,
+=======
+    "High": 0.00023,
+    "Low": 0.00022069,
+    "Volume": 81764.97374936,
+    "Last": 0.00022075,
+    "BaseVolume": 18.14413727,
+    "TimeStamp": "2018-05-14T16:37:45.903",
+    "Bid": 0.00022075,
+    "Ask": 0.00022199,
+    "OpenBuyOrders": 518,
+    "OpenSellOrders": 3968,
+    "PrevDay": 0.00022679,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-02-08T17:00:59.02"
   },
   {
     "MarketName": "BTC-UKG",
+<<<<<<< HEAD
     "High": 2.351e-05,
     "Low": 1.994e-05,
     "Volume": 1466646.20860704,
@@ -2442,10 +4685,24 @@
     "OpenBuyOrders": 98,
     "OpenSellOrders": 2713,
     "PrevDay": 2.287e-05,
+=======
+    "High": 2.379e-05,
+    "Low": 2.142e-05,
+    "Volume": 660469.94086114,
+    "Last": 2.309e-05,
+    "BaseVolume": 14.74561836,
+    "TimeStamp": "2018-05-14T16:37:29.683",
+    "Bid": 2.309e-05,
+    "Ask": 2.326e-05,
+    "OpenBuyOrders": 134,
+    "OpenSellOrders": 2659,
+    "PrevDay": 2.386e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-12-29T22:41:55.923"
   },
   {
     "MarketName": "BTC-UNB",
+<<<<<<< HEAD
     "High": 8.582e-05,
     "Low": 7.058e-05,
     "Volume": 125213.63186028,
@@ -2457,10 +4714,24 @@
     "OpenBuyOrders": 60,
     "OpenSellOrders": 1044,
     "PrevDay": 8.254e-05,
+=======
+    "High": 8.298e-05,
+    "Low": 7.593e-05,
+    "Volume": 63193.49514849,
+    "Last": 7.952e-05,
+    "BaseVolume": 5.0029847,
+    "TimeStamp": "2018-05-14T16:36:54.36",
+    "Bid": 7.954e-05,
+    "Ask": 8.091e-05,
+    "OpenBuyOrders": 73,
+    "OpenSellOrders": 1041,
+    "PrevDay": 7.736e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2016-08-24T21:39:28.357"
   },
   {
     "MarketName": "BTC-UP",
+<<<<<<< HEAD
     "High": 1.953e-05,
     "Low": 1.432e-05,
     "Volume": 2450291.12132416,
@@ -2472,10 +4743,24 @@
     "OpenBuyOrders": 101,
     "OpenSellOrders": 1567,
     "PrevDay": 1.959e-05,
+=======
+    "High": 1.835e-05,
+    "Low": 1.672e-05,
+    "Volume": 1173822.7547668,
+    "Last": 1.764e-05,
+    "BaseVolume": 20.43568495,
+    "TimeStamp": "2018-05-14T16:37:09.15",
+    "Bid": 1.759e-05,
+    "Ask": 1.766e-05,
+    "OpenBuyOrders": 91,
+    "OpenSellOrders": 1456,
+    "PrevDay": 1.763e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2018-03-20T22:26:49.427"
   },
   {
     "MarketName": "BTC-VEE",
+<<<<<<< HEAD
     "High": 5.3e-06,
     "Low": 4.2e-06,
     "Volume": 17547699.00896092,
@@ -2487,10 +4772,24 @@
     "OpenBuyOrders": 110,
     "OpenSellOrders": 2504,
     "PrevDay": 5.22e-06,
+=======
+    "High": 4.83e-06,
+    "Low": 4.56e-06,
+    "Volume": 3857737.09164269,
+    "Last": 4.65e-06,
+    "BaseVolume": 17.96244794,
+    "TimeStamp": "2018-05-14T16:37:56.693",
+    "Bid": 4.58e-06,
+    "Ask": 4.66e-06,
+    "OpenBuyOrders": 127,
+    "OpenSellOrders": 2643,
+    "PrevDay": 4.78e-06,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2018-02-16T18:36:35.427"
   },
   {
     "MarketName": "BTC-VIA",
+<<<<<<< HEAD
     "High": 0.000242,
     "Low": 0.00021796,
     "Volume": 103355.06846119,
@@ -2502,10 +4801,24 @@
     "OpenBuyOrders": 150,
     "OpenSellOrders": 1793,
     "PrevDay": 0.00023391,
+=======
+    "High": 0.00024652,
+    "Low": 0.00022567,
+    "Volume": 65633.02825012,
+    "Last": 0.00024448,
+    "BaseVolume": 15.52263141,
+    "TimeStamp": "2018-05-14T16:37:56.52",
+    "Bid": 0.00024448,
+    "Ask": 0.0002448,
+    "OpenBuyOrders": 165,
+    "OpenSellOrders": 1775,
+    "PrevDay": 0.00023274,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2014-07-18T00:20:00.393"
   },
   {
     "MarketName": "BTC-VIB",
+<<<<<<< HEAD
     "High": 2.119e-05,
     "Low": 1.843e-05,
     "Volume": 3249808.29990606,
@@ -2517,10 +4830,24 @@
     "OpenBuyOrders": 93,
     "OpenSellOrders": 1793,
     "PrevDay": 2.068e-05,
+=======
+    "High": 2.283e-05,
+    "Low": 1.986e-05,
+    "Volume": 5958947.98624338,
+    "Last": 2.243e-05,
+    "BaseVolume": 127.41997876,
+    "TimeStamp": "2018-05-14T16:37:55.863",
+    "Bid": 2.243e-05,
+    "Ask": 2.244e-05,
+    "OpenBuyOrders": 134,
+    "OpenSellOrders": 1662,
+    "PrevDay": 1.994e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-11-08T17:08:42.997"
   },
   {
     "MarketName": "BTC-VRC",
+<<<<<<< HEAD
     "High": 7.048e-05,
     "Low": 6.168e-05,
     "Volume": 191828.92431732,
@@ -2532,10 +4859,24 @@
     "OpenBuyOrders": 106,
     "OpenSellOrders": 2293,
     "PrevDay": 6.954e-05,
+=======
+    "High": 6.62e-05,
+    "Low": 6.239e-05,
+    "Volume": 65254.16103449,
+    "Last": 6.35e-05,
+    "BaseVolume": 4.18478694,
+    "TimeStamp": "2018-05-14T16:37:48",
+    "Bid": 6.316e-05,
+    "Ask": 6.35e-05,
+    "OpenBuyOrders": 115,
+    "OpenSellOrders": 2329,
+    "PrevDay": 6.322e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2014-05-13T07:00:00"
   },
   {
     "MarketName": "BTC-VRM",
+<<<<<<< HEAD
     "High": 0.00030775,
     "Low": 0.00028527,
     "Volume": 8543.30577353,
@@ -2547,10 +4888,24 @@
     "OpenBuyOrders": 47,
     "OpenSellOrders": 1045,
     "PrevDay": 0.00030763,
+=======
+    "High": 0.00029511,
+    "Low": 0.000268,
+    "Volume": 8520.43269741,
+    "Last": 0.000285,
+    "BaseVolume": 2.40645879,
+    "TimeStamp": "2018-05-14T16:37:07.523",
+    "Bid": 0.00028528,
+    "Ask": 0.00028779,
+    "OpenBuyOrders": 50,
+    "OpenSellOrders": 1079,
+    "PrevDay": 0.00028734,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2016-09-16T04:52:17.637"
   },
   {
     "MarketName": "BTC-VTC",
+<<<<<<< HEAD
     "High": 0.00027401,
     "Low": 0.00021409,
     "Volume": 712576.95548683,
@@ -2562,10 +4917,24 @@
     "OpenBuyOrders": 455,
     "OpenSellOrders": 5905,
     "PrevDay": 0.0002711,
+=======
+    "High": 0.00028126,
+    "Low": 0.000242,
+    "Volume": 477017.10492229,
+    "Last": 0.00028,
+    "BaseVolume": 126.53223454,
+    "TimeStamp": "2018-05-14T16:37:48.687",
+    "Bid": 0.00027725,
+    "Ask": 0.00028,
+    "OpenBuyOrders": 659,
+    "OpenSellOrders": 5677,
+    "PrevDay": 0.00024612,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2014-02-13T00:00:00"
   },
   {
     "MarketName": "BTC-VTR",
+<<<<<<< HEAD
     "High": 4.085e-05,
     "Low": 3.9e-05,
     "Volume": 24862.6020568,
@@ -2577,10 +4946,24 @@
     "OpenBuyOrders": 56,
     "OpenSellOrders": 765,
     "PrevDay": 4.084e-05,
+=======
+    "High": 4.312e-05,
+    "Low": 3.866e-05,
+    "Volume": 53694.60505237,
+    "Last": 3.989e-05,
+    "BaseVolume": 2.17574776,
+    "TimeStamp": "2018-05-14T16:37:30.373",
+    "Bid": 3.992e-05,
+    "Ask": 4.002e-05,
+    "OpenBuyOrders": 61,
+    "OpenSellOrders": 770,
+    "PrevDay": 3.908e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2014-12-19T02:33:10.943"
   },
   {
     "MarketName": "BTC-WAVES",
+<<<<<<< HEAD
     "High": 0.00074172,
     "Low": 0.00067975,
     "Volume": 346464.86504623,
@@ -2592,10 +4975,24 @@
     "OpenBuyOrders": 1338,
     "OpenSellOrders": 5441,
     "PrevDay": 0.00071999,
+=======
+    "High": 0.00077957,
+    "Low": 0.00072341,
+    "Volume": 342199.72019801,
+    "Last": 0.00076568,
+    "BaseVolume": 257.49718426,
+    "TimeStamp": "2018-05-14T16:37:55.38",
+    "Bid": 0.00076086,
+    "Ask": 0.00076482,
+    "OpenBuyOrders": 1490,
+    "OpenSellOrders": 5174,
+    "PrevDay": 0.00075,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2016-06-19T15:46:31.167"
   },
   {
     "MarketName": "BTC-WAX",
+<<<<<<< HEAD
     "High": 3.499e-05,
     "Low": 2.757e-05,
     "Volume": 5798154.92741268,
@@ -2607,10 +5004,24 @@
     "OpenBuyOrders": 203,
     "OpenSellOrders": 2017,
     "PrevDay": 3.428e-05,
+=======
+    "High": 3.313e-05,
+    "Low": 3.02e-05,
+    "Volume": 3845119.57640525,
+    "Last": 3.213e-05,
+    "BaseVolume": 122.16552371,
+    "TimeStamp": "2018-05-14T16:37:53.677",
+    "Bid": 3.196e-05,
+    "Ask": 3.213e-05,
+    "OpenBuyOrders": 242,
+    "OpenSellOrders": 2177,
+    "PrevDay": 3.284e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2018-02-15T01:09:15.167"
   },
   {
     "MarketName": "BTC-WINGS",
+<<<<<<< HEAD
     "High": 6.135e-05,
     "Low": 5.236e-05,
     "Volume": 435721.82636186,
@@ -2622,10 +5033,24 @@
     "OpenBuyOrders": 127,
     "OpenSellOrders": 2514,
     "PrevDay": 6.01e-05,
+=======
+    "High": 6.317e-05,
+    "Low": 5.672e-05,
+    "Volume": 305934.71926169,
+    "Last": 5.953e-05,
+    "BaseVolume": 18.25000355,
+    "TimeStamp": "2018-05-14T16:37:35.39",
+    "Bid": 5.953e-05,
+    "Ask": 6e-05,
+    "OpenBuyOrders": 159,
+    "OpenSellOrders": 2432,
+    "PrevDay": 5.92e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-04-26T22:34:24.49"
   },
   {
     "MarketName": "BTC-XCP",
+<<<<<<< HEAD
     "High": 0.00205463,
     "Low": 0.00186831,
     "Volume": 7157.16236246,
@@ -2637,10 +5062,24 @@
     "OpenBuyOrders": 243,
     "OpenSellOrders": 3192,
     "PrevDay": 0.00204861,
+=======
+    "High": 0.0019467,
+    "Low": 0.00175,
+    "Volume": 14597.0631481,
+    "Last": 0.00189599,
+    "BaseVolume": 27.07129384,
+    "TimeStamp": "2018-05-14T16:37:53.63",
+    "Bid": 0.00184847,
+    "Ask": 0.00189599,
+    "OpenBuyOrders": 263,
+    "OpenSellOrders": 3256,
+    "PrevDay": 0.00190226,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2015-02-14T04:20:41"
   },
   {
     "MarketName": "BTC-XDN",
+<<<<<<< HEAD
     "High": 1.96e-06,
     "Low": 1.44e-06,
     "Volume": 169996950.9042307,
@@ -2652,10 +5091,24 @@
     "OpenBuyOrders": 580,
     "OpenSellOrders": 4285,
     "PrevDay": 1.91e-06,
+=======
+    "High": 1.65e-06,
+    "Low": 1.53e-06,
+    "Volume": 56632416.89740618,
+    "Last": 1.55e-06,
+    "BaseVolume": 89.96793077,
+    "TimeStamp": "2018-05-14T16:37:23.7",
+    "Bid": 1.55e-06,
+    "Ask": 1.57e-06,
+    "OpenBuyOrders": 553,
+    "OpenSellOrders": 4259,
+    "PrevDay": 1.65e-06,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2014-06-21T18:37:57.64"
   },
   {
     "MarketName": "BTC-XEL",
+<<<<<<< HEAD
     "High": 3.937e-05,
     "Low": 3.55e-05,
     "Volume": 355845.9229646,
@@ -2667,10 +5120,24 @@
     "OpenBuyOrders": 195,
     "OpenSellOrders": 2933,
     "PrevDay": 3.821e-05,
+=======
+    "High": 3.771e-05,
+    "Low": 3.294e-05,
+    "Volume": 438273.57896216,
+    "Last": 3.661e-05,
+    "BaseVolume": 15.73586187,
+    "TimeStamp": "2018-05-14T16:37:24.09",
+    "Bid": 3.597e-05,
+    "Ask": 3.661e-05,
+    "OpenBuyOrders": 205,
+    "OpenSellOrders": 2819,
+    "PrevDay": 3.566e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-07-01T17:38:44.883"
   },
   {
     "MarketName": "BTC-XEM",
+<<<<<<< HEAD
     "High": 4.023e-05,
     "Low": 3.515e-05,
     "Volume": 6915976.19540487,
@@ -2682,10 +5149,24 @@
     "OpenBuyOrders": 1128,
     "OpenSellOrders": 8497,
     "PrevDay": 3.995e-05,
+=======
+    "High": 4.55e-05,
+    "Low": 3.96e-05,
+    "Volume": 13283056.56501198,
+    "Last": 4.238e-05,
+    "BaseVolume": 568.24230832,
+    "TimeStamp": "2018-05-14T16:37:53.473",
+    "Bid": 4.238e-05,
+    "Ask": 4.24e-05,
+    "OpenBuyOrders": 1575,
+    "OpenSellOrders": 7338,
+    "PrevDay": 3.966e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2015-04-10T21:06:00.043"
   },
   {
     "MarketName": "BTC-XLM",
+<<<<<<< HEAD
     "High": 3.99e-05,
     "Low": 3.446e-05,
     "Volume": 15151980.65394965,
@@ -2697,10 +5178,24 @@
     "OpenBuyOrders": 1632,
     "OpenSellOrders": 7924,
     "PrevDay": 3.99e-05,
+=======
+    "High": 4.335e-05,
+    "Low": 4.077e-05,
+    "Volume": 9094714.59508136,
+    "Last": 4.227e-05,
+    "BaseVolume": 383.64628278,
+    "TimeStamp": "2018-05-14T16:37:54.13",
+    "Bid": 4.226e-05,
+    "Ask": 4.227e-05,
+    "OpenBuyOrders": 2053,
+    "OpenSellOrders": 7475,
+    "PrevDay": 4.268e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2015-11-17T20:06:44.92"
   },
   {
     "MarketName": "BTC-XMG",
+<<<<<<< HEAD
     "High": 4.195e-05,
     "Low": 3.325e-05,
     "Volume": 114967.43607617,
@@ -2712,10 +5207,24 @@
     "OpenBuyOrders": 107,
     "OpenSellOrders": 1092,
     "PrevDay": 3.591e-05,
+=======
+    "High": 3.997e-05,
+    "Low": 3.501e-05,
+    "Volume": 28760.54888405,
+    "Last": 3.673e-05,
+    "BaseVolume": 1.0528109,
+    "TimeStamp": "2018-05-14T16:36:48.017",
+    "Bid": 3.673e-05,
+    "Ask": 3.675e-05,
+    "OpenBuyOrders": 118,
+    "OpenSellOrders": 1075,
+    "PrevDay": 3.649e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2014-11-10T06:25:07.533"
   },
   {
     "MarketName": "BTC-XMR",
+<<<<<<< HEAD
     "High": 0.02448408,
     "Low": 0.02301,
     "Volume": 11964.90923155,
@@ -2727,10 +5236,24 @@
     "OpenBuyOrders": 1149,
     "OpenSellOrders": 4660,
     "PrevDay": 0.02442925,
+=======
+    "High": 0.0249,
+    "Low": 0.0235,
+    "Volume": 9037.86458036,
+    "Last": 0.02473357,
+    "BaseVolume": 218.43525293,
+    "TimeStamp": "2018-05-14T16:37:56.41",
+    "Bid": 0.02473357,
+    "Ask": 0.02477357,
+    "OpenBuyOrders": 1376,
+    "OpenSellOrders": 4568,
+    "PrevDay": 0.0244106,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2014-06-04T07:38:39.24"
   },
   {
     "MarketName": "BTC-XMY",
+<<<<<<< HEAD
     "High": 1.02e-06,
     "Low": 9.3e-07,
     "Volume": 9661089.36892607,
@@ -2742,10 +5265,24 @@
     "OpenBuyOrders": 186,
     "OpenSellOrders": 2146,
     "PrevDay": 1.01e-06,
+=======
+    "High": 1.01e-06,
+    "Low": 9.6e-07,
+    "Volume": 5340233.66855346,
+    "Last": 9.6e-07,
+    "BaseVolume": 5.24218485,
+    "TimeStamp": "2018-05-14T16:37:48.907",
+    "Bid": 9.6e-07,
+    "Ask": 9.8e-07,
+    "OpenBuyOrders": 206,
+    "OpenSellOrders": 2012,
+    "PrevDay": 9.7e-07,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2014-03-15T08:00:00"
   },
   {
     "MarketName": "BTC-XRP",
+<<<<<<< HEAD
     "High": 8.611e-05,
     "Low": 7.477e-05,
     "Volume": 15019669.44601768,
@@ -2757,10 +5294,24 @@
     "OpenBuyOrders": 1978,
     "OpenSellOrders": 14192,
     "PrevDay": 8.471e-05,
+=======
+    "High": 8.593e-05,
+    "Low": 8.226e-05,
+    "Volume": 8294660.18064402,
+    "Last": 8.427e-05,
+    "BaseVolume": 700.23067025,
+    "TimeStamp": "2018-05-14T16:37:55.973",
+    "Bid": 8.385e-05,
+    "Ask": 8.427e-05,
+    "OpenBuyOrders": 2148,
+    "OpenSellOrders": 13848,
+    "PrevDay": 8.527e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2014-12-22T19:30:27.45"
   },
   {
     "MarketName": "BTC-XST",
+<<<<<<< HEAD
     "High": 4e-05,
     "Low": 3.622e-05,
     "Volume": 41487.30684234,
@@ -2772,6 +5323,19 @@
     "OpenBuyOrders": 84,
     "OpenSellOrders": 770,
     "PrevDay": 3.999e-05,
+=======
+    "High": 3.983e-05,
+    "Low": 3.592e-05,
+    "Volume": 27391.05887658,
+    "Last": 3.633e-05,
+    "BaseVolume": 1.01414674,
+    "TimeStamp": "2018-05-14T16:36:05.903",
+    "Bid": 3.626e-05,
+    "Ask": 3.633e-05,
+    "OpenBuyOrders": 82,
+    "OpenSellOrders": 730,
+    "PrevDay": 3.685e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2014-07-09T20:33:00.59"
   },
   {
@@ -2781,7 +5345,11 @@
     "Volume": 39596.75969367,
     "Last": 4.153e-05,
     "BaseVolume": 1.69986018,
+<<<<<<< HEAD
     "TimeStamp": "2018-05-11T18:34:32.307",
+=======
+    "TimeStamp": "2018-05-14T16:24:11.153",
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Bid": 0,
     "Ask": 0,
     "OpenBuyOrders": 86,
@@ -2791,6 +5359,7 @@
   },
   {
     "MarketName": "BTC-XVG",
+<<<<<<< HEAD
     "High": 7.91e-06,
     "Low": 6.56e-06,
     "Volume": 318387001.7290985,
@@ -2802,10 +5371,24 @@
     "OpenBuyOrders": 2908,
     "OpenSellOrders": 25759,
     "PrevDay": 7.84e-06,
+=======
+    "High": 7.22e-06,
+    "Low": 6.77e-06,
+    "Volume": 121026361.28084189,
+    "Last": 6.83e-06,
+    "BaseVolume": 842.57809701,
+    "TimeStamp": "2018-05-14T16:37:56.537",
+    "Bid": 6.83e-06,
+    "Ask": 6.85e-06,
+    "OpenBuyOrders": 2776,
+    "OpenSellOrders": 26145,
+    "PrevDay": 7.18e-06,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2016-02-17T22:42:03.61"
   },
   {
     "MarketName": "BTC-XWC",
+<<<<<<< HEAD
     "High": 7e-06,
     "Low": 6.78e-06,
     "Volume": 575319.98859948,
@@ -2817,10 +5400,24 @@
     "OpenBuyOrders": 189,
     "OpenSellOrders": 1801,
     "PrevDay": 6.99e-06,
+=======
+    "High": 7.3e-06,
+    "Low": 6.83e-06,
+    "Volume": 621432.88921169,
+    "Last": 7.18e-06,
+    "BaseVolume": 4.39000251,
+    "TimeStamp": "2018-05-14T16:28:44.853",
+    "Bid": 7.1e-06,
+    "Ask": 7.19e-06,
+    "OpenBuyOrders": 195,
+    "OpenSellOrders": 1689,
+    "PrevDay": 7.13e-06,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2014-04-14T00:00:00"
   },
   {
     "MarketName": "BTC-XZC",
+<<<<<<< HEAD
     "High": 0.00443065,
     "Low": 0.00408903,
     "Volume": 7423.91859582,
@@ -2832,10 +5429,24 @@
     "OpenBuyOrders": 156,
     "OpenSellOrders": 1775,
     "PrevDay": 0.00439001,
+=======
+    "High": 0.00479711,
+    "Low": 0.00420001,
+    "Volume": 15720.47205186,
+    "Last": 0.00448755,
+    "BaseVolume": 70.15386496,
+    "TimeStamp": "2018-05-14T16:37:56.223",
+    "Bid": 0.00443614,
+    "Ask": 0.00449106,
+    "OpenBuyOrders": 206,
+    "OpenSellOrders": 1795,
+    "PrevDay": 0.00439976,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2016-10-20T04:48:30.387"
   },
   {
     "MarketName": "BTC-ZCL",
+<<<<<<< HEAD
     "High": 0.0018,
     "Low": 0.00132841,
     "Volume": 286316.43373651,
@@ -2847,10 +5458,24 @@
     "OpenBuyOrders": 1197,
     "OpenSellOrders": 10024,
     "PrevDay": 0.0016,
+=======
+    "High": 0.00212,
+    "Low": 0.00170088,
+    "Volume": 240012.45043366,
+    "Last": 0.00185,
+    "BaseVolume": 457.21307837,
+    "TimeStamp": "2018-05-14T16:37:52.38",
+    "Bid": 0.001855,
+    "Ask": 0.00187,
+    "OpenBuyOrders": 1416,
+    "OpenSellOrders": 9814,
+    "PrevDay": 0.00204399,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2016-11-15T20:29:59.73"
   },
   {
     "MarketName": "BTC-ZEC",
+<<<<<<< HEAD
     "High": 0.029715,
     "Low": 0.02775672,
     "Volume": 6017.9091267,
@@ -2862,10 +5487,24 @@
     "OpenBuyOrders": 299,
     "OpenSellOrders": 4777,
     "PrevDay": 0.02949999,
+=======
+    "High": 0.03989941,
+    "Low": 0.029185,
+    "Volume": 43400.49124327,
+    "Last": 0.03497999,
+    "BaseVolume": 1569.55737922,
+    "TimeStamp": "2018-05-14T16:37:56.443",
+    "Bid": 0.03482515,
+    "Ask": 0.03498601,
+    "OpenBuyOrders": 698,
+    "OpenSellOrders": 3851,
+    "PrevDay": 0.02929501,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2016-10-28T17:13:10.833"
   },
   {
     "MarketName": "BTC-ZEN",
+<<<<<<< HEAD
     "High": 0.004,
     "Low": 0.00359,
     "Volume": 19145.22513774,
@@ -2877,10 +5516,24 @@
     "OpenBuyOrders": 537,
     "OpenSellOrders": 2607,
     "PrevDay": 0.00385331,
+=======
+    "High": 0.00378714,
+    "Low": 0.0035,
+    "Volume": 13113.99213876,
+    "Last": 0.00367212,
+    "BaseVolume": 47.99412439,
+    "TimeStamp": "2018-05-14T16:37:54.24",
+    "Bid": 0.0036536,
+    "Ask": 0.00367212,
+    "OpenBuyOrders": 503,
+    "OpenSellOrders": 2580,
+    "PrevDay": 0.00369889,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-06-05T16:39:49.07"
   },
   {
     "MarketName": "BTC-ZRX",
+<<<<<<< HEAD
     "High": 0.00021864,
     "Low": 0.00018,
     "Volume": 3446535.91532104,
@@ -2892,10 +5545,24 @@
     "OpenBuyOrders": 649,
     "OpenSellOrders": 834,
     "PrevDay": 0.00020955,
+=======
+    "High": 0.00020841,
+    "Low": 0.00018881,
+    "Volume": 1458754.29261289,
+    "Last": 0.00019027,
+    "BaseVolume": 286.23284615,
+    "TimeStamp": "2018-05-14T16:37:54.21",
+    "Bid": 0.00019025,
+    "Ask": 0.00019027,
+    "OpenBuyOrders": 632,
+    "OpenSellOrders": 977,
+    "PrevDay": 0.000198,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2018-02-15T23:33:55.923"
   },
   {
     "MarketName": "ETH-ADA",
+<<<<<<< HEAD
     "High": 0.00041475,
     "Low": 0.00036993,
     "Volume": 7720750.87108915,
@@ -2907,10 +5574,24 @@
     "OpenBuyOrders": 1356,
     "OpenSellOrders": 2207,
     "PrevDay": 0.00041502,
+=======
+    "High": 0.00038485,
+    "Low": 0.00036376,
+    "Volume": 2683879.2019517,
+    "Last": 0.00037,
+    "BaseVolume": 998.71236008,
+    "TimeStamp": "2018-05-14T16:37:47.28",
+    "Bid": 0.00037,
+    "Ask": 0.00037153,
+    "OpenBuyOrders": 1352,
+    "OpenSellOrders": 2315,
+    "PrevDay": 0.00038493,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-11-28T17:28:32.077"
   },
   {
     "MarketName": "ETH-ADT",
+<<<<<<< HEAD
     "High": 7.172e-05,
     "Low": 5.554e-05,
     "Volume": 860213.26857839,
@@ -2922,10 +5603,24 @@
     "OpenBuyOrders": 33,
     "OpenSellOrders": 179,
     "PrevDay": 6.89e-05,
+=======
+    "High": 6.252e-05,
+    "Low": 5.572e-05,
+    "Volume": 184971.36557383,
+    "Last": 6.06e-05,
+    "BaseVolume": 11.07391376,
+    "TimeStamp": "2018-05-14T16:37:55.427",
+    "Bid": 6.083e-05,
+    "Ask": 6.269e-05,
+    "OpenBuyOrders": 34,
+    "OpenSellOrders": 188,
+    "PrevDay": 5.968e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-07-03T21:08:06.22"
   },
   {
     "MarketName": "ETH-ADX",
+<<<<<<< HEAD
     "High": 0.00124664,
     "Low": 0.00110078,
     "Volume": 28053.73920876,
@@ -2937,10 +5632,24 @@
     "OpenBuyOrders": 26,
     "OpenSellOrders": 212,
     "PrevDay": 0.00123444,
+=======
+    "High": 0.00123822,
+    "Low": 0.00108348,
+    "Volume": 21385.50294747,
+    "Last": 0.00121099,
+    "BaseVolume": 24.39226025,
+    "TimeStamp": "2018-05-14T16:37:56.91",
+    "Bid": 0.00116331,
+    "Ask": 0.00121275,
+    "OpenBuyOrders": 55,
+    "OpenSellOrders": 209,
+    "PrevDay": 0.00111307,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-07-11T22:42:17.78"
   },
   {
     "MarketName": "ETH-ANT",
+<<<<<<< HEAD
     "High": 0.00658,
     "Low": 0.00606659,
     "Volume": 12360.31263423,
@@ -2952,10 +5661,24 @@
     "OpenBuyOrders": 109,
     "OpenSellOrders": 236,
     "PrevDay": 0.00622658,
+=======
+    "High": 0.00642647,
+    "Low": 0.00605897,
+    "Volume": 3131.03033413,
+    "Last": 0.00618999,
+    "BaseVolume": 19.67934039,
+    "TimeStamp": "2018-05-14T16:37:45.593",
+    "Bid": 0.00618999,
+    "Ask": 0.00619,
+    "OpenBuyOrders": 105,
+    "OpenSellOrders": 242,
+    "PrevDay": 0.00617602,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-05-19T15:55:11.293"
   },
   {
     "MarketName": "ETH-BAT",
+<<<<<<< HEAD
     "High": 0.000538,
     "Low": 0.00045604,
     "Volume": 158802.56094494,
@@ -2967,10 +5690,24 @@
     "OpenBuyOrders": 169,
     "OpenSellOrders": 382,
     "PrevDay": 0.000496,
+=======
+    "High": 0.00056578,
+    "Low": 0.00051876,
+    "Volume": 85876.23847254,
+    "Last": 0.0005565,
+    "BaseVolume": 46.91475719,
+    "TimeStamp": "2018-05-14T16:37:42.373",
+    "Bid": 0.0005565,
+    "Ask": 0.00055685,
+    "OpenBuyOrders": 178,
+    "OpenSellOrders": 358,
+    "PrevDay": 0.00051835,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-06-03T22:04:52.38"
   },
   {
     "MarketName": "ETH-BCC",
+<<<<<<< HEAD
     "High": 2.12590964,
     "Low": 1.96803,
     "Volume": 634.42340802,
@@ -2982,10 +5719,24 @@
     "OpenBuyOrders": 473,
     "OpenSellOrders": 441,
     "PrevDay": 2.13714371,
+=======
+    "High": 2.0429786,
+    "Low": 1.92939472,
+    "Volume": 321.7497586,
+    "Last": 2.02724199,
+    "BaseVolume": 638.78731941,
+    "TimeStamp": "2018-05-14T16:37:55.303",
+    "Bid": 2.00780692,
+    "Ask": 2.02910887,
+    "OpenBuyOrders": 436,
+    "OpenSellOrders": 472,
+    "PrevDay": 2,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-08-01T18:34:04.763"
   },
   {
     "MarketName": "ETH-BCPT",
+<<<<<<< HEAD
     "High": 0.00067544,
     "Low": 0.00058391,
     "Volume": 28848.40836949,
@@ -2997,10 +5748,24 @@
     "OpenBuyOrders": 16,
     "OpenSellOrders": 78,
     "PrevDay": 0.00067945,
+=======
+    "High": 0.0006439,
+    "Low": 0.00063152,
+    "Volume": 1137.76427521,
+    "Last": 0.00063152,
+    "BaseVolume": 0.72898063,
+    "TimeStamp": "2018-05-14T16:37:54.757",
+    "Bid": 0.00063221,
+    "Ask": 0.00065347,
+    "OpenBuyOrders": 11,
+    "OpenSellOrders": 88,
+    "PrevDay": 0.00063127,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2018-02-22T18:39:23.173"
   },
   {
     "MarketName": "ETH-BLT",
+<<<<<<< HEAD
     "High": 0.00195,
     "Low": 0.00097109,
     "Volume": 431999.08618665,
@@ -3012,10 +5777,24 @@
     "OpenBuyOrders": 19,
     "OpenSellOrders": 65,
     "PrevDay": 0.00176951,
+=======
+    "High": 0.00107575,
+    "Low": 0.00091341,
+    "Volume": 40990.37736448,
+    "Last": 0.00099087,
+    "BaseVolume": 39.6686134,
+    "TimeStamp": "2018-05-14T16:37:56.863",
+    "Bid": 0.00095067,
+    "Ask": 0.00099088,
+    "OpenBuyOrders": 23,
+    "OpenSellOrders": 85,
+    "PrevDay": 0.00100763,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2018-05-10T16:56:16.523"
   },
   {
     "MarketName": "ETH-BNT",
+<<<<<<< HEAD
     "High": 0.00680827,
     "Low": 0.00632001,
     "Volume": 7253.65330444,
@@ -3027,10 +5806,24 @@
     "OpenBuyOrders": 62,
     "OpenSellOrders": 119,
     "PrevDay": 0.00675724,
+=======
+    "High": 0.00670969,
+    "Low": 0.00656772,
+    "Volume": 3107.00665416,
+    "Last": 0.00660615,
+    "BaseVolume": 20.64970435,
+    "TimeStamp": "2018-05-14T16:37:56.537",
+    "Bid": 0.00661753,
+    "Ask": 0.00674326,
+    "OpenBuyOrders": 65,
+    "OpenSellOrders": 111,
+    "PrevDay": 0.00660381,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-06-22T21:36:30.867"
   },
   {
     "MarketName": "ETH-BTG",
+<<<<<<< HEAD
     "High": 0.09071425,
     "Low": 0.08131012,
     "Volume": 2167.23372043,
@@ -3042,10 +5835,24 @@
     "OpenBuyOrders": 41,
     "OpenSellOrders": 341,
     "PrevDay": 0.09135378,
+=======
+    "High": 0.08241033,
+    "Low": 0.07800004,
+    "Volume": 1213.85394452,
+    "Last": 0.08123847,
+    "BaseVolume": 97.0839863,
+    "TimeStamp": "2018-05-14T16:37:54.38",
+    "Bid": 0.08073864,
+    "Ask": 0.08204939,
+    "OpenBuyOrders": 35,
+    "OpenSellOrders": 338,
+    "PrevDay": 0.0806002,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-11-20T21:49:16"
   },
   {
     "MarketName": "ETH-CFI",
+<<<<<<< HEAD
     "High": 0.00012446,
     "Low": 0.00011377,
     "Volume": 144164.75823018,
@@ -3057,10 +5864,24 @@
     "OpenBuyOrders": 43,
     "OpenSellOrders": 283,
     "PrevDay": 0.0001226,
+=======
+    "High": 0.00011081,
+    "Low": 0.00010646,
+    "Volume": 143665.83878633,
+    "Last": 0.00010825,
+    "BaseVolume": 15.74092831,
+    "TimeStamp": "2018-05-14T16:37:56.427",
+    "Bid": 0.00010684,
+    "Ask": 0.00011051,
+    "OpenBuyOrders": 26,
+    "OpenSellOrders": 274,
+    "PrevDay": 0.00011032,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-06-19T19:59:14.89"
   },
   {
     "MarketName": "ETH-CRB",
+<<<<<<< HEAD
     "High": 0.00032866,
     "Low": 0.00026932,
     "Volume": 4760.9752337,
@@ -3072,10 +5893,24 @@
     "OpenBuyOrders": 22,
     "OpenSellOrders": 186,
     "PrevDay": 0.00028456,
+=======
+    "High": 0.00028306,
+    "Low": 0.0002611,
+    "Volume": 5029.98210275,
+    "Last": 0.0002611,
+    "BaseVolume": 1.35623523,
+    "TimeStamp": "2018-05-14T16:37:56.71",
+    "Bid": 0.00026843,
+    "Ask": 0.00028506,
+    "OpenBuyOrders": 21,
+    "OpenSellOrders": 171,
+    "PrevDay": 0.00028861,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-06-13T19:40:35.217"
   },
   {
     "MarketName": "ETH-CVC",
+<<<<<<< HEAD
     "High": 0.00053971,
     "Low": 0.000483,
     "Volume": 118138.6058527,
@@ -3087,10 +5922,24 @@
     "OpenBuyOrders": 305,
     "OpenSellOrders": 712,
     "PrevDay": 0.0005387,
+=======
+    "High": 0.000582,
+    "Low": 0.00051118,
+    "Volume": 213862.55407456,
+    "Last": 0.00056,
+    "BaseVolume": 114.41284116,
+    "TimeStamp": "2018-05-14T16:37:56.007",
+    "Bid": 0.0005575,
+    "Ask": 0.00057119,
+    "OpenBuyOrders": 519,
+    "OpenSellOrders": 540,
+    "PrevDay": 0.00052024,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-07-16T23:04:18.99"
   },
   {
     "MarketName": "ETH-DASH",
+<<<<<<< HEAD
     "High": 0.65,
     "Low": 0.5621797,
     "Volume": 582.2360115,
@@ -3102,10 +5951,24 @@
     "OpenBuyOrders": 152,
     "OpenSellOrders": 328,
     "PrevDay": 0.59430832,
+=======
+    "High": 0.62,
+    "Low": 0.55178035,
+    "Volume": 249.68364273,
+    "Last": 0.58502189,
+    "BaseVolume": 146.75175202,
+    "TimeStamp": "2018-05-14T16:37:45.17",
+    "Bid": 0.58502189,
+    "Ask": 0.5907646,
+    "OpenBuyOrders": 157,
+    "OpenSellOrders": 324,
+    "PrevDay": 0.56764726,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-07-14T17:10:05.143"
   },
   {
     "MarketName": "ETH-DGB",
+<<<<<<< HEAD
     "High": 6.304e-05,
     "Low": 5.401e-05,
     "Volume": 2509292.89371114,
@@ -3117,10 +5980,24 @@
     "OpenBuyOrders": 139,
     "OpenSellOrders": 303,
     "PrevDay": 6.242e-05,
+=======
+    "High": 6.109e-05,
+    "Low": 5.677e-05,
+    "Volume": 1815099.31644148,
+    "Last": 5.865e-05,
+    "BaseVolume": 106.85400928,
+    "TimeStamp": "2018-05-14T16:37:51.737",
+    "Bid": 5.745e-05,
+    "Ask": 5.825e-05,
+    "OpenBuyOrders": 126,
+    "OpenSellOrders": 325,
+    "PrevDay": 5.973e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-08-04T18:01:27.777"
   },
   {
     "MarketName": "ETH-DMT",
+<<<<<<< HEAD
     "High": 0.000619,
     "Low": 0.00054562,
     "Volume": 44272.72729328,
@@ -3132,10 +6009,24 @@
     "OpenBuyOrders": 14,
     "OpenSellOrders": 163,
     "PrevDay": 0.00061898,
+=======
+    "High": 0.00058011,
+    "Low": 0.00040426,
+    "Volume": 79926.1679359,
+    "Last": 0.00058011,
+    "BaseVolume": 43.09844661,
+    "TimeStamp": "2018-05-14T16:37:45.39",
+    "Bid": 0.0005349,
+    "Ask": 0.00057165,
+    "OpenBuyOrders": 14,
+    "OpenSellOrders": 171,
+    "PrevDay": 0.0005744,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2018-03-27T17:20:49.18"
   },
   {
     "MarketName": "ETH-DNT",
+<<<<<<< HEAD
     "High": 0.00013484,
     "Low": 0.00012299,
     "Volume": 258147.50391312,
@@ -3147,10 +6038,24 @@
     "OpenBuyOrders": 68,
     "OpenSellOrders": 218,
     "PrevDay": 0.00013265,
+=======
+    "High": 0.00013463,
+    "Low": 0.00012294,
+    "Volume": 277513.64728178,
+    "Last": 0.00012684,
+    "BaseVolume": 36.08182635,
+    "TimeStamp": "2018-05-14T16:37:41.687",
+    "Bid": 0.00012642,
+    "Ask": 0.00012926,
+    "OpenBuyOrders": 82,
+    "OpenSellOrders": 214,
+    "PrevDay": 0.00012555,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-08-04T02:09:02.887"
   },
   {
     "MarketName": "ETH-ENG",
+<<<<<<< HEAD
     "High": 0.00369,
     "Low": 0.00322,
     "Volume": 12592.39168304,
@@ -3162,10 +6067,24 @@
     "OpenBuyOrders": 73,
     "OpenSellOrders": 141,
     "PrevDay": 0.00360016,
+=======
+    "High": 0.004289,
+    "Low": 0.00368995,
+    "Volume": 17958.80932033,
+    "Last": 0.004284,
+    "BaseVolume": 71.66993074,
+    "TimeStamp": "2018-05-14T16:37:56.88",
+    "Bid": 0.00413793,
+    "Ask": 0.004289,
+    "OpenBuyOrders": 94,
+    "OpenSellOrders": 75,
+    "PrevDay": 0.0037,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-11-29T23:57:48.26"
   },
   {
     "MarketName": "ETH-ETC",
+<<<<<<< HEAD
     "High": 0.02784512,
     "Low": 0.02461938,
     "Volume": 25556.03566981,
@@ -3177,10 +6096,24 @@
     "OpenBuyOrders": 109,
     "OpenSellOrders": 490,
     "PrevDay": 0.0278018,
+=======
+    "High": 0.02600008,
+    "Low": 0.02492428,
+    "Volume": 5801.23676576,
+    "Last": 0.02532512,
+    "BaseVolume": 147.10771975,
+    "TimeStamp": "2018-05-14T16:37:55.21",
+    "Bid": 0.02532513,
+    "Ask": 0.02555254,
+    "OpenBuyOrders": 106,
+    "OpenSellOrders": 483,
+    "PrevDay": 0.02568044,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2016-07-28T21:45:59.05"
   },
   {
     "MarketName": "ETH-FCT",
+<<<<<<< HEAD
     "High": 0.0334,
     "Low": 0.0301,
     "Volume": 1682.81423696,
@@ -3192,10 +6125,24 @@
     "OpenBuyOrders": 26,
     "OpenSellOrders": 191,
     "PrevDay": 0.0320168,
+=======
+    "High": 0.03096232,
+    "Low": 0.02866874,
+    "Volume": 767.95421491,
+    "Last": 0.03,
+    "BaseVolume": 22.88497432,
+    "TimeStamp": "2018-05-14T16:37:51.863",
+    "Bid": 0.02867266,
+    "Ask": 0.02999997,
+    "OpenBuyOrders": 25,
+    "OpenSellOrders": 189,
+    "PrevDay": 0.03055857,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-08-04T18:01:27.853"
   },
   {
     "MarketName": "ETH-GNO",
+<<<<<<< HEAD
     "High": 0.14685153,
     "Low": 0.13225924,
     "Volume": 389.82358709,
@@ -3207,10 +6154,24 @@
     "OpenBuyOrders": 78,
     "OpenSellOrders": 205,
     "PrevDay": 0.14316136,
+=======
+    "High": 0.13535112,
+    "Low": 0.12817011,
+    "Volume": 95.31669874,
+    "Last": 0.13153092,
+    "BaseVolume": 12.45446225,
+    "TimeStamp": "2018-05-14T16:37:56.693",
+    "Bid": 0.1281718,
+    "Ask": 0.13152956,
+    "OpenBuyOrders": 61,
+    "OpenSellOrders": 213,
+    "PrevDay": 0.13270271,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-04-30T18:42:52.17"
   },
   {
     "MarketName": "ETH-GNT",
+<<<<<<< HEAD
     "High": 0.0010017,
     "Low": 0.000821,
     "Volume": 831586.97027734,
@@ -3222,10 +6183,24 @@
     "OpenBuyOrders": 380,
     "OpenSellOrders": 514,
     "PrevDay": 0.000922,
+=======
+    "High": 0.00090611,
+    "Low": 0.00083802,
+    "Volume": 195636.93216965,
+    "Last": 0.000853,
+    "BaseVolume": 170.00310753,
+    "TimeStamp": "2018-05-14T16:37:45.047",
+    "Bid": 0.000853,
+    "Ask": 0.00086805,
+    "OpenBuyOrders": 329,
+    "OpenSellOrders": 447,
+    "PrevDay": 0.000859,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-04-20T06:38:51.877"
   },
   {
     "MarketName": "ETH-GUP",
+<<<<<<< HEAD
     "High": 0.00046756,
     "Low": 0.00035622,
     "Volume": 136882.23621944,
@@ -3237,10 +6212,24 @@
     "OpenBuyOrders": 20,
     "OpenSellOrders": 164,
     "PrevDay": 0.00047554,
+=======
+    "High": 0.00040083,
+    "Low": 0.00038755,
+    "Volume": 47758.14115466,
+    "Last": 0.00040004,
+    "BaseVolume": 19.02225133,
+    "TimeStamp": "2018-05-14T16:37:56.553",
+    "Bid": 0.00039014,
+    "Ask": 0.00040004,
+    "OpenBuyOrders": 27,
+    "OpenSellOrders": 167,
+    "PrevDay": 0.00038262,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-04-30T18:40:42.213"
   },
   {
     "MarketName": "ETH-HMQ",
+<<<<<<< HEAD
     "High": 0.00022938,
     "Low": 0.00020846,
     "Volume": 59089.88420446,
@@ -3252,10 +6241,24 @@
     "OpenBuyOrders": 28,
     "OpenSellOrders": 276,
     "PrevDay": 0.00023124,
+=======
+    "High": 0.00022882,
+    "Low": 0.00020397,
+    "Volume": 37806.81644777,
+    "Last": 0.00021427,
+    "BaseVolume": 8.00351581,
+    "TimeStamp": "2018-05-14T16:37:56.007",
+    "Bid": 0.00021177,
+    "Ask": 0.0002143,
+    "OpenBuyOrders": 36,
+    "OpenSellOrders": 265,
+    "PrevDay": 0.00020654,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-05-10T07:27:27.597"
   },
   {
     "MarketName": "ETH-LGD",
+<<<<<<< HEAD
     "High": 0.00099758,
     "Low": 0.0008363,
     "Volume": 11740.04976445,
@@ -3267,10 +6270,24 @@
     "OpenBuyOrders": 22,
     "OpenSellOrders": 108,
     "PrevDay": 0.00099758,
+=======
+    "High": 0.00080402,
+    "Low": 0.00072138,
+    "Volume": 2869.14563896,
+    "Last": 0.00076702,
+    "BaseVolume": 2.26072378,
+    "TimeStamp": "2018-05-14T16:37:26.807",
+    "Bid": 0.00073114,
+    "Ask": 0.00076702,
+    "OpenBuyOrders": 18,
+    "OpenSellOrders": 110,
+    "PrevDay": 0.00080605,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-06-17T15:02:02.783"
   },
   {
     "MarketName": "ETH-LRC",
+<<<<<<< HEAD
     "High": 0.00105369,
     "Low": 0.00090366,
     "Volume": 32815.01901352,
@@ -3282,10 +6299,24 @@
     "OpenBuyOrders": 37,
     "OpenSellOrders": 97,
     "PrevDay": 0.00101152,
+=======
+    "High": 0.00094239,
+    "Low": 0.000901,
+    "Volume": 26209.62103797,
+    "Last": 0.00093088,
+    "BaseVolume": 24.2211446,
+    "TimeStamp": "2018-05-14T16:37:45.623",
+    "Bid": 0.00090602,
+    "Ask": 0.00092669,
+    "OpenBuyOrders": 35,
+    "OpenSellOrders": 104,
+    "PrevDay": 0.00094345,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2018-03-08T18:57:22.03"
   },
   {
     "MarketName": "ETH-LTC",
+<<<<<<< HEAD
     "High": 0.20720941,
     "Low": 0.19875694,
     "Volume": 5056.62578021,
@@ -3297,10 +6328,24 @@
     "OpenBuyOrders": 516,
     "OpenSellOrders": 737,
     "PrevDay": 0.20539491,
+=======
+    "High": 0.20490839,
+    "Low": 0.1925464,
+    "Volume": 1211.0718529,
+    "Last": 0.2046,
+    "BaseVolume": 238.3639711,
+    "TimeStamp": "2018-05-14T16:37:56.147",
+    "Bid": 0.20281886,
+    "Ask": 0.20499999,
+    "OpenBuyOrders": 383,
+    "OpenSellOrders": 724,
+    "PrevDay": 0.19854407,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-06-25T03:06:46.83"
   },
   {
     "MarketName": "ETH-LUN",
+<<<<<<< HEAD
     "High": 0.0260478,
     "Low": 0.01903045,
     "Volume": 4861.55053851,
@@ -3312,10 +6357,24 @@
     "OpenBuyOrders": 38,
     "OpenSellOrders": 70,
     "PrevDay": 0.02314844,
+=======
+    "High": 0.0486,
+    "Low": 0.0206,
+    "Volume": 21657.4271229,
+    "Last": 0.02609711,
+    "BaseVolume": 767.76653642,
+    "TimeStamp": "2018-05-14T16:37:54.443",
+    "Bid": 0.026,
+    "Ask": 0.02669502,
+    "OpenBuyOrders": 125,
+    "OpenSellOrders": 82,
+    "PrevDay": 0.0261197,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-04-30T18:41:22.84"
   },
   {
     "MarketName": "ETH-MANA",
+<<<<<<< HEAD
     "High": 0.00019364,
     "Low": 0.00016713,
     "Volume": 242808.61710613,
@@ -3327,10 +6386,24 @@
     "OpenBuyOrders": 85,
     "OpenSellOrders": 200,
     "PrevDay": 0.00019379,
+=======
+    "High": 0.000206,
+    "Low": 0.00018,
+    "Volume": 410003.12800241,
+    "Last": 0.00020033,
+    "BaseVolume": 78.91645174,
+    "TimeStamp": "2018-05-14T16:37:56.757",
+    "Bid": 0.00020087,
+    "Ask": 0.0002059,
+    "OpenBuyOrders": 116,
+    "OpenSellOrders": 180,
+    "PrevDay": 0.00018813,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-10-13T23:32:03.027"
   },
   {
     "MarketName": "ETH-MCO",
+<<<<<<< HEAD
     "High": 0.01465921,
     "Low": 0.01288804,
     "Volume": 19008.69214752,
@@ -3342,10 +6415,24 @@
     "OpenBuyOrders": 53,
     "OpenSellOrders": 399,
     "PrevDay": 0.01465921,
+=======
+    "High": 0.01503471,
+    "Low": 0.01361679,
+    "Volume": 4538.36890968,
+    "Last": 0.01503468,
+    "BaseVolume": 65.1321337,
+    "TimeStamp": "2018-05-14T16:37:56.35",
+    "Bid": 0.01471354,
+    "Ask": 0.0149778,
+    "OpenBuyOrders": 63,
+    "OpenSellOrders": 384,
+    "PrevDay": 0.01461199,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-07-02T00:37:17.05"
   },
   {
     "MarketName": "ETH-NEO",
+<<<<<<< HEAD
     "High": 0.09849738,
     "Low": 0.09000001,
     "Volume": 9910.78443351,
@@ -3357,10 +6444,24 @@
     "OpenBuyOrders": 671,
     "OpenSellOrders": 1051,
     "PrevDay": 0.09774701,
+=======
+    "High": 0.09401285,
+    "Low": 0.09,
+    "Volume": 2397.44489381,
+    "Last": 0.09255281,
+    "BaseVolume": 220.17997405,
+    "TimeStamp": "2018-05-14T16:37:56.693",
+    "Bid": 0.09147855,
+    "Ask": 0.09237753,
+    "OpenBuyOrders": 673,
+    "OpenSellOrders": 1146,
+    "PrevDay": 0.09389999,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-07-21T01:08:49.397"
   },
   {
     "MarketName": "ETH-NMR",
+<<<<<<< HEAD
     "High": 0.02,
     "Low": 0.01656602,
     "Volume": 1280.16516369,
@@ -3372,10 +6473,24 @@
     "OpenBuyOrders": 27,
     "OpenSellOrders": 208,
     "PrevDay": 0.02009076,
+=======
+    "High": 0.01931324,
+    "Low": 0.01714999,
+    "Volume": 309.0594793,
+    "Last": 0.018,
+    "BaseVolume": 5.67692706,
+    "TimeStamp": "2018-05-14T16:37:56.537",
+    "Bid": 0.0172059,
+    "Ask": 0.018,
+    "OpenBuyOrders": 25,
+    "OpenSellOrders": 205,
+    "PrevDay": 0.01834528,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-06-22T21:58:57.657"
   },
   {
     "MarketName": "ETH-OMG",
+<<<<<<< HEAD
     "High": 0.0214,
     "Low": 0.0196868,
     "Volume": 26617.61391247,
@@ -3387,10 +6502,24 @@
     "OpenBuyOrders": 494,
     "OpenSellOrders": 822,
     "PrevDay": 0.02120435,
+=======
+    "High": 0.02013042,
+    "Low": 0.019,
+    "Volume": 15032.64793298,
+    "Last": 0.01951,
+    "BaseVolume": 293.3375685,
+    "TimeStamp": "2018-05-14T16:37:49.343",
+    "Bid": 0.01944546,
+    "Ask": 0.01951,
+    "OpenBuyOrders": 419,
+    "OpenSellOrders": 846,
+    "PrevDay": 0.0198767,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-07-16T17:07:42.41"
   },
   {
     "MarketName": "ETH-PAY",
+<<<<<<< HEAD
     "High": 0.00181998,
     "Low": 0.0016298,
     "Volume": 21474.33388892,
@@ -3402,10 +6531,24 @@
     "OpenBuyOrders": 48,
     "OpenSellOrders": 694,
     "PrevDay": 0.00175279,
+=======
+    "High": 0.00181201,
+    "Low": 0.00161122,
+    "Volume": 40366.08824247,
+    "Last": 0.00179341,
+    "BaseVolume": 70.00314216,
+    "TimeStamp": "2018-05-14T16:37:56.803",
+    "Bid": 0.0016953,
+    "Ask": 0.00179495,
+    "OpenBuyOrders": 50,
+    "OpenSellOrders": 687,
+    "PrevDay": 0.001662,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-07-07T07:14:00.873"
   },
   {
     "MarketName": "ETH-POLY",
+<<<<<<< HEAD
     "High": 0.00129997,
     "Low": 0.0011,
     "Volume": 318128.56377857,
@@ -3417,10 +6560,24 @@
     "OpenBuyOrders": 203,
     "OpenSellOrders": 186,
     "PrevDay": 0.00120002,
+=======
+    "High": 0.00161616,
+    "Low": 0.00138298,
+    "Volume": 506181.83586169,
+    "Last": 0.00156052,
+    "BaseVolume": 753.46428908,
+    "TimeStamp": "2018-05-14T16:37:49.923",
+    "Bid": 0.00156052,
+    "Ask": 0.00157343,
+    "OpenBuyOrders": 295,
+    "OpenSellOrders": 196,
+    "PrevDay": 0.00141959,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2018-04-09T16:15:37.53"
   },
   {
     "MarketName": "ETH-POWR",
+<<<<<<< HEAD
     "High": 0.00062978,
     "Low": 0.000541,
     "Volume": 207746.53482502,
@@ -3432,10 +6589,24 @@
     "OpenBuyOrders": 887,
     "OpenSellOrders": 805,
     "PrevDay": 0.000623,
+=======
+    "High": 0.000643,
+    "Low": 0.00060016,
+    "Volume": 179904.2540477,
+    "Last": 0.00062942,
+    "BaseVolume": 112.09625418,
+    "TimeStamp": "2018-05-14T16:37:54.49",
+    "Bid": 0.00062817,
+    "Ask": 0.00064059,
+    "OpenBuyOrders": 887,
+    "OpenSellOrders": 711,
+    "PrevDay": 0.00061412,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-11-14T00:31:01.76"
   },
   {
     "MarketName": "ETH-PRO",
+<<<<<<< HEAD
     "High": 0.0021912,
     "Low": 0.00186105,
     "Volume": 18423.46234069,
@@ -3447,10 +6618,24 @@
     "OpenBuyOrders": 28,
     "OpenSellOrders": 83,
     "PrevDay": 0.00208101,
+=======
+    "High": 0.00243,
+    "Low": 0.00175154,
+    "Volume": 47940.63176306,
+    "Last": 0.00201109,
+    "BaseVolume": 97.31674574,
+    "TimeStamp": "2018-05-14T16:37:56.693",
+    "Bid": 0.001981,
+    "Ask": 0.00208081,
+    "OpenBuyOrders": 29,
+    "OpenSellOrders": 98,
+    "PrevDay": 0.001783,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2018-04-19T18:07:39.277"
   },
   {
     "MarketName": "ETH-PTOY",
+<<<<<<< HEAD
     "High": 0.00023878,
     "Low": 0.00020213,
     "Volume": 52759.14388734,
@@ -3462,10 +6647,24 @@
     "OpenBuyOrders": 17,
     "OpenSellOrders": 327,
     "PrevDay": 0.00023,
+=======
+    "High": 0.00023098,
+    "Low": 0.00021381,
+    "Volume": 9068.97271661,
+    "Last": 0.0002239,
+    "BaseVolume": 1.98195371,
+    "TimeStamp": "2018-05-14T16:37:56.787",
+    "Bid": 0.0002141,
+    "Ask": 0.00022313,
+    "OpenBuyOrders": 21,
+    "OpenSellOrders": 319,
+    "PrevDay": 0.00021165,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-06-18T17:04:24.147"
   },
   {
     "MarketName": "ETH-QRL",
+<<<<<<< HEAD
     "High": 0.00165,
     "Low": 0.00150218,
     "Volume": 43975.80455259,
@@ -3477,10 +6676,24 @@
     "OpenBuyOrders": 27,
     "OpenSellOrders": 211,
     "PrevDay": 0.00157,
+=======
+    "High": 0.00151031,
+    "Low": 0.00144287,
+    "Volume": 3441.00839291,
+    "Last": 0.00151024,
+    "BaseVolume": 5.13186961,
+    "TimeStamp": "2018-05-14T16:36:54.157",
+    "Bid": 0.00144308,
+    "Ask": 0.00151024,
+    "OpenBuyOrders": 20,
+    "OpenSellOrders": 206,
+    "PrevDay": 0.00149656,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-06-11T17:33:06.14"
   },
   {
     "MarketName": "ETH-QTUM",
+<<<<<<< HEAD
     "High": 0.02595173,
     "Low": 0.02290001,
     "Volume": 17556.42967827,
@@ -3492,10 +6705,24 @@
     "OpenBuyOrders": 309,
     "OpenSellOrders": 547,
     "PrevDay": 0.02595173,
+=======
+    "High": 0.0257,
+    "Low": 0.02320211,
+    "Volume": 15610.2742017,
+    "Last": 0.0248,
+    "BaseVolume": 379.60912879,
+    "TimeStamp": "2018-05-14T16:37:55.74",
+    "Bid": 0.0247,
+    "Ask": 0.0248,
+    "OpenBuyOrders": 306,
+    "OpenSellOrders": 502,
+    "PrevDay": 0.0238,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-07-20T19:08:43.473"
   },
   {
     "MarketName": "ETH-RCN",
+<<<<<<< HEAD
     "High": 0.00018099,
     "Low": 0.00015755,
     "Volume": 127663.99128823,
@@ -3507,10 +6734,24 @@
     "OpenBuyOrders": 37,
     "OpenSellOrders": 152,
     "PrevDay": 0.0001799,
+=======
+    "High": 0.0001894,
+    "Low": 0.00017281,
+    "Volume": 133508.08539477,
+    "Last": 0.00018024,
+    "BaseVolume": 24.0664354,
+    "TimeStamp": "2018-05-14T16:37:55.16",
+    "Bid": 0.00018052,
+    "Ask": 0.00018837,
+    "OpenBuyOrders": 44,
+    "OpenSellOrders": 162,
+    "PrevDay": 0.00017263,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-11-07T07:59:10.93"
   },
   {
     "MarketName": "ETH-REP",
+<<<<<<< HEAD
     "High": 0.19499805,
     "Low": 0.05999371,
     "Volume": 27991.40670596,
@@ -3522,10 +6763,24 @@
     "OpenBuyOrders": 116,
     "OpenSellOrders": 91,
     "PrevDay": 0.06254279,
+=======
+    "High": 0.07956139,
+    "Low": 0.06876552,
+    "Volume": 5837.71735527,
+    "Last": 0.07956139,
+    "BaseVolume": 413.50714188,
+    "TimeStamp": "2018-05-14T16:37:54.16",
+    "Bid": 0.07956139,
+    "Ask": 0.07971856,
+    "OpenBuyOrders": 150,
+    "OpenSellOrders": 74,
+    "PrevDay": 0.07079668,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-04-20T06:43:49.19"
   },
   {
     "MarketName": "ETH-RLC",
+<<<<<<< HEAD
     "High": 0.00237989,
     "Low": 0.00211,
     "Volume": 7780.26183832,
@@ -3537,10 +6792,24 @@
     "OpenBuyOrders": 39,
     "OpenSellOrders": 80,
     "PrevDay": 0.00236302,
+=======
+    "High": 0.0028,
+    "Low": 0.00216497,
+    "Volume": 27348.37837851,
+    "Last": 0.00274893,
+    "BaseVolume": 70.30357778,
+    "TimeStamp": "2018-05-14T16:37:54.567",
+    "Bid": 0.00274893,
+    "Ask": 0.00274894,
+    "OpenBuyOrders": 47,
+    "OpenSellOrders": 66,
+    "PrevDay": 0.00238478,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-04-30T18:41:22.823"
   },
   {
     "MarketName": "ETH-SALT",
+<<<<<<< HEAD
     "High": 0.00440744,
     "Low": 0.00397297,
     "Volume": 19988.21263524,
@@ -3552,10 +6821,24 @@
     "OpenBuyOrders": 86,
     "OpenSellOrders": 247,
     "PrevDay": 0.00426369,
+=======
+    "High": 0.00481,
+    "Low": 0.00422,
+    "Volume": 15164.66389113,
+    "Last": 0.00466612,
+    "BaseVolume": 69.06145929,
+    "TimeStamp": "2018-05-14T16:37:51.55",
+    "Bid": 0.00466623,
+    "Ask": 0.00474374,
+    "OpenBuyOrders": 107,
+    "OpenSellOrders": 218,
+    "PrevDay": 0.00444095,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-10-16T17:32:48.84"
   },
   {
     "MarketName": "ETH-SC",
+<<<<<<< HEAD
     "High": 3.325e-05,
     "Low": 2.695e-05,
     "Volume": 16612485.62288334,
@@ -3567,10 +6850,24 @@
     "OpenBuyOrders": 315,
     "OpenSellOrders": 907,
     "PrevDay": 3.287e-05,
+=======
+    "High": 3.013e-05,
+    "Low": 2.791e-05,
+    "Volume": 8422084.12681849,
+    "Last": 2.872e-05,
+    "BaseVolume": 240.99425677,
+    "TimeStamp": "2018-05-14T16:37:56.77",
+    "Bid": 2.857e-05,
+    "Ask": 2.872e-05,
+    "OpenBuyOrders": 237,
+    "OpenSellOrders": 923,
+    "PrevDay": 2.999e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-07-14T17:10:07.74"
   },
   {
     "MarketName": "ETH-SNT",
+<<<<<<< HEAD
     "High": 0.00020359,
     "Low": 0.000171,
     "Volume": 1773949.770965,
@@ -3582,10 +6879,24 @@
     "OpenBuyOrders": 293,
     "OpenSellOrders": 390,
     "PrevDay": 0.00020559,
+=======
+    "High": 0.00017815,
+    "Low": 0.000168,
+    "Volume": 508857.0368835,
+    "Last": 0.00017479,
+    "BaseVolume": 89.19199985,
+    "TimeStamp": "2018-05-14T16:37:35.53",
+    "Bid": 0.00017359,
+    "Ask": 0.00017479,
+    "OpenBuyOrders": 206,
+    "OpenSellOrders": 426,
+    "PrevDay": 0.000176,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-06-28T18:26:15.747"
   },
   {
     "MarketName": "ETH-SRN",
+<<<<<<< HEAD
     "High": 0.00066798,
     "Low": 0.00056803,
     "Volume": 458811.00533854,
@@ -3597,10 +6908,24 @@
     "OpenBuyOrders": 231,
     "OpenSellOrders": 263,
     "PrevDay": 0.000659,
+=======
+    "High": 0.00062499,
+    "Low": 0.00055323,
+    "Volume": 138476.57678457,
+    "Last": 0.00059019,
+    "BaseVolume": 78.83330947,
+    "TimeStamp": "2018-05-14T16:37:54.473",
+    "Bid": 0.00059019,
+    "Ask": 0.00059756,
+    "OpenBuyOrders": 277,
+    "OpenSellOrders": 239,
+    "PrevDay": 0.00055977,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2018-02-13T20:13:01.63"
   },
   {
     "MarketName": "ETH-STORJ",
+<<<<<<< HEAD
     "High": 0.00155299,
     "Low": 0.00125397,
     "Volume": 110809.66652648,
@@ -3612,10 +6937,24 @@
     "OpenBuyOrders": 50,
     "OpenSellOrders": 208,
     "PrevDay": 0.00142217,
+=======
+    "High": 0.00148298,
+    "Low": 0.00127,
+    "Volume": 40503.71639565,
+    "Last": 0.00133137,
+    "BaseVolume": 54.88277559,
+    "TimeStamp": "2018-05-14T16:37:53.723",
+    "Bid": 0.00132911,
+    "Ask": 0.00133137,
+    "OpenBuyOrders": 63,
+    "OpenSellOrders": 192,
+    "PrevDay": 0.00128456,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-07-11T21:14:32.643"
   },
   {
     "MarketName": "ETH-STRAT",
+<<<<<<< HEAD
     "High": 0.0091527,
     "Low": 0.00822,
     "Volume": 13506.7260898,
@@ -3627,10 +6966,24 @@
     "OpenBuyOrders": 594,
     "OpenSellOrders": 682,
     "PrevDay": 0.00915276,
+=======
+    "High": 0.00893,
+    "Low": 0.00853,
+    "Volume": 2548.44651629,
+    "Last": 0.00878999,
+    "BaseVolume": 22.24245609,
+    "TimeStamp": "2018-05-14T16:37:56.88",
+    "Bid": 0.00864999,
+    "Ask": 0.00878999,
+    "OpenBuyOrders": 529,
+    "OpenSellOrders": 678,
+    "PrevDay": 0.00887442,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-08-04T18:01:27.713"
   },
   {
     "MarketName": "ETH-TIX",
+<<<<<<< HEAD
     "High": 0.00087172,
     "Low": 0.00063108,
     "Volume": 72080.19500617,
@@ -3642,10 +6995,24 @@
     "OpenBuyOrders": 18,
     "OpenSellOrders": 118,
     "PrevDay": 0.00077182,
+=======
+    "High": 0.00081634,
+    "Low": 0.00062014,
+    "Volume": 29910.93412045,
+    "Last": 0.00072738,
+    "BaseVolume": 22.4756398,
+    "TimeStamp": "2018-05-14T16:37:56.553",
+    "Bid": 0.00072002,
+    "Ask": 0.00080139,
+    "OpenBuyOrders": 24,
+    "OpenSellOrders": 109,
+    "PrevDay": 0.00067056,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-10-25T21:01:08.287"
   },
   {
     "MarketName": "ETH-TRST",
+<<<<<<< HEAD
     "High": 0.00030599,
     "Low": 0.00028029,
     "Volume": 47587.27906211,
@@ -3657,10 +7024,24 @@
     "OpenBuyOrders": 38,
     "OpenSellOrders": 186,
     "PrevDay": 0.000306,
+=======
+    "High": 0.00030646,
+    "Low": 0.00028002,
+    "Volume": 46452.2689223,
+    "Last": 0.00029136,
+    "BaseVolume": 13.84943384,
+    "TimeStamp": "2018-05-14T16:37:56.52",
+    "Bid": 0.0002865,
+    "Ask": 0.0003,
+    "OpenBuyOrders": 32,
+    "OpenSellOrders": 170,
+    "PrevDay": 0.00031018,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-05-19T15:55:11.28"
   },
   {
     "MarketName": "ETH-TRX",
+<<<<<<< HEAD
     "High": 0.00010593,
     "Low": 9.25e-05,
     "Volume": 37114582.94441408,
@@ -3672,10 +7053,24 @@
     "OpenBuyOrders": 764,
     "OpenSellOrders": 496,
     "PrevDay": 0.0001059,
+=======
+    "High": 0.0001032,
+    "Low": 9.81e-05,
+    "Volume": 9373226.33054498,
+    "Last": 9.911e-05,
+    "BaseVolume": 939.18048751,
+    "TimeStamp": "2018-05-14T16:37:49.377",
+    "Bid": 9.9e-05,
+    "Ask": 9.926e-05,
+    "OpenBuyOrders": 805,
+    "OpenSellOrders": 477,
+    "PrevDay": 0.00010308,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2018-03-01T23:17:06.517"
   },
   {
     "MarketName": "ETH-TUSD",
+<<<<<<< HEAD
     "High": 0.0014875,
     "Low": 0.00135346,
     "Volume": 48638.70843699,
@@ -3687,10 +7082,24 @@
     "OpenBuyOrders": 51,
     "OpenSellOrders": 101,
     "PrevDay": 0.00134977,
+=======
+    "High": 0.00144462,
+    "Low": 0.00134483,
+    "Volume": 36146.13033486,
+    "Last": 0.00136904,
+    "BaseVolume": 50.23773353,
+    "TimeStamp": "2018-05-14T16:37:55.303",
+    "Bid": 0.00135297,
+    "Ask": 0.00137208,
+    "OpenBuyOrders": 54,
+    "OpenSellOrders": 97,
+    "PrevDay": 0.0013659,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2018-03-19T17:38:47.76"
   },
   {
     "MarketName": "ETH-UKG",
+<<<<<<< HEAD
     "High": 0.00028464,
     "Low": 0.00025199,
     "Volume": 131083.05869581,
@@ -3702,10 +7111,24 @@
     "OpenBuyOrders": 16,
     "OpenSellOrders": 155,
     "PrevDay": 0.00028199,
+=======
+    "High": 0.00028344,
+    "Low": 0.00025553,
+    "Volume": 159109.21427783,
+    "Last": 0.00025624,
+    "BaseVolume": 42.56594119,
+    "TimeStamp": "2018-05-14T16:37:54.443",
+    "Bid": 0.00026996,
+    "Ask": 0.00028125,
+    "OpenBuyOrders": 21,
+    "OpenSellOrders": 149,
+    "PrevDay": 0.00029649,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-12-29T22:41:56.017"
   },
   {
     "MarketName": "ETH-UP",
+<<<<<<< HEAD
     "High": 0.00023959,
     "Low": 0.00017276,
     "Volume": 93364.74175555,
@@ -3717,10 +7140,24 @@
     "OpenBuyOrders": 25,
     "OpenSellOrders": 150,
     "PrevDay": 0.00023959,
+=======
+    "High": 0.00021815,
+    "Low": 0.00019228,
+    "Volume": 102908.85945622,
+    "Last": 0.00020074,
+    "BaseVolume": 21.56267565,
+    "TimeStamp": "2018-05-14T16:37:56.553",
+    "Bid": 0.00020322,
+    "Ask": 0.00021158,
+    "OpenBuyOrders": 22,
+    "OpenSellOrders": 150,
+    "PrevDay": 0.00021071,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2018-03-20T22:26:49.427"
   },
   {
     "MarketName": "ETH-VEE",
+<<<<<<< HEAD
     "High": 6.443e-05,
     "Low": 5.336e-05,
     "Volume": 2811437.96739964,
@@ -3732,10 +7169,24 @@
     "OpenBuyOrders": 82,
     "OpenSellOrders": 231,
     "PrevDay": 6.449e-05,
+=======
+    "High": 5.667e-05,
+    "Low": 5.468e-05,
+    "Volume": 901104.5713249,
+    "Last": 5.593e-05,
+    "BaseVolume": 50.4789092,
+    "TimeStamp": "2018-05-14T16:37:49.563",
+    "Bid": 5.47e-05,
+    "Ask": 5.6e-05,
+    "OpenBuyOrders": 67,
+    "OpenSellOrders": 254,
+    "PrevDay": 5.728e-05,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2018-02-16T18:36:35.443"
   },
   {
     "MarketName": "ETH-VIB",
+<<<<<<< HEAD
     "High": 0.00025799,
     "Low": 0.00023309,
     "Volume": 85878.46236544,
@@ -3747,10 +7198,24 @@
     "OpenBuyOrders": 23,
     "OpenSellOrders": 151,
     "PrevDay": 0.00025763,
+=======
+    "High": 0.00026825,
+    "Low": 0.0002329,
+    "Volume": 106047.06142789,
+    "Last": 0.00025997,
+    "BaseVolume": 26.87289978,
+    "TimeStamp": "2018-05-14T16:37:56.537",
+    "Bid": 0.00026392,
+    "Ask": 0.00027191,
+    "OpenBuyOrders": 18,
+    "OpenSellOrders": 128,
+    "PrevDay": 0.00023448,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-11-08T17:08:43.01"
   },
   {
     "MarketName": "ETH-WAVES",
+<<<<<<< HEAD
     "High": 0.00935646,
     "Low": 0.0085,
     "Volume": 11838.77906994,
@@ -3762,10 +7227,24 @@
     "OpenBuyOrders": 371,
     "OpenSellOrders": 336,
     "PrevDay": 0.0088672,
+=======
+    "High": 0.0092385,
+    "Low": 0.00870096,
+    "Volume": 13245.3075134,
+    "Last": 0.0092385,
+    "BaseVolume": 117.0973871,
+    "TimeStamp": "2018-05-14T16:37:55.02",
+    "Bid": 0.00907328,
+    "Ask": 0.00919001,
+    "OpenBuyOrders": 395,
+    "OpenSellOrders": 344,
+    "PrevDay": 0.00885,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-08-04T18:00:50.15"
   },
   {
     "MarketName": "ETH-WAX",
+<<<<<<< HEAD
     "High": 0.00042307,
     "Low": 0.00034151,
     "Volume": 268084.61101312,
@@ -3777,10 +7256,24 @@
     "OpenBuyOrders": 40,
     "OpenSellOrders": 192,
     "PrevDay": 0.00042753,
+=======
+    "High": 0.00040042,
+    "Low": 0.00035964,
+    "Volume": 248774.13663868,
+    "Last": 0.00038493,
+    "BaseVolume": 94.68581024,
+    "TimeStamp": "2018-05-14T16:37:56.85",
+    "Bid": 0.00037828,
+    "Ask": 0.000385,
+    "OpenBuyOrders": 30,
+    "OpenSellOrders": 191,
+    "PrevDay": 0.00038287,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2018-02-15T01:09:15.167"
   },
   {
     "MarketName": "ETH-WINGS",
+<<<<<<< HEAD
     "High": 0.00074601,
     "Low": 0.0006735,
     "Volume": 20058.40810518,
@@ -3792,10 +7285,24 @@
     "OpenBuyOrders": 24,
     "OpenSellOrders": 186,
     "PrevDay": 0.00075,
+=======
+    "High": 0.00074421,
+    "Low": 0.00068434,
+    "Volume": 46134.34440217,
+    "Last": 0.00073253,
+    "BaseVolume": 33.50485087,
+    "TimeStamp": "2018-05-14T16:37:55.113",
+    "Bid": 0.00070052,
+    "Ask": 0.00073263,
+    "OpenBuyOrders": 27,
+    "OpenSellOrders": 159,
+    "PrevDay": 0.00070256,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-04-26T22:16:06.627"
   },
   {
     "MarketName": "ETH-XEM",
+<<<<<<< HEAD
     "High": 0.00049709,
     "Low": 0.00044555,
     "Volume": 324806.97457489,
@@ -3807,10 +7314,24 @@
     "OpenBuyOrders": 672,
     "OpenSellOrders": 1070,
     "PrevDay": 0.00048869,
+=======
+    "High": 0.00053863,
+    "Low": 0.000471,
+    "Volume": 407285.51590029,
+    "Last": 0.00050859,
+    "BaseVolume": 207.95656763,
+    "TimeStamp": "2018-05-14T16:37:53.85",
+    "Bid": 0.00050617,
+    "Ask": 0.0005114,
+    "OpenBuyOrders": 784,
+    "OpenSellOrders": 870,
+    "PrevDay": 0.000471,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-07-21T01:08:49.38"
   },
   {
     "MarketName": "ETH-XLM",
+<<<<<<< HEAD
     "High": 0.00048967,
     "Low": 0.000436,
     "Volume": 1445013.06786573,
@@ -3822,10 +7343,24 @@
     "OpenBuyOrders": 478,
     "OpenSellOrders": 910,
     "PrevDay": 0.00048501,
+=======
+    "High": 0.00052,
+    "Low": 0.00048971,
+    "Volume": 413460.19060184,
+    "Last": 0.00050998,
+    "BaseVolume": 207.82962865,
+    "TimeStamp": "2018-05-14T16:37:53.757",
+    "Bid": 0.000505,
+    "Ask": 0.00050892,
+    "OpenBuyOrders": 597,
+    "OpenSellOrders": 687,
+    "PrevDay": 0.00049915,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-07-21T01:08:49.38"
   },
   {
     "MarketName": "ETH-XMR",
+<<<<<<< HEAD
     "High": 0.304,
     "Low": 0.28768323,
     "Volume": 1519.94049754,
@@ -3837,10 +7372,24 @@
     "OpenBuyOrders": 490,
     "OpenSellOrders": 629,
     "PrevDay": 0.29900002,
+=======
+    "High": 0.29855436,
+    "Low": 0.27946461,
+    "Volume": 341.77587608,
+    "Last": 0.29430266,
+    "BaseVolume": 98.69548597,
+    "TimeStamp": "2018-05-14T16:37:49.83",
+    "Bid": 0.29446448,
+    "Ask": 0.29744633,
+    "OpenBuyOrders": 495,
+    "OpenSellOrders": 622,
+    "PrevDay": 0.28695424,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-07-21T01:08:49.367"
   },
   {
     "MarketName": "ETH-XRP",
+<<<<<<< HEAD
     "High": 0.00105526,
     "Low": 0.00094679,
     "Volume": 1413872.89097404,
@@ -3852,10 +7401,24 @@
     "OpenBuyOrders": 364,
     "OpenSellOrders": 872,
     "PrevDay": 0.00105309,
+=======
+    "High": 0.001021,
+    "Low": 0.0009884,
+    "Volume": 2100692.1966524,
+    "Last": 0.00100669,
+    "BaseVolume": 2101.50772179,
+    "TimeStamp": "2018-05-14T16:37:56.113",
+    "Bid": 0.00100104,
+    "Ask": 0.00100669,
+    "OpenBuyOrders": 426,
+    "OpenSellOrders": 882,
+    "PrevDay": 0.00100969,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-06-25T03:07:09.677"
   },
   {
     "MarketName": "ETH-ZEC",
+<<<<<<< HEAD
     "High": 0.36457222,
     "Low": 0.34582265,
     "Volume": 848.85092093,
@@ -3867,10 +7430,24 @@
     "OpenBuyOrders": 63,
     "OpenSellOrders": 456,
     "PrevDay": 0.36344605,
+=======
+    "High": 0.48225573,
+    "Low": 0.34582264,
+    "Volume": 2293.18568126,
+    "Last": 0.4160052,
+    "BaseVolume": 1001.72457788,
+    "TimeStamp": "2018-05-14T16:37:52.363",
+    "Bid": 0.4160052,
+    "Ask": 0.42011999,
+    "OpenBuyOrders": 141,
+    "OpenSellOrders": 367,
+    "PrevDay": 0.34722345,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-07-14T17:10:07.8"
   },
   {
     "MarketName": "ETH-ZRX",
+<<<<<<< HEAD
     "High": 0.00267805,
     "Low": 0.00227002,
     "Volume": 162218.72688174,
@@ -3882,10 +7459,24 @@
     "OpenBuyOrders": 253,
     "OpenSellOrders": 64,
     "PrevDay": 0.00262721,
+=======
+    "High": 0.00246031,
+    "Low": 0.00226092,
+    "Volume": 71088.33237929,
+    "Last": 0.00226801,
+    "BaseVolume": 164.84754422,
+    "TimeStamp": "2018-05-14T16:37:56.317",
+    "Bid": 0.00226611,
+    "Ask": 0.00230372,
+    "OpenBuyOrders": 158,
+    "OpenSellOrders": 84,
+    "PrevDay": 0.00234639,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2018-02-15T23:33:55.923"
   },
   {
     "MarketName": "USDT-ADA",
+<<<<<<< HEAD
     "High": 0.30944475,
     "Low": 0.24770001,
     "Volume": 24786331.35737003,
@@ -3897,10 +7488,24 @@
     "OpenBuyOrders": 884,
     "OpenSellOrders": 2612,
     "PrevDay": 0.30512849,
+=======
+    "High": 0.28426813,
+    "Low": 0.25034036,
+    "Volume": 13140794.33242169,
+    "Last": 0.2712,
+    "BaseVolume": 3484999.31744452,
+    "TimeStamp": "2018-05-14T16:37:56.537",
+    "Bid": 0.2712,
+    "Ask": 0.27317345,
+    "OpenBuyOrders": 904,
+    "OpenSellOrders": 2755,
+    "PrevDay": 0.28182171,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-12-29T19:24:39.987"
   },
   {
     "MarketName": "USDT-BCC",
+<<<<<<< HEAD
     "High": 1585.48220557,
     "Low": 1314.57805368,
     "Volume": 4421.14044505,
@@ -3912,10 +7517,24 @@
     "OpenBuyOrders": 450,
     "OpenSellOrders": 889,
     "PrevDay": 1583.57994421,
+=======
+    "High": 1503.49336819,
+    "Low": 1311.99000002,
+    "Volume": 2248.26985651,
+    "Last": 1487.02179962,
+    "BaseVolume": 3191384.00906598,
+    "TimeStamp": "2018-05-14T16:37:56.427",
+    "Bid": 1471.38530887,
+    "Ask": 1486.54999983,
+    "OpenBuyOrders": 405,
+    "OpenSellOrders": 927,
+    "PrevDay": 1472,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-08-01T18:34:04.873"
   },
   {
     "MarketName": "USDT-BTC",
+<<<<<<< HEAD
     "High": 9150,
     "Low": 8470.01,
     "Volume": 4610.77272061,
@@ -3927,10 +7546,24 @@
     "OpenBuyOrders": 3128,
     "OpenSellOrders": 2608,
     "PrevDay": 9110.001,
+=======
+    "High": 8816,
+    "Low": 8265,
+    "Volume": 2273.99540135,
+    "Last": 8753.7504,
+    "BaseVolume": 19443833.60249968,
+    "TimeStamp": "2018-05-14T16:37:54.77",
+    "Bid": 8752,
+    "Ask": 8789.9,
+    "OpenBuyOrders": 2655,
+    "OpenSellOrders": 2676,
+    "PrevDay": 8670.02544,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2015-12-11T06:31:40.633"
   },
   {
     "MarketName": "USDT-BTG",
+<<<<<<< HEAD
     "High": 67.08310518,
     "Low": 54.44112391,
     "Volume": 13799.35107625,
@@ -3942,10 +7575,24 @@
     "OpenBuyOrders": 262,
     "OpenSellOrders": 1571,
     "PrevDay": 67.23897991,
+=======
+    "High": 60.04999999,
+    "Low": 54.50000001,
+    "Volume": 7486.82004421,
+    "Last": 59.84999983,
+    "BaseVolume": 431125.65255321,
+    "TimeStamp": "2018-05-14T16:37:46.5",
+    "Bid": 59.25000017,
+    "Ask": 59.84999983,
+    "OpenBuyOrders": 255,
+    "OpenSellOrders": 1582,
+    "PrevDay": 59.55223452,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-11-21T19:17:29.543"
   },
   {
     "MarketName": "USDT-DASH",
+<<<<<<< HEAD
     "High": 468,
     "Low": 384.84400001,
     "Volume": 2093.96514855,
@@ -3957,10 +7604,24 @@
     "OpenBuyOrders": 134,
     "OpenSellOrders": 595,
     "PrevDay": 440,
+=======
+    "High": 455.07690225,
+    "Low": 386.00000017,
+    "Volume": 730.69475169,
+    "Last": 428.45641427,
+    "BaseVolume": 306217.43719903,
+    "TimeStamp": "2018-05-14T16:37:52.55",
+    "Bid": 428.45641445,
+    "Ask": 432.41999983,
+    "OpenBuyOrders": 121,
+    "OpenSellOrders": 566,
+    "PrevDay": 416.18071445,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-07-21T01:08:49.413"
   },
   {
     "MarketName": "USDT-ETC",
+<<<<<<< HEAD
     "High": 20.74099999,
     "Low": 17.00000003,
     "Volume": 127761.87977259,
@@ -3972,10 +7633,24 @@
     "OpenBuyOrders": 497,
     "OpenSellOrders": 1966,
     "PrevDay": 20.57000002,
+=======
+    "High": 19.14799955,
+    "Low": 17.30100001,
+    "Volume": 45202.96095977,
+    "Last": 18.77299862,
+    "BaseVolume": 824239.1320383,
+    "TimeStamp": "2018-05-14T16:37:56.897",
+    "Bid": 18.56906167,
+    "Ask": 18.77298628,
+    "OpenBuyOrders": 545,
+    "OpenSellOrders": 2000,
+    "PrevDay": 18.8,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-07-14T17:10:10.72"
   },
   {
     "MarketName": "USDT-ETH",
+<<<<<<< HEAD
     "High": 742.997,
     "Low": 667.000002,
     "Volume": 15845.38334418,
@@ -3987,10 +7662,24 @@
     "OpenBuyOrders": 1315,
     "OpenSellOrders": 1467,
     "PrevDay": 741.69179496,
+=======
+    "High": 742.037,
+    "Low": 684.1,
+    "Volume": 6291.29354651,
+    "Last": 733.89600003,
+    "BaseVolume": 4499080.11236979,
+    "TimeStamp": "2018-05-14T16:37:56.16",
+    "Bid": 731,
+    "Ask": 735.57762281,
+    "OpenBuyOrders": 1174,
+    "OpenSellOrders": 1464,
+    "PrevDay": 734.99,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-04-20T17:26:37.647"
   },
   {
     "MarketName": "USDT-LTC",
+<<<<<<< HEAD
     "High": 153.7383361,
     "Low": 136.79000001,
     "Volume": 14674.30028518,
@@ -4002,10 +7691,24 @@
     "OpenBuyOrders": 291,
     "OpenSellOrders": 1112,
     "PrevDay": 153,
+=======
+    "High": 151,
+    "Low": 134.116818,
+    "Volume": 11586.56696032,
+    "Last": 148.72300002,
+    "BaseVolume": 1655048.55089865,
+    "TimeStamp": "2018-05-14T16:37:56.443",
+    "Bid": 148.30000004,
+    "Ask": 149.60754035,
+    "OpenBuyOrders": 365,
+    "OpenSellOrders": 1093,
+    "PrevDay": 145.98899999,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-07-14T17:10:10.72"
   },
   {
     "MarketName": "USDT-NEO",
+<<<<<<< HEAD
     "High": 72.7499993,
     "Low": 60.85,
     "Volume": 35867.60665911,
@@ -4017,10 +7720,24 @@
     "OpenBuyOrders": 404,
     "OpenSellOrders": 1727,
     "PrevDay": 72.6543504,
+=======
+    "High": 69.16810049,
+    "Low": 62.21375534,
+    "Volume": 41523.47476339,
+    "Last": 67.701,
+    "BaseVolume": 2691525.70687616,
+    "TimeStamp": "2018-05-14T16:37:56.113",
+    "Bid": 67.24003157,
+    "Ask": 67.84999964,
+    "OpenBuyOrders": 441,
+    "OpenSellOrders": 1709,
+    "PrevDay": 67.94247999,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-08-04T16:58:43.087"
   },
   {
     "MarketName": "USDT-NXT",
+<<<<<<< HEAD
     "High": 0.20595302,
     "Low": 0.16500024,
     "Volume": 1676922.36949557,
@@ -4032,10 +7749,24 @@
     "OpenBuyOrders": 125,
     "OpenSellOrders": 765,
     "PrevDay": 0.2022,
+=======
+    "High": 0.18905544,
+    "Low": 0.16807097,
+    "Volume": 749563.14077519,
+    "Last": 0.18111101,
+    "BaseVolume": 135217.99461558,
+    "TimeStamp": "2018-05-14T16:37:56.553",
+    "Bid": 0.18112526,
+    "Ask": 0.18588516,
+    "OpenBuyOrders": 122,
+    "OpenSellOrders": 756,
+    "PrevDay": 0.18179999,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-12-29T19:29:48.42"
   },
   {
     "MarketName": "USDT-OMG",
+<<<<<<< HEAD
     "High": 15.88891528,
     "Low": 13.2,
     "Volume": 91136.64203645,
@@ -4047,10 +7778,24 @@
     "OpenBuyOrders": 353,
     "OpenSellOrders": 1570,
     "PrevDay": 15.72909607,
+=======
+    "High": 14.66,
+    "Low": 13.18,
+    "Volume": 38168.52426455,
+    "Last": 14.3,
+    "BaseVolume": 530893.10122555,
+    "TimeStamp": "2018-05-14T16:37:40.547",
+    "Bid": 14.26607414,
+    "Ask": 14.3,
+    "OpenBuyOrders": 381,
+    "OpenSellOrders": 1620,
+    "PrevDay": 14.50393869,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-09-15T23:49:44.83"
   },
   {
     "MarketName": "USDT-SC",
+<<<<<<< HEAD
     "High": 0.02500025,
     "Low": 0.0180002,
     "Volume": 43970125.97168784,
@@ -4062,10 +7807,24 @@
     "OpenBuyOrders": 175,
     "OpenSellOrders": 1114,
     "PrevDay": 0.02459559,
+=======
+    "High": 0.022,
+    "Low": 0.01966002,
+    "Volume": 17521435.6606327,
+    "Last": 0.02092051,
+    "BaseVolume": 366315.68222656,
+    "TimeStamp": "2018-05-14T16:37:54.053",
+    "Bid": 0.02092051,
+    "Ask": 0.02121846,
+    "OpenBuyOrders": 253,
+    "OpenSellOrders": 1231,
+    "PrevDay": 0.02185,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2018-04-23T20:43:33.953"
   },
   {
     "MarketName": "USDT-TRX",
+<<<<<<< HEAD
     "High": 0.07848429,
     "Low": 0.06287512,
     "Volume": 42609802.1704134,
@@ -4077,10 +7836,24 @@
     "OpenBuyOrders": 217,
     "OpenSellOrders": 853,
     "PrevDay": 0.07831282,
+=======
+    "High": 0.076,
+    "Low": 0.0680001,
+    "Volume": 30653773.34266375,
+    "Last": 0.0725,
+    "BaseVolume": 2218476.05050577,
+    "TimeStamp": "2018-05-14T16:37:54.583",
+    "Bid": 0.0725,
+    "Ask": 0.07297068,
+    "OpenBuyOrders": 272,
+    "OpenSellOrders": 836,
+    "PrevDay": 0.07503446,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2018-04-23T20:50:50.673"
   },
   {
     "MarketName": "USDT-TUSD",
+<<<<<<< HEAD
     "High": 1.003,
     "Low": 0.99573829,
     "Volume": 82101.05350199,
@@ -4092,10 +7865,24 @@
     "OpenBuyOrders": 94,
     "OpenSellOrders": 85,
     "PrevDay": 0.998,
+=======
+    "High": 1.001499,
+    "Low": 0.997,
+    "Volume": 113257.32189854,
+    "Last": 1.00148993,
+    "BaseVolume": 112955.3853177,
+    "TimeStamp": "2018-05-14T16:37:55.303",
+    "Bid": 0.997,
+    "Ask": 1.00148993,
+    "OpenBuyOrders": 75,
+    "OpenSellOrders": 88,
+    "PrevDay": 0.997,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2018-03-29T17:58:59.217"
   },
   {
     "MarketName": "USDT-XMR",
+<<<<<<< HEAD
     "High": 222.7035,
     "Low": 195.002,
     "Volume": 3210.84510091,
@@ -4107,10 +7894,24 @@
     "OpenBuyOrders": 133,
     "OpenSellOrders": 717,
     "PrevDay": 221.54085048,
+=======
+    "High": 219,
+    "Low": 194.97000017,
+    "Volume": 1956.82701416,
+    "Last": 218,
+    "BaseVolume": 406675.02273788,
+    "TimeStamp": "2018-05-14T16:37:56.787",
+    "Bid": 218,
+    "Ask": 218.03898607,
+    "OpenBuyOrders": 142,
+    "OpenSellOrders": 685,
+    "PrevDay": 209.5,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-07-21T01:08:49.397"
   },
   {
     "MarketName": "USDT-XRP",
+<<<<<<< HEAD
     "High": 0.7799122,
     "Low": 0.647,
     "Volume": 9844787.47621209,
@@ -4122,10 +7923,24 @@
     "OpenBuyOrders": 544,
     "OpenSellOrders": 3202,
     "PrevDay": 0.77991219,
+=======
+    "High": 0.75,
+    "Low": 0.686,
+    "Volume": 2500349.22013157,
+    "Last": 0.73999999,
+    "BaseVolume": 1810124.44851832,
+    "TimeStamp": "2018-05-14T16:37:56.77",
+    "Bid": 0.73720001,
+    "Ask": 0.73999,
+    "OpenBuyOrders": 632,
+    "OpenSellOrders": 3148,
+    "PrevDay": 0.73600011,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-07-14T17:10:10.737"
   },
   {
     "MarketName": "USDT-XVG",
+<<<<<<< HEAD
     "High": 0.07221001,
     "Low": 0.05670002,
     "Volume": 42550892.92723314,
@@ -4137,10 +7952,24 @@
     "OpenBuyOrders": 556,
     "OpenSellOrders": 2967,
     "PrevDay": 0.07220276,
+=======
+    "High": 0.06298008,
+    "Low": 0.0562,
+    "Volume": 14630906.60497848,
+    "Last": 0.06007324,
+    "BaseVolume": 872559.99582171,
+    "TimeStamp": "2018-05-14T16:37:56.41",
+    "Bid": 0.06007324,
+    "Ask": 0.0606146,
+    "OpenBuyOrders": 511,
+    "OpenSellOrders": 3005,
+    "PrevDay": 0.06236485,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-12-29T19:29:18.357"
   },
   {
     "MarketName": "USDT-ZEC",
+<<<<<<< HEAD
     "High": 271.51977175,
     "Low": 238.12764369,
     "Volume": 2241.92485354,
@@ -4152,6 +7981,19 @@
     "OpenBuyOrders": 151,
     "OpenSellOrders": 809,
     "PrevDay": 269.41171702,
+=======
+    "High": 346.499,
+    "Low": 243.05901586,
+    "Volume": 9185.35004158,
+    "Last": 307,
+    "BaseVolume": 2941495.6205132,
+    "TimeStamp": "2018-05-14T16:37:56.007",
+    "Bid": 305.99999999,
+    "Ask": 307,
+    "OpenBuyOrders": 256,
+    "OpenSellOrders": 675,
+    "PrevDay": 255.23,
+>>>>>>> d4b433505da392773a310547fcd001b62f3e287c
     "Created": "2017-07-14T17:10:10.673"
   }
 ]
