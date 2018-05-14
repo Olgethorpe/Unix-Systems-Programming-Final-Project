@@ -1,5 +1,5 @@
 #!/bin/bash
-# USAGE: getHighLow.sh <FILE NAME (W/O Extenstion)> <NUMBER OF ELEMENTS> <H(igh) or L(ow)> 
+# USAGE: getHighLow.sh <FILE NAME (W/O Extenstion)> <NUMBER OF ELEMENTS> <H(igh) or L(ow)>
 paramToSort=$1
 numberToSort=$2
 SequenceToSort=$3
@@ -42,7 +42,6 @@ if [ "$SequenceToSort" = "H" ]
 fi
 ARRAY=(1 2 3 4 5)
 
-<<<<<<< HEAD
 i=0
 while read line; do
     arrKey=0
@@ -74,26 +73,24 @@ while read line; do
     then
     arrKey=10
     fi
-   
+
     ARRAY[$i]=$arrKey
     i=$((i+1))
-    
+
 done <config.txt
-sort -n$sequence -k$key ./pulled_data/aggregate.txt > sortTemp.txt
+sort -n$sequence -k$key ./aggregate.txt > sortTemp.txt
 head -$numberToSort sortTemp.txt | awk -v x_0=${ARRAY[0]} -v x_1=${ARRAY[1]} -v x_2=${ARRAY[2]} -v x_3=${ARRAY[3]} -v x_4=${ARRAY[4]} -F, '{print $7","$x_0","$x_1","$x_2","$x_3","$x_4}'
 
 
-=======
-cat -n ./pulled_data/$paramToSort.txt | sort --key=2 -n -$sequence  | sed -e's/\t/:/' |sed -e 's/\s\+//g'| head -$nuberToSort > highLowTemp.txt
+#cat -n ./pulled_data/$paramToSort.txt | sort --key=2 -n -$sequence  | sed -e's/\t/:/' |sed -e 's/\s\+//g'| head -$nuberToSort > highLowTemp.txt
 
-> nodedata.txt
+#> nodedata.txt
 
-while read line; do
-    tickerNum=$( echo "$line" |cut -d\: -f1 )
-    amount=$( echo "$line" |cut -d\: -f2 )
-
-    tickerName=`sed "${tickerNum}q;d" ./pulled_data/MarketName.txt`
-    echo "$tickerName $amount"
-    echo "$tickerName $amount" >> nodedata.txt
-done <highLowTemp.txt
->>>>>>> d4b433505da392773a310547fcd001b62f3e287c
+#while read line; do
+#    tickerNum=$( echo "$line" |cut -d\: -f1 )
+#    amount=$( echo "$line" |cut -d\: -f2 )
+#
+#    tickerName=`sed "${tickerNum}q;d" ./pulled_data/MarketName.txt`
+#    echo "$tickerName $amount"
+#    echo "$tickerName $amount" >> nodedata.txt
+#done <highLowTemp.txt

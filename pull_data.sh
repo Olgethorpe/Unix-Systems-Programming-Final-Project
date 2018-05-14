@@ -15,6 +15,7 @@ pull_data() {
 clean_data() {
   for ((i=0;i<${#TEXT_FILE_NAMES[@]};i++))
     do
+      > "pulled_data/${TEXT_FILE_NAMES[$i]}.txt"
       for value in $(jq ".[].${TEXT_FILE_NAMES[$i]}" ${JSON_FILE_NAMES[0]}.json)
         do
           echo ${value//\"/} >> "pulled_data/${TEXT_FILE_NAMES[$i]}.txt"
@@ -34,5 +35,5 @@ clean_data() {
       pull_data
       clean_data
       paste -d "," ./pulled_data/*.txt > "aggregate.txt"
-      sleep 1
+      sleep 10
     done
