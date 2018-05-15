@@ -4,11 +4,11 @@ let sleep = require('sleep');
 var Table = require('cli-table');
 var colors = require('colors');
 
-let headers = ['Ticker', 'OpenBuyOrders', 'OpenSellOrders', 'Ask', 'Bid', 'Last',]
+let headers = ['Ticker', 'Volume', 'OpenSellOrders', 'Ask', 'Bid', 'Last']
 
 let table = new Table({
 	head: headers,
-	colWidths: headers.map(function(a) {return 30;})
+	colWidths: headers.map(function(a) {return 20;})
 });
 
 let counter = 0;
@@ -24,33 +24,35 @@ function addToMap(key, value) {
 }
 
 function main() {
-	var lr = new LineByLineReader('nodeData.txt');
+	var lr1 = new LineByLineReader('nodeData.txt');
+	var lr2 = new LineByLineReader('nodeDataOld.txt');
 	//console.log('started main');
 
-	lr.on('error', function(err) {
+	lr1.on('error', function(err) {
 		console.log(err);
 	});
-	lr.on('line', function(line) {
+	lr1.on('line', function(line) {
 		line = line.split(',');
-		if (counter++ < 20){
+		if (counter++ < 15){
 			//console.log("line:\n" + line[6]);
 			let changed = false;
-			let addresult = addToMap(line[0], line[5]);
-			if (addresult == line[5])
-				table.push(line.yellow);
-			else if (addresult > line[5])
-				table.push(line.red)
-			else if (addresult < line[5])
-				table.push(line.green)
-			
+			let addresult = addToMap(line[0], line[4]);
+			if (addresult == line[4]) {
+				line[0] = line[0].yellow;
+			}
+			else if (addresult > line[3])
+				line[0] = line[0].red;
+			else if (addresult < line[3])
+				line[0] = line[0].green;
+			table.push(line);
 		}
 
 	});
-	lr.on('end', function() {
+	lr1.on('end', function() {
 		// call chart callback
 		console.log('\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n')
 		console.log(table.toString());
-		//lr.close();
+		//lr1.close();
 
 	});
 }
