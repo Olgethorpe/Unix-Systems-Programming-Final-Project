@@ -37,12 +37,13 @@ function main() {
 			//console.log("line:\n" + line[6]);
 			let changed = false;
 			let addresult = addToMap(line[0], line[4]);
+			// Colors would go here
 			if (addresult == line[4]) {
 				line[0] = line[0].yellow;
 			}
-			else if (addresult > line[3])
+			else if (addresult > line[4])
 				line[0] = line[0].red;
-			else if (addresult < line[3])
+			else if (addresult < line[4])
 				line[0] = line[0].green;
 			table.push(line);
 		}
