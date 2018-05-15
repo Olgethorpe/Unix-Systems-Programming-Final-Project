@@ -12,6 +12,16 @@ let table = new Table({
 });
 
 let counter = 0;
+let cashmap = new Map();
+
+function addToMap(key, value) {
+	if (cashmap.has(key)) {
+		return cashmap.get(key);
+	} else {
+		cashmap.set(key, value);
+		return value;
+	}
+}
 
 function main() {
 	var lr = new LineByLineReader('nodeData.txt');
@@ -25,7 +35,14 @@ function main() {
 		if (counter++ < 20){
 			//console.log("line:\n" + line[6]);
 			let changed = false;
-			table.push(line);
+			let addresult = addToMap(line[0], line[5]);
+			if (addresult == line[5])
+				table.push(line.yellow);
+			else if (addresult > line[5])
+				table.push(line.red)
+			else if (addresult < line[5])
+				table.push(line.green)
+			
 		}
 
 	});
