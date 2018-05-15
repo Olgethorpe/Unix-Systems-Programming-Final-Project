@@ -1,5 +1,4 @@
-OpenBuyOrders
-OpenSellOrders
-Ask
-Bid
-Last
+Columns: MarketName,OpenBuyOrders,OpenSellOrders,Ask,Bid,Last,High,Low,Volume,BaseVolume
+KeyBinds: OpenBuyOrders,OpenSellOrders,Ask,Bid,Last,High,Low,Volume,BaseVolume
+RowNum: 20
+HighOrLow: Low
